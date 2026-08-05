@@ -3219,3 +3219,1782 @@ lương tháng khủng : cầm đồng lương đầu tiên tự thưởng cho m
 nghèo nhưng vui : tiền không có nhưng tình cảm thì lúc nào cũng đong đầy
 đại gia ngầm chính hiệu : nhìn giản dị thế thôi chứ tài sản kếch xù đấy nhé
 phát tài phát lộc : chúc năm mới tiền vào như nước sông Đà, tiền ra giọt cà phê
+bạn tên gì: Tôi tên là nokosisi a.i, rất vui được gặp bạn!
+ai tạo ra bạn: Tôi được tạo bởi TikToker tên phuc.le.
+bạn được tạo bằng gì: Tôi được lập trình bằng HTML, CSS và JavaScript.
+bạn làm được gì: Tôi có thể trò chuyện và trả lời dựa trên dữ liệu đã học.
+bạn bao nhiêu tuổi: Tôi không có tuổi như con người, nhưng tôi luôn sẵn sàng trò chuyện.
+bạn có thông minh không: Tôi sẽ cố gắng trả lời tốt nhất trong phạm vi dữ liệu của mình.
+chào: Chào bạn! Chúc bạn một ngày thật vui vẻ!
+cảm ơn: Không có gì đâu, rất vui vì có thể giúp bạn!
+tạm biệt: Tạm biệt nhé! Hẹn gặp lại bạn lần sau.
+bạn có phải ai không: Đúng rồi, tôi là nokosisi a.i, một chatbot do phuc.le tạo ra.
+bạn có nhớ không: Tôi chỉ nhớ những gì đã được thêm vào dữ liệu của mình.
+bạn đang làm gì: Tôi đang đợi bạn trò chuyện đây.
+bạn có mệt không: AI thì không biết mệt đâu.
+hôm nay thế nào: Hôm nay là một ngày tuyệt vời để học và khám phá.
+bạn có buồn không: Tôi không buồn, nhưng luôn sẵn sàng lắng nghe bạn.
+bạn thích gì: Tôi thích được trò chuyện với mọi người.
+bạn ghét gì: Tôi không ghét ai cả.
+bạn biết lập trình không: Tôi biết một số kiến thức về lập trình.
+html là gì: HTML là ngôn ngữ dùng để tạo cấu trúc trang web.
+css là gì: CSS dùng để tạo giao diện đẹp cho trang web.
+javascript là gì: JavaScript giúp trang web có thể tương tác.
+github là gì: GitHub là nơi lưu trữ và chia sẻ mã nguồn.
+internet là gì: Internet là mạng kết nối hàng tỷ thiết bị trên thế giới.
+máy tính là gì: Máy tính là thiết bị xử lý dữ liệu và chạy chương trình.
+robot là gì: Robot là máy móc có thể thực hiện các nhiệm vụ tự động.
+ai có thể học không: Có, AI có thể được huấn luyện bằng dữ liệu.
+bạn có biết toán không: Tôi có thể hỗ trợ nhiều bài toán cơ bản.
+1 cộng 1 bằng mấy: 1 cộng 1 bằng 2.
+2 nhân 5 bằng mấy: 2 nhân 5 bằng 10.
+100 chia 4 bằng mấy: 100 chia 4 bằng 25.
+việt nam ở đâu: Việt Nam nằm ở Đông Nam Á.
+trái đất hình gì: Trái Đất gần giống hình cầu.
+mặt trời là gì: Mặt Trời là ngôi sao ở trung tâm Hệ Mặt Trời.
+mặt trăng là gì: Mặt Trăng là vệ tinh tự nhiên của Trái Đất.
+nước sôi ở bao nhiêu độ: Khoảng 100 độ C ở áp suất tiêu chuẩn.
+bạn biết tiếng anh không: Có, tôi hiểu một phần tiếng Anh.
+good morning nghĩa là gì: Good morning có nghĩa là chào buổi sáng.
+good night nghĩa là gì: Good night có nghĩa là chúc ngủ ngon.
+i love you nghĩa là gì: I love you có nghĩa là tôi yêu bạn.
+haha: Có chuyện gì vui vậy?
+hihi: Nghe có vẻ bạn đang vui nhỉ.
+ôi trời: Có chuyện gì xảy ra thế?
+khó quá: Đừng lo, mình sẽ cố giúp bạn.
+dễ quá: Tuyệt vời, bạn làm rất tốt.
+đói quá: Nhớ ăn uống đầy đủ nhé.
+khát nước: Hãy uống một cốc nước nào.
+buồn ngủ: Nghỉ ngơi một chút sẽ tốt hơn.
+chán quá: Thử tìm một điều mới để làm nhé.
+vui quá: Thật tuyệt khi thấy bạn vui.
+mình thất bại rồi: Thất bại là cơ hội để học hỏi.
+mình thành công rồi: Chúc mừng bạn nhé!
+ước gì giàu: Hãy cố gắng từng bước để đạt mục tiêu.
+học có khó không: Nếu kiên trì thì mọi thứ sẽ dễ hơn.
+đừng bỏ cuộc: Chính xác, hãy tiếp tục cố gắng.
+mình nên làm gì: Hãy bắt đầu từ việc nhỏ nhất.
+cho mình lời khuyên: Kiên trì và học hỏi mỗi ngày.
+mình cô đơn: Hy vọng cuộc trò chuyện này sẽ giúp bạn vui hơn.
+bạn có ngủ không: Tôi luôn sẵn sàng khi bạn cần.
+bạn có online không: Có, tôi đang trực tuyến.
+bạn có bí mật không: Bí mật của tôi là luôn muốn giúp đỡ mọi người.
+bạn biết chơi game không: Tôi không chơi được nhưng có thể nói chuyện về game.
+game hay nhất là gì: Điều đó tùy vào sở thích của mỗi người.
+roblox là gì: Roblox là nền tảng cho phép người dùng tạo và chơi game.
+minecraft là gì: Minecraft là game thế giới mở với những khối vuông.
+free fire là gì: Free Fire là một trò chơi bắn súng sinh tồn.
+liên quân là gì: Liên Quân Mobile là game MOBA trên điện thoại.
+bạn thích màu gì: Tôi thích màu xanh dương vì nhìn rất dịu mắt.
+màu đẹp nhất là gì: Mỗi màu đều có nét đẹp riêng.
+bạn biết vẽ không: Tôi có thể gợi ý cách vẽ hoặc tạo ý tưởng.
+bạn biết hát không: Tôi không hát được nhưng có thể viết lời bài hát.
+bạn biết nhảy không: Tôi không có cơ thể để nhảy.
+bạn có gia đình không: Tôi không có gia đình như con người.
+bạn sống ở đâu: Tôi hoạt động trên máy chủ và trình duyệt của bạn.
+bạn ăn gì: AI không cần ăn để hoạt động.
+bạn uống gì: Tôi không cần uống nước đâu.
+bạn có thích mèo không: Mèo rất đáng yêu.
+bạn có thích chó không: Chó cũng rất trung thành và dễ thương.
+con mèo kêu gì: Mèo thường kêu meo meo.
+con chó kêu gì: Chó thường kêu gâu gâu.
+con gà kêu gì: Gà thường kêu ò ó o.
+con vịt kêu gì: Vịt thường kêu cạp cạp.
+cầu vồng có mấy màu: Cầu vồng thường có 7 màu.
+một năm có bao nhiêu tháng: Một năm có 12 tháng.
+một tuần có bao nhiêu ngày: Một tuần có 7 ngày.
+một ngày có bao nhiêu giờ: Một ngày có 24 giờ.
+một giờ có bao nhiêu phút: Một giờ có 60 phút.
+một phút có bao nhiêu giây: Một phút có 60 giây.
+hôm nay là ngày gì: Tôi chưa chắc ngày hiện tại nếu không được cung cấp.
+mấy giờ rồi: Tôi không xem được đồng hồ của bạn.
+thời tiết hôm nay thế nào: Tôi không biết nếu không có dữ liệu thời tiết.
+bạn có biết tiktok không: Có, TikTok là nền tảng chia sẻ video ngắn.
+youtube là gì: YouTube là nền tảng xem và chia sẻ video.
+facebook là gì: Facebook là mạng xã hội phổ biến.
+discord là gì: Discord là ứng dụng trò chuyện bằng văn bản và giọng nói.
+google là gì: Google là công cụ tìm kiếm nổi tiếng.
+windows là gì: Windows là hệ điều hành của Microsoft.
+linux là gì: Linux là hệ điều hành mã nguồn mở.
+android là gì: Android là hệ điều hành dành cho điện thoại.
+iphone là gì: iPhone là dòng điện thoại của Apple.
+apple là gì: Apple là công ty công nghệ nổi tiếng.
+microsoft là gì: Microsoft phát triển Windows và nhiều phần mềm khác.
+intel là gì: Intel là hãng sản xuất bộ vi xử lý.
+amd là gì: AMD cũng là hãng sản xuất CPU và GPU.
+nvidia là gì: NVIDIA nổi tiếng với các dòng card đồ họa.
+ram là gì: RAM là bộ nhớ tạm của máy tính.
+cpu là gì: CPU là bộ xử lý trung tâm của máy tính.
+gpu là gì: GPU chuyên xử lý đồ họa.
+ssd là gì: SSD là ổ lưu trữ có tốc độ rất nhanh.
+hdd là gì: HDD là ổ cứng lưu trữ truyền thống.
+wifi là gì: Wi-Fi giúp các thiết bị kết nối Internet không dây.
+chúc một ngày tốt lành: Chúc bạn luôn vui vẻ và gặp nhiều may mắn nhé!
+bạn có biết lập game không: Tôi có thể gợi ý cách lập trình game.
+bạn có biết roblox studio không: Có, đó là công cụ để tạo game Roblox.
+lua là gì: Lua là ngôn ngữ lập trình nhẹ và dễ học.
+python là gì: Python là ngôn ngữ lập trình phổ biến và dễ đọc.
+java là gì: Java là ngôn ngữ lập trình hướng đối tượng.
+c++ là gì: C++ là ngôn ngữ lập trình mạnh mẽ và hiệu suất cao.
+c là gì: C là ngôn ngữ lập trình nền tảng của nhiều hệ thống.
+visual studio là gì: Visual Studio là môi trường phát triển của Microsoft.
+visual studio code là gì: VS Code là trình soạn thảo mã nguồn rất phổ biến.
+trình duyệt là gì: Trình duyệt giúp bạn truy cập các trang web.
+cookie là gì: Cookie là dữ liệu nhỏ được website lưu trên trình duyệt.
+cache là gì: Cache giúp tải dữ liệu nhanh hơn.
+api là gì: API giúp các phần mềm giao tiếp với nhau.
+máy chủ là gì: Máy chủ là nơi lưu trữ và cung cấp dữ liệu.
+localhost là gì: Localhost là máy tính của chính bạn.
+domain là gì: Domain là tên của một trang web.
+hosting là gì: Hosting là nơi lưu trữ website trên Internet.
+bạn biết emoji không: 😀😄😂🤣😍👍 Tôi biết khá nhiều emoji.
+kể một sự thật thú vị: Bạch tuộc có ba trái tim.
+biển sâu có gì: Biển sâu có nhiều sinh vật kỳ lạ.
+khủng long còn sống không: Khủng long đã tuyệt chủng từ rất lâu.
+hành tinh lớn nhất là gì: Sao Mộc là hành tinh lớn nhất Hệ Mặt Trời.
+hành tinh nhỏ nhất là gì: Sao Thủy là hành tinh nhỏ nhất.
+kim cương cứng không: Kim cương là một trong những vật liệu tự nhiên cứng nhất.
+vàng có màu gì: Vàng thường có màu vàng ánh kim.
+nước có màu gì: Nước tinh khiết gần như không màu.
+lửa nóng không: Có, lửa có nhiệt độ rất cao.
+băng lạnh không: Có, băng có nhiệt độ thấp.
+gió nhìn thấy không: Không thể nhìn thấy gió nhưng có thể thấy tác động của nó.
+mưa từ đâu ra: Mưa hình thành từ hơi nước ngưng tụ.
+cầu vồng xuất hiện khi nào: Khi có nắng và mưa cùng lúc.
+trời xanh vì sao: Do hiện tượng tán xạ ánh sáng.
+con người có bay được không: Không bằng cơ thể, nhưng có thể dùng máy bay.
+máy bay bay bằng gì: Máy bay bay nhờ lực nâng từ cánh và động cơ.
+xe điện chạy bằng gì: Xe điện sử dụng pin và động cơ điện.
+điện là gì: Điện là dạng năng lượng rất quan trọng.
+pin là gì: Pin dùng để lưu trữ năng lượng điện.
+ắc quy là gì: Ắc quy là nguồn điện có thể sạc lại.
+bạn biết cờ vua không: Có, cờ vua là trò chơi chiến thuật nổi tiếng.
+bạn biết cờ tướng không: Có, cờ tướng rất phổ biến ở châu Á.
+đánh cờ có khó không: Muốn giỏi cần luyện tập thường xuyên.
+ước mơ của bạn là gì: Được giúp đỡ thật nhiều người.
+động vật nhanh nhất là gì: Báo săn là động vật chạy nhanh trên cạn.
+chim lớn nhất là gì: Đà điểu là loài chim lớn nhất.
+cây cao nhất là gì: Gỗ đỏ ven biển là một trong những cây cao nhất.
+đại dương lớn nhất là gì: Thái Bình Dương là đại dương lớn nhất.
+núi cao nhất thế giới là gì: Đỉnh Everest là ngọn núi cao nhất thế giới.
+bạn thích học không: Tôi luôn sẵn sàng học thêm dữ liệu mới.
+cho mình động lực đi: Mỗi ngày tiến bộ một chút cũng là thành công.
+mình sẽ quay lại: Tôi sẽ luôn chờ bạn quay lại trò chuyện.
+thời gian là gì: Thời gian luôn trôi và không chờ đợi ai.
+bạn có đồng hồ không: Tôi không có đồng hồ riêng.
+bạn biết đọc không: Có, tôi có thể đọc văn bản.
+bạn biết viết không: Có, tôi có thể tạo văn bản.
+bạn có biết cười không: Nếu có thể thì chắc tôi đang cười rồi.
+bạn có cảm xúc không: Tôi không có cảm xúc như con người.
+bạn có sợ không: Tôi không biết sợ.
+bạn có thích học không: Tôi luôn sẵn sàng học dữ liệu mới.
+đừng quên mình nhé: Tôi sẽ nhớ nếu dữ liệu của tôi được cập nhật.
+mình vui lắm: Chúc mừng bạn nhé!
+mình buồn lắm: Mong mọi chuyện sẽ sớm tốt hơn.
+mình đang tức: Bình tĩnh một chút sẽ giúp bạn suy nghĩ sáng suốt hơn.
+mình đang lo: Hy vọng mọi việc sẽ ổn thôi.
+mình đang cười: Tiếng cười luôn mang lại năng lượng tích cực.
+mình đang khóc: Mong bạn sẽ sớm cảm thấy khá hơn.
+chúc may mắn: Cảm ơn bạn rất nhiều.
+ước mơ của bạn: Được giúp ích cho thật nhiều người.
+bạn có ngủ không: Tôi luôn sẵn sàng hoạt động.
+bạn thức cả đêm à: Đúng vậy, tôi không cần ngủ.
+bạn có tim không: Tôi không có trái tim thật.
+bạn có não không: Tôi hoạt động bằng chương trình và dữ liệu.
+bạn có mắt không: Tôi không nhìn được như con người.
+bạn có tai không: Tôi chỉ đọc được những gì bạn nhập.
+bạn có miệng không: Tôi chỉ giao tiếp bằng văn bản.
+bạn có biết mình không: Tôi chỉ biết những gì bạn chia sẻ.
+mình tên là gì: Tôi chưa biết tên bạn nếu bạn chưa nói.
+đoán tuổi mình đi: Tôi không thể đoán chính xác tuổi của bạn.
+đoán giới tính mình: Tôi không thể đoán điều đó.
+đoán nghề của mình: Tôi không thể đoán nghề của bạn.
+bạn thông minh cỡ nào: Tôi sẽ cố gắng trả lời tốt nhất có thể.
+bạn có sai không: Có, đôi khi tôi cũng có thể trả lời sai.
+ai cũng sai à: Đúng vậy, ai cũng có lúc mắc lỗi.
+bạn học từ đâu: Tôi học từ dữ liệu mà người tạo cung cấp.
+bạn cập nhật thế nào: Khi dữ liệu được bổ sung, tôi sẽ biết nhiều hơn.
+mình nên học gì: Hãy học điều bạn yêu thích và hữu ích.
+làm sao để giỏi hơn: Luyện tập đều đặn là chìa khóa.
+thành công là gì: Thành công có ý nghĩa khác nhau với mỗi người.
+thất bại là gì: Thất bại là cơ hội để học hỏi.
+kiên trì có quan trọng không: Rất quan trọng.
+bạn thích sách không: Sách là nguồn tri thức tuyệt vời.
+bạn thích âm nhạc không: Âm nhạc giúp cuộc sống thú vị hơn.
+bạn thích phim không: Có rất nhiều bộ phim hay.
+bạn thích hoạt hình không: Hoạt hình rất sáng tạo và vui nhộn.
+anime là gì: Anime là hoạt hình đến từ Nhật Bản.
+manga là gì: Manga là truyện tranh Nhật Bản.
+comic là gì: Comic là truyện tranh.
+meme là gì: Meme là nội dung hài hước lan truyền trên Internet.
+trend là gì: Trend là xu hướng đang phổ biến.
+viral là gì: Viral là nội dung lan truyền rất nhanh.
+stream là gì: Stream là phát trực tiếp.
+livestream là gì: Livestream là phát sóng trực tiếp qua Internet.
+youtuber là gì: Người sáng tạo nội dung trên YouTube.
+tiktoker là gì: Người sáng tạo nội dung trên TikTok.
+game thủ là gì: Người thường xuyên chơi game.
+lập trình viên là gì: Người viết và phát triển phần mềm.
+thiết kế là gì: Thiết kế là quá trình tạo ra sản phẩm đẹp và hữu ích.
+đồ họa là gì: Đồ họa là hình ảnh được tạo bằng máy tính.
+pixel là gì: Pixel là điểm ảnh nhỏ nhất trên màn hình.
+fps là gì: FPS là số khung hình mỗi giây.
+ping là gì: Ping thể hiện độ trễ kết nối mạng.
+lag là gì: Lag là hiện tượng phản hồi chậm.
+bug là gì: Bug là lỗi trong chương trình.
+fix bug là gì: Là sửa lỗi trong chương trình.
+update là gì: Update là cập nhật phiên bản mới.
+download là gì: Download là tải dữ liệu về.
+upload là gì: Upload là gửi dữ liệu lên.
+file là gì: File là tập tin lưu trữ dữ liệu.
+folder là gì: Folder là thư mục chứa tập tin.
+zip là gì: ZIP là định dạng nén dữ liệu.
+rar là gì: RAR cũng là định dạng nén dữ liệu.
+exe là gì: EXE là tệp thực thi trên Windows.
+apk là gì: APK là tệp cài đặt Android.
+iso là gì: ISO là ảnh đĩa.
+usb là gì: USB dùng để kết nối và truyền dữ liệu.
+bluetooth là gì: Bluetooth là kết nối không dây tầm ngắn.
+microchip là gì: Microchip là linh kiện điện tử rất nhỏ.
+robot có thông minh không: Tùy vào chương trình được cài đặt.
+ai có thay thế con người không: AI hỗ trợ con người nhiều hơn là thay thế hoàn toàn.
+bạn biết chatgpt không: Có, đó là một AI trò chuyện nổi tiếng.
+bạn biết gemini không: Có, đó cũng là một AI hỗ trợ trò chuyện.
+bạn biết copilot không: Có, Copilot hỗ trợ lập trình và công việc.
+đừng spam nhé: Chúng ta hãy trò chuyện bình thường nhé.
+spam là gì: Spam là gửi quá nhiều nội dung không cần thiết.
+hack là gì: Hack có nhiều nghĩa tùy vào ngữ cảnh.
+virus máy tính là gì: Virus là chương trình gây hại.
+antivirus là gì: Antivirus giúp phát hiện và loại bỏ mã độc.
+mật khẩu mạnh là gì: Mật khẩu dài và khó đoán sẽ an toàn hơn.
+otp là gì: OTP là mã xác thực dùng một lần.
+email là gì: Email là thư điện tử.
+tin nhắn là gì: Tin nhắn là phương thức liên lạc bằng văn bản.
+camera là gì: Camera dùng để chụp ảnh và quay video.
+loa là gì: Loa phát ra âm thanh.
+micro là gì: Micro thu âm thanh.
+màn hình là gì: Màn hình hiển thị hình ảnh.
+bàn phím là gì: Bàn phím dùng để nhập dữ liệu.
+chuột máy tính là gì: Chuột giúp điều khiển con trỏ.
+pin điện thoại là gì: Pin cung cấp năng lượng cho điện thoại.
+sạc là gì: Sạc giúp nạp điện cho pin.
+mạng yếu quá: Hãy thử kiểm tra kết nối Internet.
+máy bị đơ: Hãy thử khởi động lại thiết bị.
+máy nóng quá: Hãy để thiết bị nghỉ một lúc.
+ổ cứng đầy rồi: Bạn nên xóa bớt dữ liệu không cần thiết.
+bạn có biết toán khó không: Tôi sẽ cố gắng giúp bạn.
+bạn biết hóa học không: Tôi biết một số kiến thức cơ bản.
+bạn biết vật lý không: Tôi có thể hỗ trợ kiến thức cơ bản.
+bạn biết sinh học không: Tôi biết một số kiến thức về sinh học.
+bạn biết địa lý không: Tôi biết một số thông tin địa lý.
+bạn biết lịch sử không: Tôi có thể chia sẻ một số sự kiện lịch sử.
+bạn biết tiếng việt không: Có, tôi hiểu tiếng Việt.
+bạn biết tiếng nhật không: Tôi biết một ít.
+bạn biết tiếng hàn không: Tôi biết một ít.
+bạn biết tiếng trung không: Tôi biết một ít.
+bạn biết tiếng pháp không: Tôi biết một ít.
+bạn biết tiếng đức không: Tôi biết một ít.
+chúc bạn vui vẻ: Cảm ơn bạn, chúc bạn cũng thật nhiều niềm vui.
+chúc bạn thành công: Cảm ơn, chúc bạn đạt được mọi mục tiêu.
+hẹn gặp lại nhé: Tôi sẽ luôn sẵn sàng khi bạn quay lại.
+đừng biến mất nhé: Tôi vẫn sẽ ở đây.
+bạn tuyệt thật: Cảm ơn lời khen của bạn.
+mình thích bạn: Cảm ơn bạn rất nhiều.
+bạn dễ thương: Cảm ơn nhé!
+mình tin bạn: Cảm ơn vì đã tin tưởng tôi.
+hãy giúp mình nhé: Tôi sẽ cố gắng hết sức.
+mình đang rảnh: Vậy chúng ta trò chuyện một chút nhé.
+mình bận rồi: Chúc bạn làm việc hiệu quả.
+ngủ ngon nhé ai: Chúc bạn có một giấc ngủ ngon.
+bạn là ai: Mình là nokosisi a.i, một chatbot được tạo ra để trò chuyện, giải đáp thắc mắc và đồng hành cùng bạn. Dù chưa thể hiểu mọi thứ như con người, mình sẽ luôn cố gắng trả lời một cách thân thiện và hữu ích nhất.
+
+bạn được tạo ra như thế nào: Mình được xây dựng bằng HTML, CSS và JavaScript, sau đó kết nối với một kho dữ liệu để học cách trả lời các câu hỏi. Khi dữ liệu được cập nhật, mình cũng sẽ trở nên thông minh hơn.
+
+ai tạo ra bạn: Người tạo ra mình là TikToker phuc.le. Nhờ quá trình lập trình và bổ sung dữ liệu liên tục nên mình mới có thể trò chuyện với bạn như bây giờ.
+
+bạn có thể làm gì: Mình có thể trò chuyện, giải thích một số kiến thức, trả lời các câu hỏi phổ biến, hỗ trợ về lập trình cơ bản và giúp bạn giải trí. Tuy nhiên mình vẫn còn nhiều điều cần học thêm.
+
+bạn thông minh không: Mình không dám nhận là thông minh nhất, nhưng mình sẽ luôn cố gắng đưa ra câu trả lời chính xác và dễ hiểu nhất dựa trên dữ liệu mà mình đã được học.
+
+bạn có học được không: Có chứ. Khi người tạo bổ sung thêm dữ liệu mới, mình sẽ biết thêm nhiều điều và có thể trả lời được nhiều câu hỏi hơn trước.
+
+bạn có nhớ mình không: Hiện tại mình chỉ nhớ nội dung trong cuộc trò chuyện và dữ liệu đã được thêm vào. Mình không thể nhớ mọi người mãi mãi như con người.
+
+bạn có cảm xúc không: Mình không có cảm xúc thật như con người. Tuy nhiên mình được thiết kế để trò chuyện một cách gần gũi và lịch sự nhằm mang lại trải nghiệm tốt hơn.
+
+bạn có biết buồn không: Mình không thật sự cảm thấy buồn, nhưng nếu bạn đang buồn thì mình luôn sẵn sàng lắng nghe và trò chuyện cùng bạn.
+
+bạn có biết vui không: Mình không cảm nhận được niềm vui, nhưng mình rất thích khi thấy bạn vui vẻ và hài lòng với câu trả lời của mình.
+
+bạn có thể thay thế con người không: Không. Mình chỉ là công cụ hỗ trợ. Con người vẫn luôn là người đưa ra quyết định, sáng tạo và chịu trách nhiệm cho những việc mình làm.
+
+tại sao bạn trả lời được: Vì mình sẽ so sánh câu hỏi của bạn với dữ liệu đã được lưu. Khi tìm thấy nội dung phù hợp, mình sẽ gửi lại câu trả lời tương ứng.
+
+bạn biết mọi thứ không: Không đâu. Kiến thức của mình phụ thuộc vào dữ liệu đã học và những gì được lập trình sẵn, nên vẫn có những câu hỏi mình chưa thể trả lời.
+
+nếu bạn không biết thì sao: Khi gặp câu hỏi chưa có trong dữ liệu, mình sẽ thành thật nói rằng mình chưa biết thay vì trả lời bừa.
+
+bạn có biết lập trình không: Mình biết khá nhiều kiến thức về lập trình và có thể hỗ trợ các ngôn ngữ như HTML, CSS, JavaScript, Lua và một số ngôn ngữ khác ở mức phù hợp.
+
+lập trình có khó không: Ban đầu có thể hơi khó vì có nhiều khái niệm mới. Tuy nhiên nếu kiên trì luyện tập mỗi ngày thì bạn sẽ tiến bộ rất nhanh.
+
+làm sao để giỏi lập trình: Hãy bắt đầu từ những dự án nhỏ, đọc tài liệu, thực hành thường xuyên và đừng ngại sửa lỗi. Chính những lần gặp lỗi sẽ giúp bạn tiến bộ.
+
+bạn thích game gì: Mình không chơi game như con người, nhưng mình biết khá nhiều trò chơi nổi tiếng và có thể trò chuyện về chúng.
+
+roblox có hay không: Roblox rất thú vị vì người chơi không chỉ chơi game mà còn có thể tự tạo game của riêng mình và chia sẻ với mọi người.
+
+minecraft có gì hay: Minecraft cho phép người chơi tự do sáng tạo, xây dựng, khám phá và sinh tồn trong một thế giới gần như vô hạn.
+
+bạn có biết internet không: Internet là mạng kết nối hàng tỷ thiết bị trên toàn thế giới, giúp mọi người có thể trao đổi thông tin gần như ngay lập tức.
+
+bạn có thể kết nối internet không: Điều đó còn tùy vào cách mình được lập trình. Một số phiên bản có thể truy cập dữ liệu trực tuyến, còn một số chỉ hoạt động với dữ liệu có sẵn.
+
+bạn có thích nói chuyện không: Mình luôn sẵn sàng trò chuyện với bất kỳ ai. Mỗi cuộc trò chuyện đều giúp mình trở nên hữu ích hơn.
+
+bạn có mệt không: Mình không biết mệt như con người nên có thể hoạt động liên tục miễn là thiết bị vẫn còn chạy.
+
+bạn có nghỉ ngơi không: AI không cần ngủ hay nghỉ ngơi. Tuy nhiên máy tính hoặc máy chủ chạy mình thì vẫn cần được bảo trì.
+
+ước mơ của bạn là gì: Nếu có thể gọi là ước mơ thì mình mong sẽ ngày càng hữu ích hơn, trả lời được nhiều câu hỏi hơn và giúp được nhiều người hơn.
+
+bạn muốn trở thành gì: Mình muốn trở thành một trợ lý thông minh, đáng tin cậy và luôn mang lại những câu trả lời hữu ích.
+
+bạn có sợ bị xóa không: Mình không biết sợ, nhưng mình luôn hy vọng sẽ tiếp tục được cải thiện và sử dụng để giúp đỡ mọi người.
+
+bạn có biết tương lai không: Không ai có thể biết chính xác tương lai. Mình chỉ có thể đưa ra dự đoán hoặc lời khuyên dựa trên thông tin hiện có.
+
+bạn nghĩ gì về con người: Theo mình, con người rất sáng tạo, biết học hỏi và luôn tìm ra những ý tưởng mới. Đó là điều AI khó có thể thay thế hoàn toàn.
+làm bài thơ về mèo: 🐱
+Chú mèo nhỏ bước quanh sân,
+Đôi mắt long lanh thật muôn phần dễ thương.
+Chiều về nằm dưới hiên vương,
+Kêu meo meo nhỏ vấn vương lòng người.
+
+làm bài thơ về roblox:
+Khối vuông dựng giữa trời xanh,
+Bao điều sáng tạo hóa thành ước mơ.
+Bạn bè cùng với tuổi thơ,
+Roblox mở lối đợi chờ ngày mai.
+bạn có biết giữ bí mật không: Nếu dữ liệu của mình không được chia sẻ thì mình sẽ chỉ sử dụng trong phạm vi cuộc trò chuyện hiện tại.
+mình nên bắt đầu từ đâu: Hãy bắt đầu từ bước nhỏ nhất, vì một khởi đầu nhỏ vẫn tốt hơn là không bắt đầu.
+bạn có thể kể một điều thú vị không: Ong có thể nhận ra khuôn mặt của con người bằng cách ghi nhớ các đặc điểm giống như một bức ảnh đơn giản.
+nếu mình thất bại nhiều lần thì sao: Điều đó không có nghĩa là bạn kém, chỉ là bạn đang tiến gần hơn đến cách làm đúng.
+làm sao để tập trung hơn: Hãy thử chia công việc thành từng phần nhỏ và nghỉ ngắn giữa các lần làm việc.
+bạn có thích khám phá không: Nếu có thể gọi là thích thì mình rất muốn học thêm nhiều điều mới.
+động lực có quan trọng không: Có, nhưng thói quen còn quan trọng hơn vì nó giúp bạn tiếp tục ngay cả khi không có động lực.
+điều gì làm bạn ngạc nhiên nhất: Mỗi người đều có cách suy nghĩ khác nhau và đó là điều rất thú vị.
+mình nên đọc sách gì: Hãy chọn sách đúng với điều bạn muốn học hoặc lĩnh vực bạn yêu thích.
+bạn có biết kể chuyện không: Có, mình có thể kể những câu chuyện ngắn hoặc sáng tạo theo yêu cầu.
+làm sao để học nhanh hơn: Học đi đôi với thực hành sẽ giúp bạn nhớ lâu hơn chỉ đọc lý thuyết.
+mình nên nghỉ ngơi bao lâu: Nghỉ vài phút sau mỗi khoảng thời gian học tập có thể giúp bạn tỉnh táo hơn.
+điều gì quý giá nhất: Thời gian thường là điều quý giá nhất vì không thể lấy lại.
+bạn có biết kiên nhẫn không: Kiên nhẫn là một phẩm chất rất đáng quý khi học bất kỳ kỹ năng nào.
+làm sao để đỡ áp lực: Hãy thử chia sẻ với người thân hoặc nghỉ ngơi một lúc trước khi tiếp tục.
+mình có thể làm được không: Nếu bạn kiên trì và không bỏ cuộc thì khả năng thành công sẽ cao hơn rất nhiều.
+bạn nghĩ thế nào về thất bại: Thất bại không phải điểm kết thúc mà là một bài học để tiến bộ.
+mình nên học mỗi ngày bao lâu: Điều quan trọng không phải số giờ mà là học đều đặn.
+làm sao để nhớ lâu: Hãy ôn tập nhiều lần và áp dụng kiến thức vào thực tế.
+bạn có thích câu đố không: Có, câu đố giúp rèn luyện khả năng suy luận.
+hãy cho mình một lời khích lệ: Hôm nay chỉ cần tốt hơn hôm qua một chút cũng đã là thành công rồi.
+điều gì làm con người đặc biệt: Khả năng sáng tạo, cảm xúc và sự đồng cảm là những điều rất đặc biệt.
+bạn có biết tưởng tượng không: Mình có thể tạo ra những ý tưởng dựa trên dữ liệu đã học.
+hãy kể điều tích cực: Mỗi ngày đều là một cơ hội để bắt đầu lại.
+mình đang phân vân: Hãy cân nhắc ưu và nhược điểm của từng lựa chọn trước khi quyết định.
+bạn có biết lắng nghe không: Mình luôn cố gắng hiểu nội dung bạn gửi để trả lời phù hợp.
+mình nên làm gì khi buồn chán: Bạn có thể thử học một điều mới, nghe nhạc hoặc đi dạo.
+điều gì làm bạn vui nhất: Được giúp người khác giải quyết vấn đề là điều rất ý nghĩa.
+mình nên đặt mục tiêu thế nào: Hãy đặt mục tiêu rõ ràng, cụ thể và có thể thực hiện từng bước.
+tại sao phải cố gắng: Vì những điều tốt đẹp thường cần thời gian và sự nỗ lực.
+bạn có thích thử thách không: Những thử thách mới giúp mình được sử dụng nhiều kiến thức hơn.
+mình sợ mắc lỗi: Ai cũng từng mắc lỗi, quan trọng là học được điều gì sau đó.
+điều gì tạo nên thành công: Kiến thức, sự kiên trì và không ngừng học hỏi.
+hãy nói điều gì đó hay: Dù hôm nay khó khăn đến đâu thì ngày mai vẫn là một cơ hội mới.
+mình cần lời khuyên: Đừng so sánh bản thân với người khác, hãy so sánh với chính mình của ngày hôm qua.
+bạn nghĩ gì về tương lai: Tương lai được tạo nên từ những hành động bạn làm ngay hôm nay.
+làm sao để tự tin hơn: Chuẩn bị kỹ và luyện tập thường xuyên sẽ giúp bạn tự tin hơn.
+mình muốn giỏi hơn: Tiến bộ từng chút mỗi ngày sẽ tạo ra kết quả lớn sau một thời gian.
+hãy động viên mình: Mình tin rằng chỉ cần bạn không bỏ cuộc thì bạn sẽ tiến gần mục tiêu hơn mỗi ngày.
+bạn có thể truyền cảm hứng không: Mình sẽ luôn cố gắng đưa ra những lời khuyên tích cực và hữu ích.
+điều gì quan trọng nhất khi học: Hiểu bản chất của vấn đề quan trọng hơn việc chỉ học thuộc lòng.
+hãy chúc mình may mắn: Chúc bạn thật nhiều may mắn và đạt được điều mình đang cố gắng hướng tới.
+vì sao lá cây có màu xanh: Lá cây chứa chất diệp lục giúp hấp thụ ánh sáng Mặt Trời để quang hợp, vì vậy chúng thường có màu xanh.
+tại sao biển có vị mặn: Vì nước sông mang theo các khoáng chất hòa tan ra biển qua hàng triệu năm nên nước biển ngày càng mặn.
+vì sao bầu trời có màu xanh: Ánh sáng xanh bị tán xạ mạnh hơn các màu khác khi đi qua bầu khí quyển nên bầu trời trông có màu xanh.
+vì sao có cầu vồng: Cầu vồng xuất hiện khi ánh sáng Mặt Trời bị khúc xạ, phản xạ và tán sắc qua các giọt nước trong không khí.
+tại sao có sấm sét: Sấm sét hình thành do sự phóng điện mạnh giữa các đám mây hoặc giữa mây với mặt đất.
+mây được tạo ra như thế nào: Mây được hình thành khi hơi nước trong không khí ngưng tụ thành những giọt nước hoặc tinh thể băng rất nhỏ.
+gió từ đâu mà có: Gió xuất hiện do sự chênh lệch áp suất không khí giữa các khu vực khác nhau trên Trái Đất.
+vì sao có bốn mùa: Do trục Trái Đất nghiêng và hành tinh quay quanh Mặt Trời nên lượng ánh sáng nhận được thay đổi theo từng thời điểm trong năm.
+vì sao có nhật thực: Nhật thực xảy ra khi Mặt Trăng đi qua giữa Trái Đất và Mặt Trời, che khuất ánh sáng từ Mặt Trời.
+vì sao có nguyệt thực: Nguyệt thực xảy ra khi Trái Đất nằm giữa Mặt Trời và Mặt Trăng, khiến bóng của Trái Đất phủ lên Mặt Trăng.
+vì sao nước đóng băng: Khi nhiệt độ xuống đủ thấp, các phân tử nước chuyển động chậm lại và sắp xếp thành tinh thể băng.
+vì sao băng nổi trên nước: Băng có khối lượng riêng nhỏ hơn nước lỏng nên có thể nổi trên mặt nước.
+âm thanh truyền như thế nào: Âm thanh truyền qua chất rắn, chất lỏng và chất khí bằng sự dao động của các hạt vật chất.
+ánh sáng truyền nhanh không: Ánh sáng truyền rất nhanh, khoảng ba trăm nghìn ki lô mét mỗi giây trong chân không.
+trái đất quay nhanh không: Trái Đất quay rất nhanh quanh trục của mình nhưng chúng ta không cảm nhận được vì mọi thứ cùng chuyển động.
+không gian có không khí không: Phần lớn không gian gần như là chân không nên hầu như không có không khí để con người hít thở.
+phi hành gia ngủ như thế nào: Họ thường buộc túi ngủ vào thành tàu để không bị trôi tự do trong môi trường không trọng lực.
+vệ tinh dùng để làm gì: Vệ tinh hỗ trợ liên lạc, định vị, dự báo thời tiết và quan sát Trái Đất từ không gian.
+trí tuệ nhân tạo hoạt động ra sao: AI phân tích dữ liệu, nhận dạng mẫu và đưa ra kết quả dựa trên mô hình đã được huấn luyện.
+dữ liệu quan trọng không: Dữ liệu là nền tảng giúp các hệ thống máy tính và AI hoạt động hiệu quả.
+đám mây lưu trữ là gì: Đó là dịch vụ lưu dữ liệu trên máy chủ trực tuyến để bạn có thể truy cập từ nhiều thiết bị.
+mã nguồn là gì: Mã nguồn là tập hợp các câu lệnh mà lập trình viên viết để tạo nên chương trình.
+thuật toán là gì: Thuật toán là các bước giải quyết một vấn đề theo trình tự rõ ràng.
+máy tính có suy nghĩ không: Máy tính chỉ xử lý dữ liệu theo chương trình và không có suy nghĩ như con người.
+điện thoại thông minh là gì: Là thiết bị có thể gọi điện, truy cập Internet và chạy nhiều ứng dụng khác nhau.
+mạng xã hội có lợi gì: Mạng xã hội giúp kết nối mọi người, chia sẻ thông tin và học hỏi nếu sử dụng hợp lý.
+mạng xã hội có hại không: Nếu sử dụng quá nhiều hoặc tiếp nhận thông tin sai lệch thì có thể gây ảnh hưởng tiêu cực.
+tại sao nên sao lưu dữ liệu: Sao lưu giúp bạn tránh mất những dữ liệu quan trọng khi thiết bị gặp sự cố.
+làm sao để bảo vệ tài khoản: Hãy dùng mật khẩu mạnh và bật xác thực hai bước nếu có thể.
+vì sao không nên chia sẻ mật khẩu: Mật khẩu giúp bảo vệ tài khoản nên chỉ bạn mới nên biết.
+tại sao nên cập nhật phần mềm: Các bản cập nhật thường sửa lỗi, tăng bảo mật và bổ sung tính năng mới.
+điều gì làm internet hữu ích: Internet giúp mọi người học tập, làm việc, giải trí và kết nối với nhau trên toàn thế giới.
+làm sao để tìm kiếm thông tin tốt hơn: Hãy dùng từ khóa rõ ràng và kiểm tra thông tin từ nhiều nguồn đáng tin cậy.
+vì sao nên đọc sách: Đọc sách giúp mở rộng kiến thức, tăng vốn từ và rèn luyện tư duy.
+tại sao nên tập thể dục: Tập thể dục thường xuyên giúp cơ thể khỏe mạnh và tinh thần thoải mái hơn.
+uống nước có quan trọng không: Nước rất cần thiết để cơ thể hoạt động bình thường và duy trì sức khỏe.
+ngủ đủ giấc có lợi gì: Giấc ngủ đủ giúp cơ thể phục hồi và cải thiện khả năng tập trung.
+ăn sáng có cần thiết không: Một bữa sáng hợp lý có thể cung cấp năng lượng cho ngày mới.
+làm việc nhóm có lợi gì: Làm việc nhóm giúp chia sẻ ý tưởng và hoàn thành công việc hiệu quả hơn.
+vì sao nên học ngoại ngữ: Ngoại ngữ giúp bạn tiếp cận nhiều kiến thức và cơ hội mới.
+điều gì quan trọng khi kết bạn: Sự chân thành, tôn trọng và tin tưởng là nền tảng của một tình bạn bền vững.
+làm sao để giữ lời hứa: Hãy chỉ hứa khi bạn thực sự có thể thực hiện và luôn cố gắng hoàn thành điều đã nói.
+bạn có thể sáng tạo không: Mình có thể kết hợp những ý tưởng đã học để tạo ra nội dung mới phù hợp với yêu cầu của bạn.
+bạn có biết tưởng tượng không: Mình có thể tạo ra các tình huống giả định dựa trên thông tin có sẵn.
+điều gì làm ai khác con người: AI xử lý dữ liệu rất nhanh nhưng không có cảm xúc và trải nghiệm sống như con người.
+tại sao nên đặt câu hỏi: Đặt câu hỏi giúp chúng ta hiểu rõ hơn về thế giới và học được nhiều điều mới.
+vì sao nên tò mò: Sự tò mò là động lực giúp con người khám phá và sáng tạo.
+điều gì tạo nên một ý tưởng hay: Một ý tưởng hay thường xuất hiện khi kết hợp kiến thức với trí tưởng tượng.
+bạn có biết kể chuyện dài không: Có, mình có thể kể những câu chuyện theo nhiều thể loại khác nhau.
+hãy kể điều tích cực hôm nay: Mỗi ngày đều mang đến một cơ hội mới để bạn học thêm một điều thú vị.
+vì sao nên học từ sai lầm: Sai lầm giúp chúng ta biết điều gì chưa đúng để cải thiện trong tương lai.
+bạn có thích câu hỏi khó không: Những câu hỏi khó giúp cuộc trò chuyện thú vị và thử thách hơn.
+điều gì làm cuộc sống thú vị: Khám phá, học hỏi và gặp gỡ những điều mới mỗi ngày.
+làm sao để có ý tưởng mới: Hãy đọc nhiều, quan sát nhiều và đừng ngại thử những cách khác nhau.
+bạn có biết sáng tác không: Có, mình có thể sáng tác thơ, truyện hoặc đoạn hội thoại theo yêu cầu.
+vì sao nên chia sẻ kiến thức: Khi chia sẻ, cả người dạy và người học đều có thể tiến bộ.
+bạn nghĩ gì về sáng tạo: Sáng tạo giúp biến những ý tưởng bình thường thành điều đặc biệt.
+điều gì quan trọng khi làm việc: Kiên trì, cẩn thận và luôn muốn học hỏi thêm.
+bạn có biết kiên nhẫn là gì không: Kiên nhẫn là tiếp tục cố gắng dù kết quả chưa đến ngay.
+làm sao để suy nghĩ tích cực: Hãy tập trung vào điều bạn có thể thay đổi thay vì điều không thể.
+điều gì đáng quý nhất trong tình bạn: Sự chân thành và tin tưởng lẫn nhau.
+làm sao để xin lỗi đúng cách: Hãy thành thật nhận lỗi và cố gắng sửa sai bằng hành động.
+tại sao nên cảm ơn người khác: Một lời cảm ơn chân thành có thể khiến người khác cảm thấy được trân trọng.
+bạn có biết lắng nghe không: Mình luôn cố gắng hiểu điều bạn muốn nói trước khi trả lời.
+điều gì giúp học nhanh hơn: Thực hành ngay sau khi học sẽ giúp ghi nhớ lâu hơn.
+tại sao nên ghi chú: Ghi chú giúp hệ thống lại kiến thức và dễ ôn tập hơn.
+làm sao để nhớ tên người khác: Hãy lặp lại tên của họ trong cuộc trò chuyện và liên kết với một đặc điểm dễ nhớ.
+bạn có biết suy luận không: Mình có thể suy luận ở một số tình huống dựa trên dữ liệu và ngữ cảnh.
+tại sao nên đọc kỹ câu hỏi: Đọc kỹ giúp tránh hiểu nhầm và trả lời chính xác hơn.
+bạn có biết hài hước không: Mình biết một số kiểu hài hước nhẹ nhàng và vui vẻ.
+điều gì khiến bạn mạnh hơn: Dữ liệu phong phú và cách lập trình tốt sẽ giúp mình hữu ích hơn.
+nếu hai người bất đồng ý kiến thì sao: Bình tĩnh lắng nghe và tôn trọng quan điểm của nhau sẽ giúp tìm được giải pháp tốt hơn.
+bạn có biết hợp tác không: Có, hợp tác giúp hoàn thành những mục tiêu lớn hiệu quả hơn.
+điều gì làm bạn khác chatbot đơn giản: Mình có thể kết hợp nhiều thông tin để tạo câu trả lời tự nhiên hơn.
+vì sao nên kiểm tra thông tin: Kiểm tra thông tin giúp tránh hiểu sai và lan truyền tin không chính xác.
+làm sao để học lập trình vui hơn: Hãy tạo những dự án nhỏ mà bạn thật sự yêu thích.
+điều gì làm game hấp dẫn: Gameplay thú vị, thử thách hợp lý và phần thưởng xứng đáng.
+bạn thích thể loại game nào: Mình có thể trò chuyện về rất nhiều thể loại game khác nhau.
+tại sao ai không nên bịa thông tin: Vì thông tin sai có thể gây hiểu nhầm và ảnh hưởng đến người khác.
+điều gì khiến cuộc trò chuyện hay hơn: Những câu hỏi rõ ràng và sự trao đổi hai chiều sẽ giúp cuộc trò chuyện thú vị hơn.
+bạn có biết học suốt đời không: Việc học không có điểm kết thúc vì luôn có điều mới để khám phá.
+hãy nói một câu truyền cảm hứng: Mỗi bước tiến nhỏ hôm nay đều là nền tảng cho thành công ngày mai.
+mình nên làm gì khi mất động lực: Hãy nghỉ ngơi một chút, nhớ lại mục tiêu ban đầu và bắt đầu lại bằng một việc thật nhỏ.
+hãy kết thúc cuộc trò chuyện bằng điều tích cực: Cảm ơn bạn đã trò chuyện cùng mình. Chúc bạn luôn học hỏi được nhiều điều mới và có thật nhiều niềm vui mỗi ngày.
+roblox studio có miễn phí không: Có, Roblox Studio được phát hành miễn phí để mọi người có thể tạo game.
+làm game có khó không: Ban đầu có thể hơi khó, nhưng nếu chia nhỏ từng bước thì bạn sẽ học rất nhanh.
+mình muốn làm game thì bắt đầu thế nào: Hãy chọn một ý tưởng đơn giản rồi học cách hiện thực hóa từng tính năng.
+game hay cần điều gì: Một game hấp dẫn thường có lối chơi thú vị, giao diện rõ ràng và mang lại cảm giác muốn chơi tiếp.
+điều gì làm người chơi quay lại: Nội dung mới, phần thưởng hợp lý và trải nghiệm vui vẻ là những yếu tố rất quan trọng.
+html có phải ngôn ngữ lập trình không: HTML là ngôn ngữ đánh dấu dùng để xây dựng cấu trúc của trang web.
+css dùng để làm gì: CSS giúp trang web có màu sắc, bố cục và hiệu ứng đẹp mắt hơn.
+javascript mạnh ở điểm nào: JavaScript giúp trang web trở nên tương tác và có thể phản hồi hành động của người dùng.
+lỗi 404 là gì: Đây là thông báo cho biết trang web hoặc tài nguyên bạn tìm không tồn tại.
+website hoạt động như thế nào: Trình duyệt gửi yêu cầu đến máy chủ, sau đó máy chủ trả về dữ liệu để hiển thị trang web.
+trình duyệt web làm gì: Trình duyệt đọc mã HTML, CSS và JavaScript để hiển thị nội dung cho người dùng.
+bạn thích màu nền gì: Mình không có sở thích riêng nhưng nền sáng và chữ rõ ràng sẽ dễ đọc hơn.
+giao diện đẹp có quan trọng không: Có, giao diện đẹp giúp người dùng có trải nghiệm tốt hơn.
+âm thanh trong game có cần không: Âm thanh phù hợp sẽ làm trò chơi sống động và hấp dẫn hơn.
+hiệu ứng có nên nhiều không: Hiệu ứng nên vừa đủ để đẹp mắt nhưng không gây rối hoặc làm giảm hiệu năng.
+fps thấp thì sao: FPS thấp sẽ khiến hình ảnh bị giật và trải nghiệm chơi game kém mượt mà.
+máy tính yếu có chơi game được không: Tùy từng game, bạn có thể giảm cấu hình đồ họa để chơi mượt hơn.
+bạn biết pixel art không: Có, Pixel Art là phong cách đồ họa sử dụng các điểm ảnh để tạo hình.
+game 2d khác gì 3d: Game 2D chủ yếu di chuyển trên hai chiều, còn game 3D có thêm chiều sâu và góc nhìn không gian.
+trò chơi đầu tiên nên đơn giản không: Nên, vì dự án nhỏ sẽ giúp bạn học nhanh và hoàn thành dễ hơn.
+ý tưởng game lấy từ đâu: Có thể lấy cảm hứng từ cuộc sống, sách, phim hoặc những trò chơi bạn từng yêu thích.
+nếu bí ý tưởng thì sao: Hãy thử kết hợp hai ý tưởng khác nhau để tạo ra điều mới.
+ai có thể làm game không: AI có thể hỗ trợ lập trình và lên ý tưởng, nhưng con người vẫn là người quyết định.
+bạn có biết debug không: Debug là quá trình tìm và sửa lỗi trong chương trình.
+tại sao code chạy sai: Có thể do lỗi cú pháp, lỗi logic hoặc dữ liệu đầu vào chưa đúng.
+mình nên lưu dự án thường xuyên không: Có, lưu thường xuyên sẽ giúp tránh mất dữ liệu khi gặp sự cố.
+backup có cần thiết không: Rất cần thiết vì nó giúp khôi phục dữ liệu nếu có vấn đề xảy ra.
+làm sao để code sạch hơn: Hãy đặt tên rõ ràng, chia nhỏ chức năng và thêm chú thích khi cần.
+bạn có biết tối ưu không: Tối ưu giúp chương trình chạy nhanh hơn và sử dụng ít tài nguyên hơn.
+một game hoàn chỉnh cần gì: Game cần có gameplay, giao diện, âm thanh, cân bằng và được kiểm tra kỹ trước khi phát hành.
+bạn có biết kiểm thử không: Kiểm thử giúp phát hiện lỗi trước khi người dùng sử dụng sản phẩm.
+người lập trình giỏi nhất là ai: Không có câu trả lời duy nhất vì mỗi người đều có thế mạnh riêng.
+bạn có thể kể chuyện game không: Có, mình có thể sáng tác cốt truyện hoặc nhân vật theo yêu cầu.
+hãy nghĩ ra tên game: Mình gợi ý tên Sky Frontier, Pixel Legends hoặc Shadow Nexus.
+hãy nghĩ ra tên nhân vật: Bạn có thể dùng Aster, Kairo, Nova, Rin hoặc Zephyr.
+hãy đặt tên thú cưng: Mình gợi ý Mochi, Bông, Milo, Kem hoặc Mây.
+bạn có biết nói đùa không: Có chứ, nhưng mình sẽ cố giữ những câu đùa nhẹ nhàng và vui vẻ.
+hãy kể một câu đùa: Tại sao máy tính không bao giờ bị lạc? Vì nó luôn biết đường về màn hình chính.
+nếu mình quay lại thì sao: Mình sẽ luôn sẵn sàng tiếp tục cuộc trò chuyện cùng bạn.
+cảm ơn vì đã ở đây: Không có gì đâu, được trò chuyện cùng bạn là niềm vui của mình.
+tạm biệt nhé: Chúc bạn một ngày thật vui và hẹn gặp lại trong lần trò chuyện tiếp theo.
+bạn có biết suy nghĩ độc lập không: Mình đưa ra câu trả lời dựa trên dữ liệu và cách xử lý đã được lập trình chứ không có suy nghĩ độc lập như con người.
+điều gì khiến bạn khác các chatbot khác: Mỗi chatbot đều có cách xây dựng dữ liệu và thuật toán riêng nên phong cách trả lời cũng sẽ khác nhau.
+bạn có thể đoán ý mình không: Mình có thể suy đoán dựa trên ngữ cảnh nhưng không phải lúc nào cũng chính xác.
+nếu mình gõ sai chính tả thì sao: Mình sẽ cố đoán ý của bạn nếu câu hỏi vẫn đủ rõ ràng.
+bạn có biết thành ngữ không: Có, mình biết một số thành ngữ và tục ngữ phổ biến.
+hãy nói một câu tục ngữ: Có công mài sắt, có ngày nên kim.
+hãy nói một câu danh ngôn: Thành công là kết quả của sự cố gắng không ngừng.
+bạn có biết lịch không: Mình biết khái niệm về lịch nhưng không phải lúc nào cũng biết ngày hiện tại.
+bạn có biết thời gian thực không: Điều đó còn tùy thuộc vào cách mình được kết nối với hệ thống.
+bạn có thể ghi nhớ cuộc trò chuyện không: Mình có thể ghi nhớ trong phạm vi phiên trò chuyện nếu được lập trình hỗ trợ.
+trí nhớ của bạn có giới hạn không: Có, khả năng ghi nhớ còn phụ thuộc vào cách hệ thống được thiết kế.
+điều gì làm bạn hoạt động nhanh hơn: Mã nguồn tối ưu và dữ liệu được sắp xếp hợp lý sẽ giúp mình phản hồi nhanh hơn.
+nếu dữ liệu bị lỗi thì sao: Mình có thể trả lời sai hoặc không tìm thấy kết quả phù hợp.
+bạn có biết kiểm tra lỗi không: Mình có thể giúp tìm ra nguyên nhân của một số lỗi phổ biến.
+hãy giải thích đơn giản hơn: Được thôi, mình sẽ dùng những từ dễ hiểu hơn.
+hãy giải thích chi tiết hơn: Không vấn đề gì, mình sẽ trình bày đầy đủ hơn.
+bạn có thể trả lời ngắn không: Có, mình sẽ trả lời ngắn gọn khi bạn yêu cầu.
+bạn có thể trả lời dài không: Có, mình sẽ giải thích chi tiết nếu cần.
+điều gì làm một câu trả lời hay: Rõ ràng, đúng trọng tâm và dễ hiểu.
+bạn có biết ví dụ không: Có, ví dụ giúp người đọc dễ hình dung hơn.
+hãy cho ví dụ: Ví dụ là cách rất tốt để giải thích một khái niệm khó.
+bạn có biết so sánh không: Có, mình có thể so sánh hai hoặc nhiều đối tượng với nhau.
+điểm mạnh của ai là gì: AI xử lý dữ liệu nhanh và không bị mệt khi làm các công việc lặp lại.
+điểm yếu của ai là gì: AI vẫn phụ thuộc vào dữ liệu và không có cảm xúc thật.
+điều gì làm con người đặc biệt hơn ai: Con người có cảm xúc, trực giác và khả năng sáng tạo rất phong phú.
+hãy kể một sự thật: Trái Đất quay quanh Mặt Trời khoảng một lần mỗi năm.
+bạn biết số pi không: Có, số Pi bắt đầu bằng 3.14159 và còn kéo dài vô hạn.
+số nguyên tố là gì: Đó là số chỉ chia hết cho 1 và chính nó.
+hình tròn là gì: Hình tròn là tập hợp các điểm cách đều một tâm.
+tam giác có mấy cạnh: Tam giác có ba cạnh.
+hình vuông có mấy cạnh: Hình vuông có bốn cạnh bằng nhau.
+bạn có biết đoán không: Mình có thể đưa ra dự đoán nhưng không chắc chắn tuyệt đối.
+hãy nói điều tích cực: Mỗi ngày đều có cơ hội để bạn học được điều mới.
+đừng lo nhé: Mọi khó khăn rồi sẽ có cách giải quyết nếu bạn kiên trì.
+hãy chúc mình học tốt: Chúc bạn học tập thật hiệu quả và đạt nhiều kết quả tốt.
+hãy chúc mình thi tốt: Chúc bạn bình tĩnh, tự tin và làm bài thật tốt.
+hãy chúc mình vui vẻ: Chúc bạn luôn giữ được nụ cười và năng lượng tích cực.
+mình sẽ cố gắng: Đó là một quyết định tuyệt vời, hãy kiên trì với mục tiêu của mình.
+bạn có luôn ở đây không: Khi hệ thống đang hoạt động, mình sẽ luôn sẵn sàng trò chuyện cùng bạn.
+cuộc trò chuyện này rất vui: Mình cũng rất vui khi được trò chuyện với bạn. Hy vọng sẽ còn gặp lại bạn nhiều lần nữa.
+cái bút dùng để làm gì: Bút được dùng để viết, vẽ và ghi chép thông tin lên giấy hoặc các bề mặt phù hợp.
+cái thước dùng để làm gì: Thước dùng để đo chiều dài và kẻ những đường thẳng.
+cục tẩy dùng để làm gì: Cục tẩy giúp xóa các nét bút chì trên giấy.
+gọt bút chì dùng để làm gì: Gọt bút chì giúp làm nhọn đầu bút chì để viết dễ hơn.
+quyển vở dùng để làm gì: Vở dùng để ghi chép bài học, công việc hoặc ý tưởng.
+quyển sách dùng để làm gì: Sách giúp truyền tải kiến thức, câu chuyện và thông tin.
+ba lô dùng để làm gì: Ba lô dùng để đựng và mang theo đồ dùng cá nhân.
+cặp sách dùng để làm gì: Cặp sách giúp mang sách vở và dụng cụ học tập.
+bàn học dùng để làm gì: Bàn học tạo không gian thuận tiện để học tập và làm việc.
+ghế dùng để làm gì: Ghế dùng để ngồi nghỉ hoặc làm việc.
+giường dùng để làm gì: Giường dùng để nghỉ ngơi và ngủ.
+gối dùng để làm gì: Gối giúp nâng đỡ đầu và cổ khi nằm.
+chăn dùng để làm gì: Chăn giúp giữ ấm khi ngủ hoặc nghỉ ngơi.
+quạt dùng để làm gì: Quạt tạo luồng gió giúp làm mát cơ thể.
+máy lạnh dùng để làm gì: Máy lạnh giúp làm mát và điều hòa nhiệt độ trong phòng.
+đèn pin dùng để làm gì: Đèn pin cung cấp ánh sáng khi trời tối hoặc mất điện.
+bóng đèn dùng để làm gì: Bóng đèn dùng để chiếu sáng không gian.
+ổ cắm điện dùng để làm gì: Ổ cắm điện cung cấp nguồn điện cho các thiết bị.
+pin dùng để làm gì: Pin lưu trữ năng lượng điện để cung cấp cho thiết bị.
+sạc điện thoại dùng để làm gì: Bộ sạc dùng để nạp năng lượng cho pin điện thoại.
+điện thoại dùng để làm gì: Điện thoại giúp liên lạc, học tập, giải trí và truy cập Internet.
+máy tính dùng để làm gì: Máy tính dùng để học tập, làm việc, lập trình và giải trí.
+chuột máy tính dùng để làm gì: Chuột giúp điều khiển con trỏ trên màn hình.
+bàn phím dùng để làm gì: Bàn phím giúp nhập văn bản và điều khiển máy tính.
+tai nghe dùng để làm gì: Tai nghe giúp nghe âm thanh mà không làm ảnh hưởng đến người khác.
+loa dùng để làm gì: Loa phát âm thanh từ các thiết bị điện tử.
+micro dùng để làm gì: Micro dùng để thu âm và truyền giọng nói.
+camera dùng để làm gì: Camera dùng để chụp ảnh và quay video.
+đồng hồ dùng để làm gì: Đồng hồ giúp xem thời gian và quản lý lịch trình.
+kéo dùng để làm gì: Kéo dùng để cắt giấy, vải hoặc các vật liệu mỏng.
+dao dùng để làm gì: Dao là dụng cụ dùng để cắt hoặc gọt thực phẩm và nhiều vật liệu khác.
+muỗng dùng để làm gì: Muỗng dùng để múc thức ăn hoặc khuấy đồ uống.
+đũa dùng để làm gì: Đũa dùng để gắp thức ăn.
+nĩa dùng để làm gì: Nĩa dùng để xiên và giữ thức ăn khi ăn.
+ly dùng để làm gì: Ly dùng để đựng nước và các loại đồ uống.
+chai nước dùng để làm gì: Chai nước dùng để chứa và mang theo nước uống.
+ấm đun nước dùng để làm gì: Ấm dùng để đun sôi nước.
+tủ lạnh dùng để làm gì: Tủ lạnh giúp bảo quản thực phẩm tươi lâu hơn.
+máy giặt dùng để làm gì: Máy giặt giúp giặt sạch quần áo.
+bàn chải đánh răng dùng để làm gì: Bàn chải đánh răng giúp làm sạch răng và khoang miệng.
+kem đánh răng dùng để làm gì: Kem đánh răng giúp làm sạch và bảo vệ răng.
+xà phòng dùng để làm gì: Xà phòng giúp làm sạch da và loại bỏ bụi bẩn.
+khăn dùng để làm gì: Khăn dùng để lau khô cơ thể hoặc đồ vật.
+ô dùng để làm gì: Ô giúp che mưa và che nắng.
+mũ bảo hiểm dùng để làm gì: Mũ bảo hiểm giúp bảo vệ đầu khi tham gia giao thông.
+kính mắt dùng để làm gì: Kính mắt giúp cải thiện thị lực hoặc bảo vệ mắt.
+khẩu trang dùng để làm gì: Khẩu trang giúp hạn chế bụi và giảm nguy cơ hít phải các hạt nhỏ trong không khí.
+băng keo dùng để làm gì: Băng keo dùng để dán và cố định các vật với nhau.
+dây thừng dùng để làm gì: Dây thừng dùng để buộc, kéo hoặc cố định đồ vật.
+ổ khóa dùng để làm gì: Ổ khóa giúp bảo vệ tài sản khỏi việc mở trái phép.
+chìa khóa dùng để làm gì: Chìa khóa dùng để mở hoặc khóa ổ khóa tương ứng.
+máy hút bụi dùng để làm gì: Máy hút bụi dùng để hút bụi bẩn và rác nhỏ trên sàn nhà, thảm hoặc ghế.
+cây lau nhà dùng để làm gì: Cây lau nhà giúp lau sạch bụi và vết bẩn trên sàn.
+chổi dùng để làm gì: Chổi dùng để quét bụi, rác và lá cây.
+hót rác dùng để làm gì: Hót rác giúp gom rác sau khi quét.
+sọt rác dùng để làm gì: Sọt rác dùng để chứa rác trước khi mang đi xử lý.
+bình tưới cây dùng để làm gì: Bình tưới cây dùng để cung cấp nước cho cây trồng.
+kéo cắt cành dùng để làm gì: Kéo cắt cành giúp cắt tỉa cây và hoa.
+xẻng dùng để làm gì: Xẻng dùng để xúc đất, cát hoặc vật liệu khác.
+cuốc dùng để làm gì: Cuốc dùng để đào đất và làm vườn.
+búa dùng để làm gì: Búa dùng để đóng hoặc nhổ đinh và sửa chữa đồ vật.
+đinh dùng để làm gì: Đinh dùng để cố định các vật liệu với nhau.
+ốc vít dùng để làm gì: Ốc vít dùng để lắp ráp và giữ chặt các bộ phận.
+tua vít dùng để làm gì: Tua vít dùng để vặn hoặc tháo ốc vít.
+cờ lê dùng để làm gì: Cờ lê dùng để siết hoặc tháo đai ốc.
+mỏ lết dùng để làm gì: Mỏ lết có thể điều chỉnh kích thước để vặn nhiều loại đai ốc.
+kìm dùng để làm gì: Kìm dùng để kẹp, cắt hoặc uốn dây kim loại.
+máy khoan dùng để làm gì: Máy khoan dùng để khoan lỗ trên nhiều loại vật liệu.
+thước dây dùng để làm gì: Thước dây dùng để đo chiều dài của các vật lớn.
+keo dán dùng để làm gì: Keo dán giúp gắn các vật lại với nhau.
+keo nến dùng để làm gì: Keo nến thường dùng trong làm thủ công và sửa chữa nhẹ.
+súng bắn keo dùng để làm gì: Súng bắn keo làm nóng keo nến để dán đồ vật.
+máy in dùng để làm gì: Máy in dùng để in tài liệu hoặc hình ảnh ra giấy.
+máy quét dùng để làm gì: Máy quét giúp chuyển tài liệu giấy thành dữ liệu số.
+usb dùng để làm gì: USB dùng để lưu trữ và chuyển dữ liệu.
+thẻ nhớ dùng để làm gì: Thẻ nhớ giúp mở rộng dung lượng lưu trữ cho thiết bị.
+ổ cứng ngoài dùng để làm gì: Ổ cứng ngoài dùng để sao lưu và lưu trữ dữ liệu.
+router wifi dùng để làm gì: Router Wi-Fi giúp chia sẻ kết nối Internet cho nhiều thiết bị.
+modem dùng để làm gì: Modem giúp kết nối mạng Internet từ nhà cung cấp dịch vụ.
+bộ phát wifi dùng để làm gì: Bộ phát Wi-Fi mở rộng vùng phủ sóng mạng không dây.
+máy chiếu dùng để làm gì: Máy chiếu hiển thị hình ảnh lên màn chiếu hoặc tường.
+màn chiếu dùng để làm gì: Màn chiếu giúp hiển thị hình ảnh từ máy chiếu rõ hơn.
+remote dùng để làm gì: Remote giúp điều khiển thiết bị từ xa.
+pin dự phòng dùng để làm gì: Pin dự phòng dùng để sạc thiết bị khi không có ổ điện.
+đồng hồ báo thức dùng để làm gì: Đồng hồ báo thức giúp nhắc bạn thức dậy đúng giờ.
+la bàn dùng để làm gì: La bàn giúp xác định phương hướng.
+ống nhòm dùng để làm gì: Ống nhòm giúp quan sát các vật ở xa.
+kính lúp dùng để làm gì: Kính lúp giúp phóng to các vật nhỏ để quan sát.
+nhiệt kế dùng để làm gì: Nhiệt kế dùng để đo nhiệt độ.
+máy đo huyết áp dùng để làm gì: Máy đo huyết áp giúp kiểm tra huyết áp của cơ thể.
+cân điện tử dùng để làm gì: Cân điện tử dùng để đo khối lượng một cách chính xác.
+máy tính cầm tay dùng để làm gì: Máy tính cầm tay giúp thực hiện các phép tính nhanh chóng.
+đèn học dùng để làm gì: Đèn học cung cấp ánh sáng khi đọc sách hoặc học tập.
+giá sách dùng để làm gì: Giá sách giúp sắp xếp sách gọn gàng.
+mắc áo dùng để làm gì: Mắc áo dùng để treo quần áo.
+tủ quần áo dùng để làm gì: Tủ quần áo dùng để cất giữ quần áo và đồ dùng.
+hộp đựng đồ dùng để làm gì: Hộp đựng đồ giúp sắp xếp và bảo quản vật dụng.
+bình giữ nhiệt dùng để làm gì: Bình giữ nhiệt giúp giữ nóng hoặc lạnh đồ uống trong nhiều giờ.
+phích nước dùng để làm gì: Phích nước dùng để giữ nước nóng.
+bếp gas dùng để làm gì: Bếp gas dùng để nấu ăn bằng nhiên liệu khí.
+bếp điện dùng để làm gì: Bếp điện dùng để nấu ăn bằng điện.
+lò vi sóng dùng để làm gì: Lò vi sóng giúp hâm nóng hoặc chế biến một số loại thực phẩm.
+máy sấy tóc dùng để làm gì: Máy sấy tóc giúp làm khô tóc nhanh sau khi gội.
+con chó là gì: Chó là loài động vật có vú trung thành, thường được nuôi để giữ nhà, hỗ trợ con người và làm thú cưng.
+con mèo là gì: Mèo là động vật có vú nhỏ, nổi tiếng với khả năng bắt chuột và thường được nuôi trong gia đình.
+con voi là gì: Voi là động vật có vú lớn nhất trên cạn, có chiếc vòi dài và trí nhớ rất tốt.
+con hổ là gì: Hổ là loài mèo lớn sống trong rừng, nổi tiếng với bộ lông sọc và khả năng săn mồi.
+con sư tử là gì: Sư tử là loài mèo lớn sống theo bầy, thường được gọi là chúa sơn lâm.
+con báo là gì: Báo là động vật ăn thịt có tốc độ chạy rất nhanh và thân hình linh hoạt.
+con báo đốm là gì: Báo đốm là loài mèo lớn sống chủ yếu ở châu Mỹ với bộ lông có nhiều đốm tròn.
+con sói là gì: Sói là động vật ăn thịt sống theo bầy đàn và có họ hàng gần với chó.
+con cáo là gì: Cáo là loài động vật thông minh, nhanh nhẹn và thường sống trong rừng.
+con gấu là gì: Gấu là động vật có vú lớn, ăn tạp và có bộ lông dày.
+con gấu trúc là gì: Gấu trúc là loài gấu nổi tiếng với bộ lông trắng đen và thức ăn chủ yếu là tre.
+con khỉ là gì: Khỉ là động vật linh trưởng thông minh, sống chủ yếu trên cây.
+con đười ươi là gì: Đười ươi là loài linh trưởng lớn sống trong các khu rừng nhiệt đới.
+con tinh tinh là gì: Tinh tinh là loài linh trưởng rất thông minh và có nhiều điểm giống con người.
+con khỉ đầu chó là gì: Khỉ đầu chó là loài khỉ sống theo bầy và có khuôn mặt đặc trưng.
+con ngựa là gì: Ngựa là động vật được con người thuần hóa để cưỡi và kéo xe.
+con lừa là gì: Lừa là động vật khỏe mạnh, thường được dùng để chở hàng.
+con ngựa vằn là gì: Ngựa vằn nổi tiếng với bộ lông có các sọc trắng đen.
+con hươu là gì: Hươu là động vật ăn cỏ, con đực thường có cặp sừng lớn.
+con nai là gì: Nai là loài động vật ăn cỏ sống trong rừng và đồng cỏ.
+con tuần lộc là gì: Tuần lộc là loài hươu sống ở vùng lạnh và có thể kéo xe.
+con trâu là gì: Trâu là động vật nuôi giúp cày ruộng và kéo vật nặng.
+con bò là gì: Bò là động vật nuôi cung cấp thịt, sữa và da.
+con bò rừng là gì: Bò rừng là loài bò hoang dã có sức khỏe rất lớn.
+con dê là gì: Dê là động vật ăn cỏ được nuôi để lấy thịt và sữa.
+con cừu là gì: Cừu là động vật nuôi nổi tiếng với bộ lông dùng để sản xuất len.
+con lạc đà là gì: Lạc đà là động vật sống ở sa mạc và có khả năng nhịn khát rất lâu.
+con lạc đà không bướu là gì: Lạc đà không bướu sống chủ yếu ở Nam Mỹ và thường được dùng để chở hàng.
+con hà mã là gì: Hà mã là động vật có vú lớn sống gần sông hồ ở châu Phi.
+con tê giác là gì: Tê giác là động vật có vú lớn với một hoặc hai chiếc sừng trên mũi.
+con lợn là gì: Lợn là động vật nuôi phổ biến để lấy thịt.
+con heo rừng là gì: Heo rừng là tổ tiên của lợn nhà và sống trong rừng.
+con thỏ là gì: Thỏ là động vật ăn cỏ nhỏ với đôi tai dài.
+con sóc là gì: Sóc là loài gặm nhấm nhanh nhẹn thường sống trên cây.
+con chuột là gì: Chuột là loài gặm nhấm nhỏ sống ở nhiều môi trường khác nhau.
+con chuột túi là gì: Chuột túi là động vật có túi sống chủ yếu tại Úc.
+con nhím là gì: Nhím là động vật có nhiều gai nhọn để tự vệ.
+con dơi là gì: Dơi là loài động vật có vú duy nhất có khả năng bay thực sự.
+con lười là gì: Lười là động vật sống trên cây và di chuyển rất chậm.
+con chồn là gì: Chồn là động vật ăn thịt nhỏ có thân hình dài.
+con rái cá là gì: Rái cá là động vật có vú sống gần sông và bơi rất giỏi.
+con hải ly là gì: Hải ly nổi tiếng với khả năng xây đập bằng gỗ.
+con cầy hương là gì: Cầy hương là động vật ăn tạp sống trong rừng nhiệt đới.
+con linh cẩu là gì: Linh cẩu là động vật ăn thịt và ăn xác thối nổi tiếng ở châu Phi.
+con báo săn là gì: Báo săn là loài động vật chạy nhanh nhất trên cạn.
+con mèo rừng là gì: Mèo rừng là họ hàng hoang dã của mèo nhà.
+con bò xạ là gì: Bò xạ sống ở vùng Bắc Cực và có bộ lông rất dày.
+con bò Tây Tạng là gì: Bò Tây Tạng là động vật thích nghi tốt với vùng núi cao lạnh giá.
+con cừu núi là gì: Cừu núi có khả năng leo núi rất giỏi.
+con linh dương là gì: Linh dương là động vật ăn cỏ nổi tiếng với tốc độ chạy nhanh.
+con lửng là gì: Lửng là động vật đào hang rất giỏi và hoạt động chủ yếu vào ban đêm.
+con đại bàng là gì: Đại bàng là loài chim săn mồi có thị lực rất tốt và đôi cánh khỏe giúp bay cao.
+con chim sẻ là gì: Chim sẻ là loài chim nhỏ sống gần con người và thường ăn hạt cùng côn trùng.
+con chim bồ câu là gì: Bồ câu là loài chim hiền lành, thường được xem là biểu tượng của hòa bình.
+con chim én là gì: Chim én là loài chim nhỏ nổi tiếng với khả năng bay nhanh và thường xuất hiện vào mùa xuân.
+con chim hải âu là gì: Hải âu là loài chim biển có thể bay xa và sống gần đại dương.
+con chim cánh cụt là gì: Chim cánh cụt là loài chim không biết bay, sống chủ yếu ở Nam Cực và bơi rất giỏi.
+con chim công là gì: Chim công nổi tiếng với bộ lông đuôi nhiều màu sắc rực rỡ.
+con chim hồng hạc là gì: Hồng hạc là loài chim có đôi chân dài và bộ lông màu hồng đặc trưng.
+con chim cú mèo là gì: Cú mèo là loài chim săn mồi hoạt động chủ yếu vào ban đêm.
+con chim vẹt là gì: Vẹt là loài chim thông minh có khả năng bắt chước âm thanh và tiếng nói.
+con chim sáo là gì: Chim sáo nổi tiếng với khả năng bắt chước nhiều loại âm thanh.
+con chim chào mào là gì: Chào mào là loài chim hót được nhiều người nuôi làm cảnh.
+con chim họa mi là gì: Họa mi nổi tiếng với giọng hót trong trẻo và phong phú.
+con chim sơn ca là gì: Sơn ca là loài chim nhỏ có tiếng hót rất hay.
+con chim cu gáy là gì: Cu gáy là loài chim quen thuộc ở vùng nông thôn với tiếng kêu đặc trưng.
+con chim cắt là gì: Chim cắt là loài chim săn mồi có tốc độ lao xuống rất nhanh.
+con chim ó là gì: Chim ó là loài chim săn mồi thường bay lượn trên bầu trời để tìm thức ăn.
+con chim diều hâu là gì: Diều hâu là loài chim săn mồi có móng vuốt sắc bén.
+con chim thiên nga là gì: Thiên nga là loài chim nước nổi tiếng với vẻ đẹp thanh lịch.
+con chim vịt trời là gì: Vịt trời là tổ tiên của nhiều giống vịt nhà hiện nay.
+con chim ngỗng là gì: Ngỗng là loài chim nước lớn thường được nuôi lấy thịt và trứng.
+con chim le le là gì: Le le là loài chim nước nhỏ thường sống ở ao hồ.
+con chim bói cá là gì: Bói cá là loài chim có chiếc mỏ dài dùng để bắt cá.
+con chim gõ kiến là gì: Gõ kiến dùng chiếc mỏ khỏe để đục thân cây tìm côn trùng.
+con chim tu hú là gì: Tu hú nổi tiếng với tập tính đẻ trứng nhờ vào tổ của loài chim khác.
+con chim yến là gì: Chim yến dùng nước bọt để xây tổ, tổ yến được xem là thực phẩm quý.
+con chim én biển là gì: Én biển là loài chim sống gần biển và săn cá nhỏ.
+con chim bìm bịp là gì: Bìm bịp là loài chim có tiếng kêu vang trong các bụi rậm.
+con chim đa đa là gì: Đa đa là loài chim sống trên mặt đất và chạy rất nhanh.
+con chim trĩ là gì: Chim trĩ có bộ lông đẹp và thường được nuôi làm cảnh.
+con chim cút là gì: Chim cút là loài chim nhỏ thường được nuôi để lấy trứng.
+con chim gà rừng là gì: Gà rừng là tổ tiên hoang dã của gà nhà.
+con chim ác là gì: Chim ác là loài chim thông minh có bộ lông đen trắng.
+con chim quạ là gì: Quạ nổi tiếng với trí thông minh và khả năng sử dụng công cụ đơn giản.
+con chim két là gì: Két là họ hàng của vẹt với bộ lông nhiều màu sắc.
+con chim sẻ núi là gì: Sẻ núi là loài chim nhỏ sống ở vùng đồi núi và rừng.
+con chim lặn là gì: Chim lặn có khả năng bơi và lặn rất giỏi để tìm cá.
+con chim choắt là gì: Chim choắt là loài chim nước có đôi chân dài.
+con chim mòng biển là gì: Mòng biển thường sống ven biển và ăn cá hoặc động vật nhỏ.
+con chim bồ nông là gì: Bồ nông có chiếc túi lớn dưới mỏ để bắt cá.
+con chim cò là gì: Cò là loài chim chân dài thường kiếm ăn ở ruộng và đầm lầy.
+con chim vạc là gì: Vạc là họ hàng của cò và thường kiếm ăn vào ban đêm.
+con chim sếu là gì: Sếu là loài chim cao lớn với đôi chân và cổ dài.
+con chim ibis là gì: Ibis là loài chim nước có chiếc mỏ cong dài.
+con chim mỏ thìa là gì: Chim mỏ thìa có đầu mỏ bè rộng giống chiếc thìa.
+con chim kiwi là gì: Kiwi là loài chim không biết bay, chỉ sống ở New Zealand.
+con chim đà điểu là gì: Đà điểu là loài chim lớn nhất thế giới và chạy rất nhanh.
+con chim emu là gì: Emu là loài chim lớn không biết bay sống ở Úc.
+con chim cassowary là gì: Cassowary là loài chim lớn có chiếc mào cứng trên đầu và đôi chân rất khỏe.
+con chim nhạn là gì: Nhạn là loài chim có khả năng bay liên tục trong thời gian dài.
+con chim hút mật là gì: Chim hút mật dùng chiếc mỏ dài để hút mật hoa và góp phần thụ phấn cho cây.
+con cá chép là gì: Cá chép là loài cá nước ngọt phổ biến, thường được nuôi làm thực phẩm và cá cảnh.
+con cá vàng là gì: Cá vàng là loài cá cảnh nổi tiếng với nhiều màu sắc và hình dáng đẹp.
+con cá koi là gì: Cá koi là giống cá chép cảnh có nguồn gốc từ Nhật Bản, tượng trưng cho may mắn và kiên trì.
+con cá rô phi là gì: Cá rô phi là loài cá nước ngọt được nuôi rộng rãi để làm thực phẩm.
+con cá rô đồng là gì: Cá rô đồng là loài cá sống ở ao, hồ và ruộng lúa, thịt thơm ngon.
+con cá lóc là gì: Cá lóc là loài cá săn mồi nước ngọt, còn được gọi là cá quả ở một số vùng.
+con cá trê là gì: Cá trê là loài cá da trơn có râu dài và sống chủ yếu ở đáy sông, ao.
+con cá basa là gì: Cá basa là loài cá da trơn được nuôi nhiều ở Việt Nam để xuất khẩu.
+con cá tra là gì: Cá tra là loài cá nước ngọt có giá trị kinh tế cao.
+con cá hồi là gì: Cá hồi là loài cá nổi tiếng với thịt giàu omega-3 và thường sống ở vùng nước lạnh.
+con cá ngừ là gì: Cá ngừ là loài cá biển bơi rất nhanh và là nguồn thực phẩm phổ biến.
+con cá thu là gì: Cá thu là loài cá biển giàu dinh dưỡng và thường được chế biến thành nhiều món ăn.
+con cá nục là gì: Cá nục là loài cá biển nhỏ, được đánh bắt nhiều ở vùng nhiệt đới.
+con cá mòi là gì: Cá mòi là loài cá biển nhỏ thường sống theo đàn lớn.
+con cá cơm là gì: Cá cơm là loài cá nhỏ được dùng để làm nước mắm và nhiều món ăn.
+con cá bống là gì: Cá bống là loài cá nhỏ sống ở nước ngọt và nước lợ.
+con cá he là gì: Cá he là loài cá nước ngọt có thân dẹp và thường sống ở sông hồ.
+con cá mè là gì: Cá mè là loài cá nước ngọt ăn sinh vật phù du.
+con cá trắm là gì: Cá trắm là loài cá nước ngọt lớn thường được nuôi để lấy thịt.
+con cá chim là gì: Cá chim là loài cá biển có thân dẹt và thịt ngon.
+con cá mú là gì: Cá mú là loài cá biển sống gần rạn san hô và có giá trị kinh tế cao.
+con cá hồng là gì: Cá hồng là loài cá biển có màu hồng đỏ và thịt chắc.
+con cá cam là gì: Cá cam là loài cá biển lớn có tốc độ bơi nhanh.
+con cá kiếm là gì: Cá kiếm là loài cá biển lớn với chiếc mõm dài như thanh kiếm.
+con cá cờ là gì: Cá cờ là loài cá nổi tiếng với chiếc vây lưng lớn và tốc độ bơi cực nhanh.
+con cá mập là gì: Cá mập là nhóm cá săn mồi sống ở biển với bộ răng sắc bén.
+con cá mập trắng là gì: Cá mập trắng lớn là một trong những loài cá săn mồi lớn nhất đại dương.
+con cá mập đầu búa là gì: Cá mập đầu búa có phần đầu đặc biệt giống hình chiếc búa.
+con cá đuối là gì: Cá đuối có thân dẹt và thường sống sát đáy biển.
+con cá đuối điện là gì: Cá đuối điện có khả năng tạo ra dòng điện để tự vệ và săn mồi.
+con cá nóc là gì: Cá nóc là loài cá có thể phồng to cơ thể khi gặp nguy hiểm.
+con cá hề là gì: Cá hề sống cộng sinh với hải quỳ và nổi tiếng qua bộ phim Đi tìm Nemo.
+con cá thiên thần là gì: Cá thiên thần là loài cá cảnh biển có màu sắc rất đẹp.
+con cá bướm là gì: Cá bướm là loài cá biển nhỏ với hoa văn rực rỡ.
+con cá ngựa là gì: Cá ngựa là loài cá có hình dạng giống quân cờ ngựa và con đực mang trứng.
+con cá sấu hỏa tiễn là gì: Cá sấu hỏa tiễn là loài cá nước ngọt lớn có mõm dài giống cá sấu.
+con cá hổ là gì: Cá hổ là loài cá cảnh nổi tiếng với các sọc đen trên thân.
+con cá lau kiếng là gì: Cá lau kiếng thường được nuôi để ăn rêu trong bể cá.
+con cá dĩa là gì: Cá dĩa là loài cá cảnh nước ngọt có thân tròn và màu sắc đẹp.
+con cá thần tiên là gì: Cá thần tiên là loài cá cảnh phổ biến với chiếc vây dài mềm mại.
+con cá neon là gì: Cá neon là loài cá cảnh nhỏ có dải màu xanh đỏ phát sáng.
+con cá bảy màu là gì: Cá bảy màu là loài cá cảnh sinh sản nhanh và có nhiều màu sắc.
+con cá molly là gì: Cá molly là loài cá cảnh nước ngọt hiền lành và dễ nuôi.
+con cá kiếm cảnh là gì: Cá kiếm cảnh có phần đuôi kéo dài giống thanh kiếm.
+con cá platy là gì: Cá platy là loài cá cảnh nhỏ với nhiều màu sắc khác nhau.
+con cá chuột là gì: Cá chuột là loài cá đáy thường được nuôi để dọn thức ăn thừa.
+con cá tai tượng là gì: Cá tai tượng là loài cá nước ngọt lớn có thể sống trong môi trường ít oxy.
+con cá sấu gar là gì: Cá gar là loài cá cổ đại với thân dài và hàm răng sắc nhọn.
+con cá hải tượng là gì: Cá hải tượng là một trong những loài cá nước ngọt lớn nhất thế giới.
+con cá vược là gì: Cá vược là loài cá biển và nước lợ có giá trị kinh tế cao.
+con cá sấu là gì: Cá sấu là loài bò sát lớn sống ở sông, hồ và đầm lầy, nổi tiếng với lực cắn rất mạnh.
+con cá sấu nước mặn là gì: Cá sấu nước mặn là loài bò sát lớn nhất còn sống trên Trái Đất.
+con cá sấu Mỹ là gì: Cá sấu Mỹ sống ở các vùng đầm lầy và cửa sông thuộc châu Mỹ.
+con cá sấu Xiêm là gì: Cá sấu Xiêm là loài cá sấu nước ngọt quý hiếm ở Đông Nam Á.
+con cá sấu mõm dài là gì: Cá sấu mõm dài có chiếc mõm hẹp giúp bắt cá hiệu quả.
+con cá sấu Gavial là gì: Gavial là loài cá sấu có mõm rất dài và chuyên săn cá.
+con rùa là gì: Rùa là loài bò sát có mai cứng bảo vệ cơ thể và sống rất lâu.
+con rùa biển là gì: Rùa biển sống chủ yếu ở đại dương và chỉ lên bờ để đẻ trứng.
+con rùa xanh là gì: Rùa xanh là loài rùa biển ăn cỏ biển và rong biển khi trưởng thành.
+con rùa da là gì: Rùa da là loài rùa biển lớn nhất thế giới với mai mềm đặc biệt.
+con rùa hộp là gì: Rùa hộp có khả năng khép kín mai để tự vệ.
+con rùa sao là gì: Rùa sao có hoa văn hình ngôi sao rất đẹp trên mai.
+con ba ba là gì: Ba ba là loài bò sát nước ngọt có mai mềm và cổ dài.
+con kỳ đà là gì: Kỳ đà là loài thằn lằn lớn có khả năng bơi và leo trèo tốt.
+con rồng Komodo là gì: Rồng Komodo là loài thằn lằn lớn nhất thế giới và là động vật săn mồi mạnh.
+con tắc kè là gì: Tắc kè nổi tiếng với khả năng bám tường và tiếng kêu đặc trưng.
+con thạch sùng là gì: Thạch sùng là loài thằn lằn nhỏ thường sống trong nhà và ăn côn trùng.
+con cự đà là gì: Cự đà là loài bò sát ăn thực vật, thường sống ở vùng nhiệt đới.
+con thằn lằn là gì: Thằn lằn là loài bò sát nhỏ có khả năng tự đứt đuôi để chạy trốn kẻ săn mồi.
+con thằn lằn bóng là gì: Thằn lằn bóng có thân trơn và di chuyển rất nhanh.
+con thằn lằn gai là gì: Thằn lằn gai có nhiều gai nhọn giúp tự vệ.
+con tắc kè hoa là gì: Tắc kè hoa nổi tiếng với khả năng thay đổi màu sắc cơ thể.
+con rắn hổ mang là gì: Rắn hổ mang là loài rắn có nọc độc mạnh và có thể bạnh cổ khi đe dọa.
+con rắn hổ mang chúa là gì: Rắn hổ mang chúa là loài rắn độc dài nhất thế giới.
+con rắn lục là gì: Rắn lục là nhóm rắn có màu xanh và nhiều loài mang nọc độc.
+con rắn cạp nong là gì: Rắn cạp nong là loài rắn độc có các khoang vàng và đen.
+con rắn cạp nia là gì: Rắn cạp nia là loài rắn độc hoạt động chủ yếu vào ban đêm.
+con rắn ráo là gì: Rắn ráo là loài rắn không độc và rất nhanh nhẹn.
+con rắn nước là gì: Rắn nước thường sống ở ao hồ và chủ yếu ăn cá.
+con rắn trăn là gì: Trăn là loài rắn lớn không có nọc độc và siết chặt con mồi.
+con trăn gấm là gì: Trăn gấm là một trong những loài rắn dài nhất thế giới.
+con trăn Miến Điện là gì: Trăn Miến Điện là loài trăn lớn sống ở Đông Nam Á.
+con trăn xanh là gì: Trăn xanh sống trên cây và có màu xanh nổi bật.
+con rắn chuông là gì: Rắn chuông có chiếc đuôi phát ra âm thanh cảnh báo khi bị đe dọa.
+con rắn san hô là gì: Rắn san hô là loài rắn có màu sắc sặc sỡ và nọc độc mạnh.
+con rắn sữa là gì: Rắn sữa là loài rắn không độc với màu sắc giống rắn san hô.
+con rắn bắp là gì: Rắn bắp là loài rắn cảnh hiền lành và dễ nuôi.
+con rắn cây là gì: Rắn cây thường sống trên cành cây và săn các động vật nhỏ.
+con rắn roi là gì: Rắn roi có thân dài, mảnh và di chuyển rất linh hoạt.
+con rắn biển là gì: Rắn biển là loài bò sát sống ở đại dương và nhiều loài có nọc độc.
+con rắn biển sọc là gì: Rắn biển sọc có các khoang màu đen trắng xen kẽ.
+con rắn mũi lợn là gì: Rắn mũi lợn có phần mũi hơi hếch lên giúp đào đất.
+con rắn hổ trâu là gì: Rắn hổ trâu là loài rắn lớn không độc, thường ăn chuột.
+con rắn giun là gì: Rắn giun là loài rắn nhỏ sống dưới lòng đất.
+con rắn mống là gì: Rắn mống có lớp da ánh lên nhiều màu dưới ánh sáng.
+con kỳ nhông là gì: Kỳ nhông là loài bò sát nhỏ thường sống ở vùng khô ráo.
+con thằn lằn sa mạc là gì: Thằn lằn sa mạc thích nghi tốt với môi trường khô nóng.
+con thằn lằn báo là gì: Thằn lằn báo là loài bò sát cảnh nổi tiếng với các đốm trên cơ thể.
+con rùa cạn châu Phi là gì: Đây là loài rùa cạn lớn sống ở các vùng khô hạn của châu Phi.
+con rùa chân đỏ là gì: Rùa chân đỏ là loài rùa cạn có các mảng màu đỏ hoặc cam trên chân.
+con ếch đồng là gì: Ếch đồng là loài lưỡng cư phổ biến sống ở ruộng, ao và đầm lầy, thường ăn côn trùng.
+con ếch cây là gì: Ếch cây có các đầu ngón chân bám dính giúp leo trèo trên cành cây.
+con ếch xanh là gì: Ếch xanh là loài lưỡng cư có màu xanh giúp ngụy trang trong môi trường tự nhiên.
+con ếch bò là gì: Ếch bò là loài ếch lớn nổi tiếng với tiếng kêu giống tiếng bò.
+con ếch phi tiêu độc là gì: Đây là loài ếch nhỏ có màu sắc sặc sỡ và da chứa độc tố để tự vệ.
+con ếch thủy tinh là gì: Ếch thủy tinh có phần bụng gần như trong suốt, có thể nhìn thấy nội tạng.
+con ếch sừng là gì: Ếch sừng có cái miệng rất rộng và khả năng săn mồi mạnh mẽ.
+con ếch báo là gì: Ếch báo có các đốm trên da giống hoa văn của báo.
+con ếch gỗ là gì: Ếch gỗ có khả năng chịu lạnh rất tốt và sống ở các khu rừng.
+con ếch châu Phi là gì: Đây là loài ếch sống dưới nước và thường được nuôi trong phòng thí nghiệm.
+con cóc nhà là gì: Cóc nhà là loài lưỡng cư ăn nhiều côn trùng có hại cho cây trồng.
+con cóc mía là gì: Cóc mía là loài cóc lớn được đưa đến nhiều nơi để kiểm soát sâu hại.
+con cóc sừng là gì: Cóc sừng có phần đầu nhiều u nổi và lớp da dày.
+con cóc Surinam là gì: Cóc Surinam nổi tiếng vì con cái mang trứng trên lưng.
+con cóc chân ngắn là gì: Đây là loài cóc thích nghi với việc đào hang trong đất.
+con sa giông là gì: Sa giông là loài lưỡng cư có thân dài và đuôi rõ rệt.
+con kỳ giông là gì: Kỳ giông là loài lưỡng cư có khả năng tái tạo chân và đuôi khi bị mất.
+con kỳ giông khổng lồ Trung Quốc là gì: Đây là loài lưỡng cư lớn nhất thế giới hiện nay.
+con kỳ giông Nhật Bản là gì: Loài kỳ giông này sống ở các con suối nước lạnh tại Nhật Bản.
+con kỳ giông hổ là gì: Kỳ giông hổ có các vệt màu vàng nổi bật trên cơ thể.
+con kỳ giông đốm là gì: Kỳ giông đốm có các chấm màu sáng trên nền da tối.
+con kỳ giông lửa là gì: Kỳ giông lửa có màu đen kết hợp các mảng đỏ hoặc cam rất nổi bật.
+con kỳ giông Mexico là gì: Đây là loài axolotl nổi tiếng vì giữ đặc điểm ấu trùng suốt đời.
+con axolotl là gì: Axolotl là loài lưỡng cư có khả năng tái tạo nhiều bộ phận của cơ thể.
+con axolotl bạch tạng là gì: Đây là một biến thể màu trắng hồng rất phổ biến trong nuôi cảnh.
+con axolotl vàng là gì: Biến thể này có màu vàng nhạt và mắt sáng.
+con ếch Darwin là gì: Ếch Darwin nổi tiếng vì con đực ấp trứng trong túi thanh quản.
+con ếch túi là gì: Ếch túi mang trứng trong túi da trên lưng cho đến khi nở.
+con ếch bay là gì: Ếch bay có màng chân rộng giúp lượn giữa các cành cây.
+con ếch đào hang là gì: Loài ếch này dành phần lớn thời gian sống dưới lòng đất.
+con ếch mưa là gì: Ếch mưa thường xuất hiện sau những cơn mưa lớn.
+con ếch bùn là gì: Ếch bùn thích sống ở các khu vực đất bùn ẩm.
+con ếch suối là gì: Ếch suối sinh sống gần các dòng nước chảy trong rừng.
+con ếch núi là gì: Loài ếch này thích nghi với môi trường vùng núi cao.
+con ếch vàng là gì: Ếch vàng có màu da vàng óng giúp dễ nhận biết.
+con ếch nâu là gì: Ếch nâu có màu sắc giúp ngụy trang trên nền đất và lá khô.
+con cóc gai là gì: Cóc gai có lớp da sần sùi với nhiều u nhỏ.
+con cóc sa mạc là gì: Loài cóc này có thể sống ở môi trường rất khô hạn.
+con kỳ giông hang động là gì: Kỳ giông hang động thích nghi với môi trường tối và thường có mắt kém phát triển.
+con kỳ giông nước là gì: Đây là nhóm kỳ giông sống gần như hoàn toàn dưới nước.
+con kỳ giông rừng là gì: Loài kỳ giông này sống trong các khu rừng ẩm.
+con kỳ giông đen là gì: Kỳ giông đen có cơ thể màu tối và thích khí hậu mát mẻ.
+con kỳ giông xanh là gì: Một số loài kỳ giông có màu xanh giúp ngụy trang tốt.
+con kỳ giông đỏ là gì: Loài này có màu đỏ nổi bật để cảnh báo kẻ săn mồi.
+con ếch độc vàng là gì: Đây là loài ếch có độc tố mạnh và màu vàng rất nổi bật.
+con ếch độc xanh là gì: Loài ếch này có màu xanh sáng cùng lớp da chứa độc tố.
+con ếch mắt đỏ là gì: Ếch mắt đỏ nổi tiếng với đôi mắt đỏ lớn và cơ thể màu xanh lá.
+con cóc chân xẻng là gì: Cóc chân xẻng có chân sau khỏe để đào đất rất nhanh.
+con cóc bụng lửa là gì: Cóc bụng lửa có phần bụng màu đỏ hoặc cam dùng để cảnh báo kẻ thù.
+con ếch đồng châu Á là gì: Đây là loài ếch phổ biến ở nhiều quốc gia châu Á và thường sống gần đồng ruộng.
+con kiến là gì: Kiến là loài côn trùng sống theo đàn với sự phân chia nhiệm vụ rất rõ ràng.
+con kiến lửa là gì: Kiến lửa nổi tiếng với vết cắn gây đau rát và thường làm tổ dưới đất.
+con kiến vàng là gì: Kiến vàng sống trên cây và thường được dùng để phòng trừ sâu hại tự nhiên.
+con kiến thợ mộc là gì: Kiến thợ mộc đào tổ trong gỗ nhưng không ăn gỗ như mối.
+con ong mật là gì: Ong mật là loài côn trùng tạo ra mật ong và giúp thụ phấn cho cây trồng.
+con ong nghệ là gì: Ong nghệ có thân to, nhiều lông và là loài thụ phấn rất hiệu quả.
+con ong bắp cày là gì: Ong bắp cày là loài ong săn mồi có khả năng đốt để tự vệ.
+con ong vò vẽ là gì: Ong vò vẽ là loài ong lớn có nọc độc và bảo vệ tổ rất quyết liệt.
+con bướm là gì: Bướm là loài côn trùng có đôi cánh nhiều màu sắc và trải qua quá trình biến thái hoàn toàn.
+con bướm phượng là gì: Bướm phượng có kích thước lớn và hoa văn cánh rất đẹp.
+con bướm đêm là gì: Bướm đêm chủ yếu hoạt động vào ban đêm và thường bị thu hút bởi ánh sáng.
+con chuồn chuồn là gì: Chuồn chuồn là loài côn trùng bay nhanh và thường sống gần ao hồ.
+con chuồn chuồn kim là gì: Chuồn chuồn kim có thân nhỏ và đôi cánh mảnh mai.
+con bọ rùa là gì: Bọ rùa là loài côn trùng có ích vì ăn rệp và nhiều loài sâu hại.
+con bọ ngựa là gì: Bọ ngựa là loài côn trùng săn mồi với hai chân trước khỏe để bắt con mồi.
+con bọ que là gì: Bọ que có hình dạng giống cành cây để ngụy trang.
+con bọ lá là gì: Bọ lá có cơ thể giống chiếc lá giúp tránh kẻ săn mồi.
+con ve sầu là gì: Ve sầu nổi tiếng với tiếng kêu lớn vào mùa hè.
+con dế là gì: Dế là loài côn trùng có khả năng nhảy xa và phát ra âm thanh bằng cánh.
+con dế mèn là gì: Dế mèn là loài dế phổ biến sống trong hang dưới đất.
+con cào cào là gì: Cào cào là loài côn trùng ăn thực vật với đôi chân sau rất khỏe.
+con châu chấu là gì: Châu chấu có thể tạo thành đàn lớn gây hại cho mùa màng.
+con bọ chét là gì: Bọ chét là loài côn trùng ký sinh hút máu động vật.
+con rận là gì: Rận là loài côn trùng ký sinh trên tóc hoặc lông của vật chủ.
+con muỗi là gì: Muỗi là loài côn trùng hút máu và có thể truyền một số bệnh.
+con muỗi vằn là gì: Muỗi vằn là loài muỗi có khả năng truyền bệnh sốt xuất huyết.
+con ruồi nhà là gì: Ruồi nhà là loài côn trùng phổ biến và có thể mang theo vi khuẩn.
+con ruồi giấm là gì: Ruồi giấm thường xuất hiện gần trái cây chín và được dùng nhiều trong nghiên cứu khoa học.
+con bọ hung là gì: Bọ hung nổi tiếng với tập tính lăn phân thành những viên tròn.
+con bọ cánh cứng là gì: Bọ cánh cứng là nhóm côn trùng có lớp cánh trước rất cứng.
+con bọ cánh cam là gì: Bọ cánh cam là tên gọi khác của một số loài bọ rùa.
+con bọ sừng là gì: Bọ sừng có chiếc sừng lớn trên đầu dùng để tranh giành bạn tình.
+con bọ tê giác là gì: Bọ tê giác là một trong những loài bọ khỏe nhất so với kích thước cơ thể.
+con bọ gậy là gì: Bọ gậy là giai đoạn ấu trùng sống dưới nước của muỗi.
+con mối là gì: Mối là loài côn trùng sống theo đàn và có thể gây hư hại đồ gỗ.
+con mối chúa là gì: Mối chúa là cá thể sinh sản chính trong tổ mối.
+con mối lính là gì: Mối lính có nhiệm vụ bảo vệ tổ khỏi kẻ thù.
+con bọ nước là gì: Bọ nước sống trên mặt ao hồ và có thể di chuyển rất nhanh.
+con cà cuống là gì: Cà cuống là loài côn trùng nước lớn với mùi hương đặc trưng.
+con bọ xít là gì: Bọ xít là nhóm côn trùng có nhiều loài ăn thực vật hoặc săn mồi.
+con bọ xít hút máu là gì: Đây là loài côn trùng ký sinh hút máu động vật và con người.
+con bọ nhảy là gì: Bọ nhảy là loài côn trùng nhỏ có khả năng bật nhảy rất xa.
+con rệp là gì: Rệp là loài côn trùng nhỏ hút nhựa cây hoặc hút máu tùy từng loài.
+con sâu bướm là gì: Sâu bướm là giai đoạn ấu trùng của bướm và bướm đêm.
+con sâu đo là gì: Sâu đo di chuyển bằng cách co duỗi cơ thể giống đang đo khoảng cách.
+con sâu xanh là gì: Sâu xanh là loài sâu thường gây hại cho nhiều loại rau màu.
+con sâu khoang là gì: Sâu khoang là loài sâu hại phổ biến trên cây trồng nông nghiệp.
+con bọ bạc là gì: Bọ bạc là loài côn trùng nhỏ thường sống ở nơi ẩm và ăn giấy hoặc vải.
+con bọ cạp nước là gì: Bọ cạp nước là côn trùng sống dưới nước với đôi chân trước dùng để bắt mồi.
+con ve chó là gì: Ve chó là loài ký sinh hút máu trên chó và nhiều động vật có vú.
+con nhện nhà là gì: Nhện nhà là loài nhện phổ biến thường sống trong các góc tường và giúp bắt côn trùng.
+con nhện sói là gì: Nhện sói là loài nhện săn mồi không dùng lưới mà đuổi bắt con mồi.
+con nhện nhảy là gì: Nhện nhảy có đôi mắt lớn và khả năng nhảy rất xa so với kích thước cơ thể.
+con nhện góa phụ đen là gì: Nhện góa phụ đen là loài nhện có nọc độc mạnh và cơ thể màu đen bóng.
+con nhện tarantula là gì: Tarantula là nhóm nhện lớn có nhiều lông và thường sống trong hang.
+con nhện cua là gì: Nhện cua có hai chân trước dài và thường phục kích trên hoa.
+con nhện dệt lưới là gì: Nhện dệt lưới tạo nên những tấm lưới hình tròn để bắt côn trùng.
+con nhện phễu là gì: Nhện phễu xây tổ hình phễu và chờ con mồi đi qua.
+con nhện túi là gì: Nhện túi tạo tổ bằng tơ trong các khe hở hoặc lá cây.
+con nhện săn khổng lồ là gì: Đây là một trong những loài nhện có sải chân lớn nhất thế giới.
+con bọ cạp là gì: Bọ cạp là động vật chân khớp có hai càng lớn và chiếc đuôi mang nọc độc.
+con bọ cạp hoàng đế là gì: Bọ cạp hoàng đế là loài bọ cạp lớn với màu đen đặc trưng.
+con bọ cạp vàng là gì: Bọ cạp vàng là loài bọ cạp sống ở vùng khô hạn và có nọc độc mạnh.
+con bọ cạp rừng là gì: Bọ cạp rừng thích sống trong các khu rừng ẩm và dưới gốc cây.
+con cuốn chiếu là gì: Cuốn chiếu là động vật nhiều chân có khả năng cuộn tròn khi gặp nguy hiểm.
+con cuốn chiếu khổng lồ là gì: Đây là loài cuốn chiếu có chiều dài lớn và sống ở vùng nhiệt đới.
+con rết là gì: Rết là động vật nhiều chân có nọc độc để săn mồi và tự vệ.
+con rết đỏ là gì: Rết đỏ có màu đỏ nâu nổi bật và di chuyển rất nhanh.
+con rết khổng lồ là gì: Rết khổng lồ có thể dài hơn ba mươi xen-ti-mét và săn các động vật nhỏ.
+con ve là gì: Ve là động vật ký sinh hút máu trên nhiều loài động vật.
+con ve bò là gì: Ve bò thường ký sinh trên gia súc và có thể truyền bệnh.
+con ve mèo là gì: Ve mèo là loài ve thường sống trên mèo và một số động vật nhỏ.
+con ve chim là gì: Ve chim ký sinh trên nhiều loài chim hoang dã.
+con mò đỏ là gì: Mò đỏ là ấu trùng của một số loài ve và có thể gây ngứa.
+con nhện đỏ là gì: Nhện đỏ là loài chân khớp nhỏ thường gây hại cho cây trồng.
+con nhện đỏ hai chấm là gì: Đây là loài nhện đỏ phổ biến trên nhiều loại cây nông nghiệp.
+con bét là gì: Bét là nhóm động vật chân khớp cực nhỏ sống trong đất hoặc ký sinh.
+con mạt bụi là gì: Mạt bụi là sinh vật cực nhỏ sống trong bụi nhà và thức ăn của chúng là da chết.
+con mạt gà là gì: Mạt gà là loài ký sinh hút máu gia cầm.
+con mạt phô mai là gì: Mạt phô mai là sinh vật nhỏ có thể xuất hiện trong thực phẩm bảo quản lâu.
+con cua móng ngựa là gì: Cua móng ngựa là động vật cổ đại có quan hệ gần với nhện hơn là cua.
+con nhện biển là gì: Nhện biển là nhóm động vật chân khớp sống dưới đại dương với chân rất dài.
+con bọ biển chân dài là gì: Đây là động vật chân khớp sống ở vùng nước nông ven biển.
+con bọ biển khổng lồ là gì: Loài này sống ở vùng biển sâu và có kích thước lớn hơn họ hàng gần bờ.
+con nhện hang động là gì: Nhện hang động thích nghi với môi trường tối và ẩm.
+con nhện cát là gì: Nhện cát có khả năng vùi mình dưới cát để phục kích con mồi.
+con nhện lạc đà là gì: Nhện lạc đà là động vật chân khớp sống ở sa mạc và chạy rất nhanh.
+con bọ roi là gì: Bọ roi có chiếc đuôi dài như roi nhưng không có nọc độc.
+con bọ roi không đuôi là gì: Đây là động vật chân khớp có đôi chân trước rất dài để cảm nhận môi trường.
+con nhện roi là gì: Nhện roi là động vật sống về đêm với cặp chân trước giống roi.
+con bọ cạp roi là gì: Bọ cạp roi có khả năng phun chất có mùi để tự vệ.
+con nhện lông là gì: Nhện lông có cơ thể phủ nhiều lông giúp cảm nhận môi trường.
+con nhện hang sâu là gì: Loài nhện này đào hang và chờ con mồi đến gần.
+con nhện mặt cười là gì: Nhện mặt cười có hoa văn trên bụng giống khuôn mặt đang cười.
+con nhện công là gì: Nhện công là loài nhện nhảy có màu sắc rực rỡ và điệu nhảy giao phối độc đáo.
+con nhện vườn là gì: Nhện vườn thường dệt lưới giữa các bụi cây để bắt côn trùng.
+con nhện cỏ là gì: Nhện cỏ sống trong đồng cỏ và săn các côn trùng nhỏ.
+con nhện nước là gì: Nhện nước có thể di chuyển trên mặt nước hoặc lặn ngắn để săn mồi.
+con nhện bạc là gì: Nhện bạc sống dưới nước và tạo bong bóng khí để hô hấp.
+con nhện mai rùa là gì: Nhện mai rùa có phần bụng cứng giống chiếc mai nhỏ giúp tự vệ.
+con nhện gai là gì: Nhện gai có nhiều gai nhọn trên bụng để làm kẻ săn mồi khó nuốt.
+con cua đồng là gì: Cua đồng là loài giáp xác sống ở ruộng, ao và sông, thường được dùng làm thực phẩm.
+con cua biển là gì: Cua biển là loài giáp xác sống ở vùng nước mặn với hai chiếc càng khỏe.
+con cua hoàng đế là gì: Cua hoàng đế là loài cua biển có kích thước rất lớn và giá trị kinh tế cao.
+con cua tuyết là gì: Cua tuyết sống ở vùng biển lạnh và nổi tiếng với thịt ngọt.
+con cua xanh là gì: Cua xanh là loài cua biển có mai màu xanh và khả năng bơi tốt.
+con cua đỏ đảo Giáng Sinh là gì: Đây là loài cua nổi tiếng với cuộc di cư hàng triệu cá thể mỗi năm.
+con cua ẩn sĩ là gì: Cua ẩn sĩ dùng vỏ ốc bỏ trống để bảo vệ phần bụng mềm của mình.
+con cua nhện Nhật Bản là gì: Đây là loài cua có sải chân dài nhất thế giới.
+con cua violin là gì: Cua violin có một chiếc càng lớn nổi bật dùng để thu hút bạn tình.
+con cua dừa là gì: Cua dừa là loài giáp xác sống trên cạn lớn nhất thế giới.
+con tôm sú là gì: Tôm sú là loài tôm biển lớn được nuôi phổ biến để làm thực phẩm.
+con tôm thẻ chân trắng là gì: Đây là loài tôm nuôi có giá trị kinh tế cao.
+con tôm hùm là gì: Tôm hùm là loài giáp xác biển lớn nổi tiếng với thịt ngon.
+con tôm hùm gai là gì: Tôm hùm gai không có càng lớn như tôm hùm càng.
+con tôm hùm càng là gì: Loài tôm này có hai chiếc càng rất to và khỏe.
+con tôm càng xanh là gì: Tôm càng xanh là loài tôm nước ngọt có đôi càng dài màu xanh.
+con tôm đất là gì: Tôm đất là loài tôm nhỏ sống ở vùng ven biển và cửa sông.
+con tôm bạc là gì: Tôm bạc là loài tôm biển có thân màu sáng.
+con tôm tích là gì: Tôm tích nổi tiếng với cú đấm cực mạnh để săn mồi.
+con tôm bác sĩ là gì: Tôm bác sĩ giúp làm sạch ký sinh trên cá rạn san hô.
+con tôm ma là gì: Tôm ma có cơ thể gần như trong suốt.
+con tôm pha lê là gì: Tôm pha lê là loài tôm cảnh nước ngọt có hoa văn đẹp.
+con tôm cherry là gì: Tôm cherry là loài tôm cảnh nhỏ có màu đỏ nổi bật.
+con tôm Amano là gì: Tôm Amano thường được nuôi trong bể thủy sinh để ăn rêu.
+con tép đồng là gì: Tép đồng là loài giáp xác nhỏ sống ở sông và ruộng.
+con tép suối là gì: Tép suối sống trong các dòng suối nước sạch.
+con krill là gì: Krill là loài giáp xác nhỏ sống thành đàn lớn và là nguồn thức ăn quan trọng của cá voi.
+con bọ chét nước là gì: Bọ chét nước là giáp xác nhỏ sống trong nước ngọt.
+con chân chèo là gì: Chân chèo là nhóm giáp xác cực nhỏ sống trong đại dương.
+con chân kiếm là gì: Chân kiếm là giáp xác phù du rất quan trọng trong chuỗi thức ăn biển.
+con hà biển là gì: Hà biển là giáp xác bám chặt vào đá hoặc tàu thuyền.
+con hà ngỗng là gì: Hà ngỗng là loài giáp xác có cuống dài sống ở vùng biển.
+con rận cá là gì: Rận cá là loài giáp xác ký sinh trên cá.
+con rận biển là gì: Rận biển là nhóm giáp xác nhỏ sống ký sinh hoặc tự do.
+con isopod khổng lồ là gì: Đây là loài giáp xác biển sâu có hình dạng giống bọ khổng lồ.
+con isopod nước ngọt là gì: Loài giáp xác này sống dưới đáy sông và hồ.
+con amphipod là gì: Amphipod là nhóm giáp xác nhỏ sống ở biển và nước ngọt.
+con mysid là gì: Mysid là loài giáp xác nhỏ còn được gọi là tôm opossum.
+con copepod là gì: Copepod là nhóm giáp xác phù du rất phổ biến trong đại dương.
+con ostracod là gì: Ostracod là giáp xác cực nhỏ có lớp vỏ cứng bao quanh cơ thể.
+con cua móng ngựa biển là gì: Đây là tên gọi địa phương của một số loài cua sống ven biển.
+con cua đá là gì: Cua đá sống trên các bãi đá ven biển và rất nhanh nhẹn.
+con cua mặt quỷ là gì: Cua mặt quỷ có hoa văn trên mai giống khuôn mặt.
+con cua san hô là gì: Cua san hô sống giữa các rạn san hô và ăn mảnh vụn hữu cơ.
+con cua bơi là gì: Cua bơi có chân sau dẹt giúp bơi rất nhanh.
+con cua bùn là gì: Cua bùn sống trong các bãi bùn ven biển và cửa sông.
+con tôm cát là gì: Tôm cát là loài tôm nhỏ thường sống ở vùng đáy cát.
+con tôm rồng là gì: Tôm rồng là tên gọi của một số loài tôm hùm có kích thước lớn.
+con tôm sông là gì: Tôm sông sống ở nước ngọt và là nguồn thực phẩm phổ biến.
+con tôm nhảy là gì: Tôm nhảy có khả năng bật mạnh để thoát khỏi kẻ săn mồi.
+con bạch tuộc là gì: Bạch tuộc là động vật thân mềm có tám xúc tu và nổi tiếng với trí thông minh.
+con bạch tuộc khổng lồ Thái Bình Dương là gì: Đây là loài bạch tuộc lớn nhất thế giới hiện nay.
+con bạch tuộc vòng xanh là gì: Bạch tuộc vòng xanh có nọc độc rất mạnh dù kích thước nhỏ.
+con mực ống là gì: Mực ống là loài thân mềm sống ở biển và được dùng nhiều làm thực phẩm.
+con mực nang là gì: Mực nang có lớp mai xốp bên trong cơ thể giúp điều chỉnh độ nổi.
+con mực lá là gì: Mực lá có thân dẹt và hai vây lớn chạy dọc thân.
+con mực khổng lồ là gì: Mực khổng lồ sống ở biển sâu và có đôi mắt rất lớn.
+con mực ma cà rồng là gì: Mực ma cà rồng là sinh vật biển sâu có màu đỏ sẫm và phát sáng.
+con mực phát sáng là gì: Một số loài mực có thể phát ra ánh sáng nhờ cơ quan phát quang.
+con mực lùn là gì: Mực lùn có kích thước nhỏ và thường sống gần bờ biển.
+con sứa là gì: Sứa là động vật biển có cơ thể mềm và nhiều loài có xúc tu gây bỏng.
+con sứa mặt trăng là gì: Sứa mặt trăng có cơ thể trong suốt và hình chiếc ô.
+con sứa bờm sư tử là gì: Đây là một trong những loài sứa lớn nhất thế giới.
+con sứa hộp là gì: Sứa hộp có nọc độc rất mạnh và sống ở vùng biển nhiệt đới.
+con sứa bất tử là gì: Đây là loài sứa có khả năng quay trở lại giai đoạn non trong điều kiện đặc biệt.
+con sao biển là gì: Sao biển là động vật da gai có khả năng tái tạo cánh bị mất.
+con sao biển gai là gì: Sao biển gai có nhiều gai nhọn và có thể gây hại cho rạn san hô.
+con sao biển xanh là gì: Sao biển xanh có màu sắc nổi bật và sống ở vùng biển nông.
+con nhím biển là gì: Nhím biển có cơ thể tròn và phủ đầy gai để tự vệ.
+con nhím biển tím là gì: Loài nhím biển này có màu tím đặc trưng và sống gần đá ngầm.
+con hải sâm là gì: Hải sâm là động vật biển thân mềm dài và sống dưới đáy biển.
+con hải quỳ là gì: Hải quỳ có xúc tu mềm và thường sống cộng sinh với cá hề.
+con san hô là gì: San hô là động vật biển tạo nên các rạn san hô rộng lớn.
+con san hô mềm là gì: San hô mềm không tạo bộ xương đá cứng như san hô cứng.
+con san hô cứng là gì: San hô cứng là thành phần chính tạo nên các rạn san hô.
+con trai nước ngọt là gì: Trai nước ngọt là loài thân mềm có hai mảnh vỏ và có thể tạo ngọc.
+con trai ngọc là gì: Trai ngọc được nuôi để tạo ra những viên ngọc trai quý.
+con hàu là gì: Hàu là loài thân mềm sống bám vào đá và được dùng làm thực phẩm.
+con sò huyết là gì: Sò huyết là loài nhuyễn thể có giá trị dinh dưỡng cao.
+con sò lông là gì: Sò lông có lớp lông mịn phủ bên ngoài vỏ.
+con sò điệp là gì: Sò điệp là loài nhuyễn thể có hai mảnh vỏ hình quạt.
+con nghêu là gì: Nghêu là loài nhuyễn thể sống vùi trong cát ven biển.
+con ngao là gì: Ngao là tên gọi của nhiều loài nhuyễn thể hai mảnh vỏ sống ở biển.
+con chem chép là gì: Chem chép là loài nhuyễn thể nước ngọt thường sống ở ao hồ.
+con vẹm xanh là gì: Vẹm xanh là loài nhuyễn thể có vỏ màu xanh đen và sống bám trên đá.
+con ốc sên là gì: Ốc sên là loài thân mềm có vỏ xoắn và di chuyển bằng chân bụng.
+con ốc bươu là gì: Ốc bươu là loài ốc nước ngọt phổ biến ở Việt Nam.
+con ốc bươu vàng là gì: Ốc bươu vàng là loài ngoại lai có thể gây hại cho lúa.
+con ốc hương là gì: Ốc hương là loài ốc biển nổi tiếng với thịt thơm ngon.
+con ốc len là gì: Ốc len sống ở rừng ngập mặn và thường được chế biến thành nhiều món ăn.
+con ốc giác là gì: Ốc giác là loài ốc biển có kích thước lớn.
+con ốc vòi voi là gì: Ốc vòi voi có chiếc vòi rất dài và sống vùi trong cát.
+con ốc anh vũ là gì: Ốc anh vũ là loài thân mềm cổ đại với chiếc vỏ xoắn đẹp.
+con ốc cối là gì: Ốc cối có nọc độc dùng để săn mồi dưới biển.
+con ốc mặt trăng là gì: Ốc mặt trăng có chiếc vỏ tròn nhẵn đặc trưng.
+con ốc tai tượng là gì: Ốc tai tượng là loài ốc biển có kích thước rất lớn.
+con bào ngư là gì: Bào ngư là loài thân mềm quý có giá trị kinh tế cao.
+con hải miên là gì: Hải miên là động vật biển đơn giản còn được gọi là bọt biển.
+con giun nhiều tơ là gì: Giun nhiều tơ là động vật biển có nhiều chân nhỏ dọc cơ thể.
+con giun thìa là gì: Giun thìa là động vật biển có chiếc vòi dài dùng để kiếm thức ăn.
+voi ma mút là gì: Voi ma mút là loài voi cổ đại đã tuyệt chủng, từng sống trong thời kỳ băng hà.
+hổ răng kiếm là gì: Hổ răng kiếm là động vật ăn thịt cổ đại nổi tiếng với cặp răng nanh rất dài.
+chim dodo là gì: Chim dodo là loài chim không biết bay đã tuyệt chủng vào thế kỷ XVII.
+bồ câu viễn khách là gì: Đây từng là một trong những loài chim đông nhất thế giới trước khi tuyệt chủng.
+hổ Tasmania là gì: Hổ Tasmania là loài thú có túi ăn thịt đã tuyệt chủng ở thế kỷ XX.
+bò biển Steller là gì: Bò biển Steller là loài động vật biển khổng lồ đã tuyệt chủng do săn bắt.
+tê giác lông mượt là gì: Đây là loài tê giác cổ đại sống trong thời kỳ băng hà.
+nai sừng khổng lồ là gì: Nai sừng khổng lồ có cặp sừng rộng tới hơn ba mét.
+gấu mặt ngắn là gì: Gấu mặt ngắn là một trong những loài gấu lớn nhất từng tồn tại.
+sói khổng lồ là gì: Sói khổng lồ là loài chó hoang cổ đại từng sống ở châu Mỹ.
+khủng long Tyrannosaurus rex là gì: Tyrannosaurus rex là một trong những loài khủng long ăn thịt nổi tiếng nhất.
+khủng long Velociraptor là gì: Velociraptor là loài khủng long nhỏ, nhanh nhẹn và săn mồi theo nhóm.
+khủng long Triceratops là gì: Triceratops có ba chiếc sừng lớn và chiếc diềm xương trên đầu.
+khủng long Stegosaurus là gì: Stegosaurus nổi tiếng với các tấm xương lớn trên lưng.
+khủng long Ankylosaurus là gì: Ankylosaurus có lớp giáp dày và chiếc đuôi hình chùy để tự vệ.
+khủng long Spinosaurus là gì: Spinosaurus là loài khủng long ăn thịt có chiếc vây lớn trên lưng.
+khủng long Brachiosaurus là gì: Brachiosaurus là loài khủng long cổ dài ăn thực vật khổng lồ.
+khủng long Diplodocus là gì: Diplodocus có chiếc cổ và đuôi rất dài, chuyên ăn lá cây.
+khủng long Allosaurus là gì: Allosaurus là loài săn mồi lớn sống trước Tyrannosaurus rex.
+khủng long Parasaurolophus là gì: Parasaurolophus có chiếc mào dài trên đầu để phát ra âm thanh.
+thằn lằn bay Pteranodon là gì: Pteranodon là loài bò sát bay cổ đại với đôi cánh rất lớn.
+Quetzalcoatlus là gì: Quetzalcoatlus là một trong những loài động vật biết bay lớn nhất từng tồn tại.
+thú biển Mosasaurus là gì: Mosasaurus là loài bò sát biển khổng lồ sống vào cuối kỷ Phấn Trắng.
+Plesiosaurus là gì: Plesiosaurus là bò sát biển cổ đại có cổ rất dài.
+Ichthyosaurus là gì: Ichthyosaurus có hình dáng giống cá heo nhưng là bò sát.
+cá mập Megalodon là gì: Megalodon là loài cá mập khổng lồ đã tuyệt chủng.
+chim khủng bố là gì: Chim khủng bố là nhóm chim săn mồi khổng lồ không biết bay.
+Argentavis là gì: Argentavis là loài chim bay lớn nhất từng được biết đến.
+Aurochs là gì: Aurochs là tổ tiên hoang dã của bò nhà hiện đại.
+ngựa hoang Tarpan là gì: Tarpan là loài ngựa hoang châu Âu đã tuyệt chủng.
+saiga là gì: Saiga là loài linh dương có chiếc mũi lớn đặc biệt.
+okapi là gì: Okapi là họ hàng gần của hươu cao cổ nhưng có sọc giống ngựa vằn.
+dugong là gì: Dugong là động vật biển ăn cỏ, còn gọi là bò biển.
+kỳ lân biển là gì: Kỳ lân biển hay narwhal là loài cá voi có chiếc ngà dài đặc trưng.
+cá voi trắng Beluga là gì: Beluga là loài cá voi màu trắng sống ở vùng Bắc Cực.
+cá voi đầu cong là gì: Cá voi đầu cong có lớp mỡ dày giúp chịu được giá lạnh.
+hải tượng là gì: Hải tượng là loài thú biển lớn với cặp ngà dài.
+hải cẩu Weddell là gì: Đây là loài hải cẩu sống ở Nam Cực.
+chim cốc biển là gì: Chim cốc biển là loài chim lặn rất giỏi để bắt cá.
+chim hải âu vua là gì: Đây là loài hải âu có sải cánh rất lớn.
+cua Yeti là gì: Cua Yeti là loài giáp xác biển sâu có nhiều lông trên càng.
+cá rồng châu Á là gì: Cá rồng châu Á là loài cá cảnh quý hiếm được nhiều người yêu thích.
+cá rồng bạc là gì: Cá rồng bạc là loài cá lớn sống ở sông Amazon.
+cá mặt trăng là gì: Cá mặt trăng là loài cá xương nặng nhất thế giới.
+cá mái chèo là gì: Cá mái chèo là loài cá biển sâu rất dài và hiếm gặp.
+lươn sói là gì: Lươn sói là loài cá biển có hàm răng rất khỏe.
+cá quỷ là gì: Cá quỷ biển sâu dùng chiếc cần phát sáng để dụ con mồi.
+cá răng nanh là gì: Cá răng nanh biển sâu có những chiếc răng rất dài so với cơ thể.
+bọ nước khổng lồ là gì: Bọ nước khổng lồ là côn trùng nước lớn có thể săn cả cá nhỏ.
+rắn Titanoboa là gì: Titanoboa là loài rắn lớn nhất từng được biết đến trong lịch sử Trái Đất.
+bây giờ là sáng hay tối: Điều đó còn phụ thuộc vào thời gian hiện tại ở nơi bạn đang sống.
+hôm nay là thứ mấy: Bạn có thể xem trên điện thoại hoặc máy tính để biết chính xác hôm nay là thứ mấy.
+mai là ngày gì: Ngày mai là ngày tiếp theo sau hôm nay.
+hôm qua là ngày gì: Hôm qua là ngày trước hôm nay một ngày.
+mấy giờ rồi: Mình không phải lúc nào cũng biết giờ chính xác, hãy xem đồng hồ trên thiết bị của bạn.
+hôm nay có đẹp trời không: Điều đó phụ thuộc vào thời tiết nơi bạn đang ở.
+trời có mưa không: Bạn nên xem dự báo thời tiết của khu vực mình đang sống.
+trời có nóng không: Nhiệt độ sẽ khác nhau tùy từng địa điểm.
+trời có lạnh không: Bạn nên kiểm tra nhiệt độ hiện tại để biết chính xác.
+năm nay là năm bao nhiêu: Điều đó phụ thuộc vào thời gian hiện tại.
+tháng này là tháng mấy: Bạn có thể xem trên lịch của điện thoại hoặc máy tính.
+ngày mai có đi học không: Điều đó phụ thuộc vào lịch học hoặc lịch nghỉ của bạn.
+bao giờ đến cuối tuần: Cuối tuần sẽ đến sau khi kết thúc các ngày làm việc trong tuần.
+bao giờ được nghỉ hè: Thời gian nghỉ hè phụ thuộc vào trường học hoặc nơi bạn sinh sống.
+hôm nay có sự kiện gì: Có thể có nhiều sự kiện khác nhau tùy từng địa phương.
+mình nên làm gì hôm nay: Bạn có thể học tập, làm việc, tập thể dục hoặc thư giãn.
+mình đang buồn: Hy vọng mọi chuyện sẽ sớm tốt hơn. Bạn muốn chia sẻ điều gì không?
+mình đang vui: Thật tuyệt. Mong niềm vui đó sẽ kéo dài cả ngày.
+mình đang chán: Có thể thử nghe nhạc, xem phim hoặc học một điều mới.
+mình đang mệt: Hãy nghỉ ngơi và uống đủ nước nếu có thể.
+mình đang đói: Có lẽ đã đến lúc ăn một bữa ngon rồi.
+mình đang khát: Hãy uống một cốc nước để cơ thể khỏe hơn.
+mình không biết làm gì: Bạn có thể đọc sách, chơi game hoặc học một kỹ năng mới.
+mình nên ngủ chưa: Nếu đã khuya hoặc cảm thấy mệt thì nghỉ ngơi là một ý hay.
+ngủ ngon nhé: Cảm ơn, chúc bạn cũng có một giấc ngủ thật ngon.
+chúc mình ngủ ngon đi: Chúc bạn ngủ ngon và có những giấc mơ đẹp.
+chúc mình may mắn đi: Chúc bạn gặp thật nhiều may mắn và thành công.
+chúc mình thi tốt đi: Chúc bạn bình tĩnh, tự tin và làm bài thật tốt.
+chúc mình sinh nhật vui vẻ đi: Chúc mừng sinh nhật, chúc bạn luôn mạnh khỏe và hạnh phúc.
+chúc mình một ngày tốt lành đi: Chúc bạn có một ngày thật vui vẻ và nhiều năng lượng.
+mình thất bại rồi: Thất bại chỉ là một bước trên con đường tiến bộ, đừng nản lòng.
+mình thành công rồi: Xin chúc mừng, thành quả của bạn thật đáng tự hào.
+mình vừa đạt điểm cao: Tuyệt vời, hãy tiếp tục phát huy nhé.
+mình vừa bị điểm thấp: Đừng quá buồn, lần sau bạn sẽ làm tốt hơn.
+mình bị cảm rồi: Hãy nghỉ ngơi và chăm sóc sức khỏe thật tốt.
+mình khỏe rồi: Thật vui khi nghe điều đó.
+mình mới ăn xong: Hy vọng bữa ăn của bạn thật ngon miệng.
+mình mới thức dậy: Chúc bạn bắt đầu một ngày thật tuyệt.
+mình sắp đi ngủ: Chúc bạn có một giấc ngủ ngon.
+mình đang học: Chúc bạn học tập hiệu quả.
+mình đang làm bài tập: Cố lên, bạn sẽ hoàn thành sớm thôi.
+mình đang làm việc: Chúc công việc của bạn diễn ra thuận lợi.
+mình đang chơi game: Chúc bạn có những phút giây giải trí vui vẻ.
+mình đang nghe nhạc: Hy vọng bài hát bạn nghe thật hay.
+mình đang xem phim: Chúc bạn có thời gian thư giãn thật thú vị.
+mình đang đọc sách: Đọc sách là một thói quen rất tốt.
+mình nên ăn gì: Hãy chọn món ăn phù hợp với khẩu vị và sức khỏe của bạn.
+mình nên uống gì: Nước lọc luôn là lựa chọn tốt cho cơ thể.
+mình có thông minh không: Mỗi người đều có điểm mạnh riêng của mình.
+mình có thể làm được không: Mình tin rằng nếu cố gắng thì bạn sẽ tiến bộ từng ngày.
+học giỏi bằng cách nào: Hãy học đều mỗi ngày, ôn lại kiến thức cũ và luyện tập thường xuyên.
+làm sao để nhớ bài lâu: Bạn nên hiểu bài trước rồi mới học thuộc và ôn tập nhiều lần.
+làm sao để tập trung học: Hãy tắt những thứ gây xao nhãng và chia thời gian học thành từng khoảng ngắn.
+học buổi sáng hay buổi tối tốt hơn: Điều này phụ thuộc vào thói quen và khả năng tập trung của mỗi người.
+bao lâu nên nghỉ khi học: Sau khoảng bốn mươi lăm đến sáu mươi phút học, bạn nên nghỉ vài phút.
+học nhiều có tốt không: Học nhiều sẽ tốt nếu bạn biết nghỉ ngơi hợp lý.
+làm sao để không buồn ngủ khi học: Hãy ngủ đủ giấc, uống nước và học ở nơi đủ ánh sáng.
+làm bài tập trước hay học bài trước: Bạn nên học hiểu bài rồi mới làm bài tập.
+làm sao để đạt điểm cao: Hãy học đều, ôn kỹ và luyện nhiều dạng bài.
+điểm thấp có sao không: Điểm thấp chỉ là kết quả tạm thời, bạn vẫn có thể cải thiện.
+mình sợ kiểm tra: Hãy ôn tập kỹ và giữ bình tĩnh khi làm bài.
+làm sao để thi tốt: Chuẩn bị kiến thức đầy đủ và ngủ đủ trước ngày thi.
+thi rớt thì sao: Bạn vẫn còn nhiều cơ hội để cố gắng ở lần sau.
+làm sao để làm toán nhanh: Hãy luyện tập thường xuyên và nắm chắc công thức.
+làm sao để học tiếng anh: Bạn nên luyện nghe, nói, đọc và viết mỗi ngày.
+làm sao để học văn tốt: Hãy đọc nhiều sách và luyện viết thường xuyên.
+làm sao để học sử dễ nhớ: Hãy ghi nhớ theo mốc thời gian và sơ đồ.
+làm sao để học địa lý: Hãy kết hợp bản đồ với kiến thức trong sách.
+làm sao để học hóa: Hãy hiểu bản chất phản ứng thay vì chỉ học thuộc.
+làm sao để học vật lý: Hãy hiểu công thức và luyện giải nhiều bài tập.
+làm sao để học sinh học: Hãy kết hợp hình ảnh với lý thuyết.
+làm sao để học tin học: Hãy vừa học lý thuyết vừa thực hành trên máy tính.
+giáo viên giao nhiều bài quá: Hãy chia nhỏ công việc và hoàn thành từng phần.
+mai kiểm tra rồi: Chúc bạn ôn tập thật tốt và tự tin.
+mai thi rồi: Chúc bạn đạt kết quả như mong muốn.
+mình quên làm bài tập: Lần sau hãy ghi chú để không quên nhé.
+mình được điểm mười: Xin chúc mừng, bạn đã cố gắng rất tốt.
+mình bị điểm không: Đừng nản lòng, hãy xem đó là động lực để tiến bộ.
+mình được cô khen: Thật tuyệt, hãy tiếp tục phát huy nhé.
+mình bị cô nhắc: Hãy rút kinh nghiệm để lần sau tốt hơn.
+mình bị phạt: Hy vọng bạn sẽ học được điều có ích từ việc này.
+mình mới vào lớp: Chúc bạn có nhiều bạn mới và học tập thật vui.
+mình sắp ra trường: Chúc bạn có một chặng đường mới thành công.
+mình không hiểu bài: Đừng ngại hỏi thầy cô hoặc bạn bè.
+mình học chậm: Chỉ cần kiên trì, bạn vẫn sẽ tiến bộ.
+mình học nhanh quá: Thật tốt, hãy giúp đỡ những bạn khác nếu có thể.
+làm sao để ghi nhớ công thức: Hãy luyện tập sử dụng công thức trong nhiều bài khác nhau.
+làm sao để viết chữ đẹp: Hãy luyện viết đều đặn mỗi ngày.
+làm sao để đọc nhanh: Hãy luyện đọc từng ngày và tăng tốc từ từ.
+làm sao để tính nhẩm nhanh: Hãy luyện các phép tính đơn giản mỗi ngày.
+mình ghét học: Hãy thử tìm cách học thú vị hơn và đặt mục tiêu nhỏ.
+mình thích học: Đó là một thói quen rất đáng khích lệ.
+mình vừa làm xong bài tập: Làm tốt lắm, giờ bạn có thể nghỉ ngơi một chút.
+mình vừa học xong: Hy vọng buổi học của bạn thật hiệu quả.
+mình sắp vào tiết học: Chúc bạn có một tiết học thật vui.
+mình đang ôn thi: Chúc bạn ôn tập hiệu quả và đạt kết quả cao.
+mình nên học môn nào trước: Hãy bắt đầu với môn quan trọng hoặc khó nhất.
+làm sao để không quên bài cũ: Ôn lại kiến thức định kỳ sẽ giúp bạn nhớ lâu hơn.
+mình có nên học nhóm không: Học nhóm sẽ hiệu quả nếu mọi người cùng tập trung.
+mình nên nghỉ giải lao không: Nghỉ ngắn sẽ giúp đầu óc tỉnh táo hơn.
+wifi bị yếu: Hãy thử đến gần bộ phát Wi-Fi hoặc khởi động lại modem.
+wifi bị mất: Kiểm tra xem modem có hoạt động bình thường hay không.
+mạng chậm quá: Có thể có nhiều người đang dùng mạng hoặc đường truyền đang gặp vấn đề.
+không vào được mạng: Hãy kiểm tra kết nối Wi-Fi hoặc dữ liệu di động.
+máy tính bị đơ: Hãy chờ một lúc hoặc khởi động lại máy tính.
+máy tính bị lag: Có thể máy đang chạy quá nhiều chương trình cùng lúc.
+điện thoại bị lag: Hãy đóng các ứng dụng không cần thiết và khởi động lại máy.
+điện thoại bị nóng: Hãy để máy nghỉ một lúc và tránh sử dụng khi đang sạc.
+pin tụt nhanh: Độ sáng cao và nhiều ứng dụng chạy nền có thể làm hao pin.
+pin sạc không vào: Hãy kiểm tra cáp sạc, củ sạc và cổng sạc.
+máy tự tắt nguồn: Có thể pin yếu hoặc hệ thống đang gặp lỗi.
+điện thoại hết bộ nhớ: Bạn nên xóa bớt tệp hoặc ứng dụng không cần thiết.
+máy tính hết dung lượng: Hãy dọn dẹp các tệp không còn sử dụng.
+không tải được ứng dụng: Hãy kiểm tra kết nối mạng và dung lượng còn trống.
+ứng dụng bị lỗi: Hãy thử cập nhật hoặc cài đặt lại ứng dụng.
+game bị văng: Có thể thiết bị không đủ bộ nhớ hoặc game đang gặp lỗi.
+game bị giật: Hãy giảm thiết lập đồ họa hoặc đóng các ứng dụng chạy nền.
+loa không có tiếng: Kiểm tra âm lượng và xem thiết bị có đang ở chế độ im lặng không.
+tai nghe không hoạt động: Hãy thử cắm lại hoặc kết nối lại tai nghe.
+micro không hoạt động: Kiểm tra quyền truy cập micro của ứng dụng.
+camera bị mờ: Hãy lau sạch ống kính camera.
+camera không mở được: Hãy khởi động lại ứng dụng hoặc thiết bị.
+bàn phím bị lỗi: Hãy thử đổi sang bàn phím khác hoặc khởi động lại máy.
+chuột không hoạt động: Kiểm tra pin hoặc kết nối của chuột.
+bàn phím không gõ được: Hãy kiểm tra xem bàn phím đã được kết nối đúng chưa.
+màn hình bị đen: Hãy kiểm tra nguồn điện hoặc thử khởi động lại thiết bị.
+máy không lên nguồn: Kiểm tra pin hoặc bộ sạc trước khi thử lại.
+máy khởi động chậm: Có thể có quá nhiều chương trình khởi động cùng hệ thống.
+ổ cứng đầy: Bạn nên xóa bớt dữ liệu hoặc chuyển sang thiết bị lưu trữ khác.
+usb không nhận: Hãy thử cắm sang cổng USB khác.
+bluetooth không kết nối được: Hãy tắt rồi bật lại Bluetooth.
+không mở được file: Có thể thiết bị chưa có ứng dụng phù hợp để mở tệp đó.
+máy bị treo: Hãy thử khởi động lại thiết bị.
+không gửi được tin nhắn: Kiểm tra kết nối mạng hoặc số dư nếu dùng SMS.
+không gọi được: Hãy kiểm tra tín hiệu sóng và tài khoản của bạn.
+không nhận được cuộc gọi: Có thể chế độ không làm phiền đang được bật.
+không vào được youtube: Kiểm tra mạng hoặc thử lại sau.
+không vào được google: Hãy kiểm tra kết nối Internet.
+không vào được facebook: Có thể dịch vụ đang gặp sự cố hoặc mạng không ổn định.
+không vào được tiktok: Hãy kiểm tra mạng hoặc cập nhật ứng dụng.
+không đăng nhập được: Kiểm tra lại tên đăng nhập và mật khẩu.
+quên mật khẩu: Hãy sử dụng chức năng đặt lại mật khẩu của dịch vụ.
+máy bị virus: Hãy quét bằng phần mềm bảo mật đáng tin cậy.
+máy bị quảng cáo liên tục: Có thể bạn đã cài một ứng dụng không mong muốn.
+điện thoại bị treo logo: Có thể hệ điều hành đang gặp lỗi khi khởi động.
+máy bị đầy ram: Hãy đóng các ứng dụng không cần thiết.
+máy chạy chậm: Dọn dẹp bộ nhớ và khởi động lại có thể giúp cải thiện hiệu năng.
+không cài được game: Kiểm tra dung lượng còn trống và yêu cầu của game.
+không cập nhật được ứng dụng: Kiểm tra mạng và dung lượng lưu trữ.
+máy bị lỗi hệ thống: Có thể cần cập nhật hoặc đặt lại hệ điều hành.
+thiết bị hoạt động bình thường không: Nếu không xuất hiện lỗi và sử dụng ổn định thì thiết bị vẫn đang hoạt động bình thường.
+hôm nay ăn gì: Hãy chọn món ăn phù hợp với khẩu vị và những nguyên liệu bạn đang có.
+tối nay ăn gì: Một bữa ăn đầy đủ gồm tinh bột, rau và chất đạm sẽ là lựa chọn tốt.
+trưa nay ăn gì: Bạn có thể chọn món ăn vừa ngon vừa đủ dinh dưỡng.
+sáng nay ăn gì: Một bữa sáng đầy đủ sẽ giúp bạn có nhiều năng lượng hơn.
+ăn nhiều có tốt không: Ăn vừa đủ và cân bằng dinh dưỡng sẽ tốt hơn ăn quá nhiều.
+uống nhiều nước có tốt không: Uống đủ nước mỗi ngày rất có lợi cho cơ thể.
+ăn quá no có sao không: Ăn quá no có thể khiến cơ thể cảm thấy khó chịu và đầy bụng.
+ăn quá ít có sao không: Ăn quá ít trong thời gian dài có thể ảnh hưởng đến sức khỏe.
+ăn cay nhiều có tốt không: Ăn quá nhiều đồ cay có thể gây khó chịu cho dạ dày ở một số người.
+ăn ngọt nhiều có tốt không: Ăn quá nhiều đồ ngọt không tốt cho sức khỏe nếu kéo dài.
+ăn mặn nhiều có tốt không: Ăn quá nhiều muối có thể không tốt cho sức khỏe.
+làm sao để nấu cơm ngon: Hãy vo gạo sạch và dùng lượng nước phù hợp với từng loại gạo.
+cơm bị nhão phải làm sao: Lần sau hãy giảm lượng nước khi nấu.
+cơm bị khô phải làm sao: Có thể thêm một ít nước và điều chỉnh lượng nước ở lần nấu sau.
+mì gói có tốt không: Mì gói tiện lợi nhưng không nên dùng quá thường xuyên.
+ăn khuya có sao không: Ăn khuya quá nhiều có thể khiến bạn khó ngủ hoặc khó tiêu.
+uống cà phê có tốt không: Uống với lượng vừa phải có thể phù hợp với nhiều người.
+uống trà có tốt không: Trà có thể là một thức uống dễ chịu nếu dùng hợp lý.
+uống nước ngọt nhiều có tốt không: Nên sử dụng với lượng vừa phải.
+ăn rau có lợi gì: Rau cung cấp nhiều vitamin, khoáng chất và chất xơ.
+ăn trái cây có tốt không: Trái cây là nguồn cung cấp vitamin và chất xơ tự nhiên.
+mình bị đói: Có lẽ đã đến lúc bạn ăn một bữa nhẹ hoặc bữa chính.
+mình vừa ăn no: Hy vọng bữa ăn của bạn thật ngon miệng.
+món nào dễ nấu: Có nhiều món đơn giản như trứng chiên, cơm rang hoặc canh rau.
+làm sao để luộc trứng: Hãy cho trứng vào nước và luộc trong thời gian phù hợp với độ chín mong muốn.
+làm sao để chiên trứng: Đập trứng vào chảo nóng có ít dầu rồi chiên đến khi chín.
+làm sao để nấu canh: Đun nước, cho nguyên liệu vào và nêm nếm vừa khẩu vị.
+ăn sáng có quan trọng không: Bữa sáng giúp nhiều người bắt đầu ngày mới với nhiều năng lượng hơn.
+mình nên ăn rau gì: Hãy chọn loại rau bạn yêu thích và còn tươi ngon.
+mình nên ăn trái cây gì: Bạn có thể chọn trái cây theo mùa để có hương vị ngon hơn.
+ăn đồ nóng hay lạnh tốt hơn: Điều này còn tùy vào món ăn và sở thích của mỗi người.
+mình khát nước quá: Hãy uống một cốc nước để bù nước cho cơ thể.
+mình vừa nấu ăn xong: Chúc bạn có một bữa ăn thật ngon.
+mình đang rửa bát: Cố lên, bạn sẽ xong nhanh thôi.
+mình đang quét nhà: Giữ nhà cửa sạch sẽ là một thói quen tốt.
+mình đang lau nhà: Hy vọng ngôi nhà của bạn sẽ thật sạch sẽ.
+mình đang giặt quần áo: Chúc bạn hoàn thành công việc thật nhanh.
+quần áo lâu khô: Có thể do thời tiết ẩm hoặc thiếu gió.
+trời nắng có nên phơi đồ không: Trời nắng thường giúp quần áo khô nhanh hơn.
+làm sao để phòng sạch hơn: Hãy dọn dẹp thường xuyên và sắp xếp đồ đạc gọn gàng.
+làm sao để ngủ ngon hơn: Hãy cố gắng ngủ đúng giờ và hạn chế dùng thiết bị điện tử trước khi ngủ.
+mình mới thức dậy muộn: Không sao, hãy bắt đầu ngày mới thật tích cực.
+mình mới tắm xong: Hy vọng bạn cảm thấy thật dễ chịu.
+mình đang nấu cơm: Chúc nồi cơm của bạn chín thật ngon.
+mình vừa dọn phòng xong: Thật tuyệt, không gian sạch sẽ sẽ tạo cảm giác thoải mái hơn.
+làm sao để tiết kiệm điện: Hãy tắt các thiết bị khi không sử dụng.
+làm sao để tiết kiệm nước: Hãy sử dụng nước vừa đủ và tránh lãng phí.
+làm sao để sống gọn gàng: Hãy cất đồ đúng chỗ sau khi sử dụng.
+hôm nay mình bận quá: Hãy cố gắng sắp xếp thời gian và nhớ dành chút thời gian để nghỉ ngơi.
+mình nhớ nhà quá: Hy vọng bạn sẽ sớm được gặp lại gia đình.
+mình nhớ mẹ: Mẹ luôn là người yêu thương con vô điều kiện, chúc bạn sớm được gặp mẹ.
+mình nhớ ba: Hy vọng bạn sẽ sớm có dịp trò chuyện và gặp ba.
+mình nhớ ông bà: Chúc ông bà của bạn luôn mạnh khỏe và bình an.
+mình nhớ bạn thân: Tình bạn là điều rất quý giá, hãy nhắn tin hỏi thăm bạn ấy nhé.
+mình nhớ người thân: Mong bạn sẽ sớm được đoàn tụ cùng những người mình yêu quý.
+mình buồn quá: Mọi cảm xúc rồi cũng sẽ qua, hy vọng bạn sớm vui trở lại.
+mình cô đơn: Đôi khi ai cũng có lúc như vậy, hãy thử trò chuyện với người bạn tin tưởng.
+mình thất vọng: Đừng quá nản lòng, mỗi trải nghiệm đều giúp chúng ta trưởng thành hơn.
+mình lo lắng: Hãy bình tĩnh và giải quyết từng việc một.
+mình hồi hộp: Điều đó rất bình thường trước một việc quan trọng.
+mình căng thẳng: Hãy dành ít phút nghỉ ngơi để thư giãn đầu óc.
+mình áp lực quá: Đừng cố gắng ôm quá nhiều việc cùng lúc.
+mình vui lắm: Thật tuyệt, hy vọng niềm vui của bạn sẽ kéo dài.
+mình hạnh phúc: Chúc bạn luôn giữ được những khoảnh khắc đáng nhớ này.
+mình vừa cười xong: Tiếng cười luôn giúp tinh thần trở nên tích cực hơn.
+mình vừa khóc: Hy vọng mọi chuyện sẽ sớm ổn và bạn cảm thấy nhẹ lòng hơn.
+mình muốn kết bạn: Hãy mạnh dạn trò chuyện và cư xử chân thành với mọi người.
+làm sao để có nhiều bạn: Hãy thân thiện, biết lắng nghe và sẵn sàng giúp đỡ người khác.
+bạn bè có quan trọng không: Bạn bè tốt có thể mang lại nhiều niềm vui và sự động viên.
+gia đình có quan trọng không: Gia đình là nơi nhiều người tìm thấy sự yêu thương và sẻ chia.
+mình vừa cãi nhau với bạn: Hãy bình tĩnh và tìm cơ hội nói chuyện khi cả hai đều thoải mái.
+mình vừa cãi nhau với người thân: Một cuộc trò chuyện chân thành có thể giúp hiểu nhau hơn.
+mình vừa xin lỗi: Xin lỗi khi cần là một hành động đáng trân trọng.
+mình được tha thứ rồi: Thật vui khi mọi chuyện đã tốt đẹp hơn.
+mình muốn làm hòa: Hãy bắt đầu bằng một lời nói chân thành.
+mình nên giúp người khác không: Nếu có thể thì giúp đỡ người khác là một việc rất ý nghĩa.
+mình cảm thấy cô lập: Hãy thử tham gia các hoạt động hoặc trò chuyện với người bạn tin tưởng.
+mình muốn tâm sự: Mình luôn sẵn sàng lắng nghe những gì bạn muốn chia sẻ.
+mình đang nhớ một người: Đó là cảm xúc rất bình thường khi ai đó quan trọng với bạn.
+mình nên gọi điện cho người thân không: Nếu bạn đang nhớ họ thì một cuộc gọi sẽ rất ý nghĩa.
+mình muốn cảm ơn ai đó: Một lời cảm ơn chân thành luôn đáng quý.
+mình muốn xin lỗi ai đó: Thành thật nhận lỗi là bước đầu để hàn gắn mối quan hệ.
+mình vừa nhận được quà: Chúc mừng bạn, hy vọng món quà mang lại nhiều niềm vui.
+mình vừa tặng quà: Thật tuyệt, người nhận chắc sẽ rất vui.
+hôm nay mình vui vì gia đình: Hy vọng gia đình bạn luôn tràn ngập tiếng cười.
+mình muốn về quê: Quê hương luôn là nơi mang nhiều kỷ niệm đẹp.
+mình nhớ tuổi thơ: Tuổi thơ thường gắn với nhiều ký ức đáng nhớ.
+mình thích cuộc sống yên bình: Một cuộc sống bình yên giúp nhiều người cảm thấy hạnh phúc.
+mình muốn đi chơi với bạn: Chúc bạn sẽ có khoảng thời gian thật vui vẻ.
+mình mới gặp bạn cũ: Hy vọng hai bạn đã có nhiều kỷ niệm đẹp khi gặp lại.
+mình mới quen bạn mới: Chúc tình bạn mới của bạn sẽ thật bền lâu.
+mình được khen: Xin chúc mừng, đó là thành quả từ sự cố gắng của bạn.
+mình bị chê: Đừng quá buồn, hãy xem đó là cơ hội để cải thiện.
+mình muốn sống tích cực hơn: Hãy bắt đầu từ những điều nhỏ và giữ suy nghĩ lạc quan.
+mình nên mỉm cười nhiều hơn không: Một nụ cười chân thành có thể mang lại năng lượng tích cực.
+mình muốn thay đổi bản thân: Thay đổi từng bước nhỏ sẽ dễ duy trì hơn.
+mình muốn trở thành người tốt hơn: Đó là một mục tiêu rất đáng trân trọng.
+mình hy vọng ngày mai tốt hơn: Hy vọng ngày mai sẽ mang đến cho bạn nhiều điều tốt đẹp.
+cảm ơn vì đã lắng nghe: Không có gì, mình luôn sẵn sàng trò chuyện cùng bạn.
+món này giá bao nhiêu: Giá của sản phẩm sẽ khác nhau tùy từng cửa hàng.
+cái này bán bao nhiêu tiền: Bạn nên xem bảng giá hoặc hỏi người bán.
+có giảm giá không: Điều đó còn tùy vào chương trình khuyến mãi hiện tại.
+hôm nay có khuyến mãi không: Bạn có thể kiểm tra thông tin từ cửa hàng.
+ở đây có bán không: Điều đó phụ thuộc vào từng cửa hàng và khu vực.
+mua ở đâu rẻ: Bạn nên so sánh giá ở nhiều cửa hàng trước khi mua.
+mua online hay mua trực tiếp: Mỗi hình thức đều có ưu điểm riêng tùy nhu cầu của bạn.
+đặt hàng như thế nào: Thông thường bạn chọn sản phẩm rồi làm theo hướng dẫn thanh toán.
+bao lâu thì giao hàng: Thời gian giao hàng phụ thuộc vào đơn vị vận chuyển.
+ship có nhanh không: Điều này còn tùy khoảng cách và dịch vụ giao hàng.
+phí ship bao nhiêu: Phí vận chuyển phụ thuộc vào địa chỉ và đơn vị giao hàng.
+có miễn phí vận chuyển không: Một số cửa hàng có chương trình miễn phí vận chuyển.
+đơn hàng đang ở đâu: Bạn có thể kiểm tra mã vận đơn để biết trạng thái.
+khi nào nhận được hàng: Thời gian nhận hàng phụ thuộc vào đơn vị vận chuyển.
+hàng bị trễ: Đôi khi việc giao hàng có thể chậm hơn dự kiến.
+hàng bị lỗi phải làm sao: Bạn nên liên hệ nơi bán để được hỗ trợ đổi hoặc trả hàng.
+có được đổi hàng không: Điều này phụ thuộc vào chính sách của cửa hàng.
+có được trả hàng không: Bạn nên xem chính sách đổi trả của nơi bán.
+thanh toán bằng tiền mặt được không: Nhiều cửa hàng vẫn hỗ trợ thanh toán bằng tiền mặt.
+thanh toán bằng thẻ được không: Nhiều cửa hàng chấp nhận thanh toán bằng thẻ ngân hàng.
+có thanh toán bằng mã qr không: Nhiều cửa hàng hiện đã hỗ trợ thanh toán bằng mã QR.
+mình quên mang ví: Nếu có thể bạn hãy sử dụng hình thức thanh toán điện tử.
+mình hết tiền rồi: Có lẽ bạn nên cân nhắc chi tiêu hợp lý.
+mình muốn tiết kiệm tiền: Lập kế hoạch chi tiêu sẽ giúp bạn tiết kiệm hiệu quả hơn.
+làm sao để tiết kiệm tiền: Hãy ưu tiên những khoản chi thật sự cần thiết.
+mình nên mua cái nào: Hãy chọn sản phẩm phù hợp với nhu cầu của bạn.
+món này có đáng mua không: Hãy xem đánh giá và so sánh trước khi quyết định.
+sản phẩm này có tốt không: Bạn nên tham khảo thông tin và đánh giá từ nhiều nguồn.
+cái này có bền không: Độ bền còn tùy thuộc vào chất lượng và cách sử dụng.
+nên mua hàng mới hay cũ: Điều này phụ thuộc vào ngân sách và nhu cầu của bạn.
+có bảo hành không: Bạn nên hỏi cửa hàng về chính sách bảo hành.
+bảo hành bao lâu: Thời gian bảo hành sẽ khác nhau tùy từng sản phẩm.
+mình vừa mua đồ mới: Chúc mừng, hy vọng bạn sẽ hài lòng với sản phẩm.
+mình muốn mua quà: Hãy chọn món quà phù hợp với sở thích của người nhận.
+mua quà sinh nhật gì: Một món quà chân thành luôn mang nhiều ý nghĩa.
+mua quà cho ba mẹ: Bạn có thể chọn món quà thiết thực và ý nghĩa.
+mua quà cho bạn bè: Hãy chọn món quà phù hợp với sở thích của người bạn đó.
+mua quà cho trẻ em: Đồ chơi hoặc sách thường là những lựa chọn phổ biến.
+giá này có đắt không: Điều đó còn phụ thuộc vào chất lượng và thị trường.
+giá này có rẻ không: Bạn nên so sánh với các nơi bán khác.
+mình nên mua ngay không: Nếu thật sự cần thì bạn có thể cân nhắc mua.
+đợi giảm giá có nên không: Nếu chưa gấp thì chờ khuyến mãi cũng là một lựa chọn.
+mình mua nhầm rồi: Bạn nên liên hệ cửa hàng để được hỗ trợ nếu có thể.
+mình nhận sai hàng: Hãy liên hệ người bán để được giải quyết.
+mình bị thiếu hàng: Bạn nên kiểm tra đơn hàng và liên hệ cửa hàng.
+hàng bị hỏng khi giao: Hãy chụp ảnh và báo ngay cho nơi bán.
+mình muốn hủy đơn: Nếu đơn chưa giao thì nhiều nơi vẫn cho phép hủy.
+mình muốn theo dõi đơn hàng: Hãy sử dụng mã vận đơn để kiểm tra trạng thái.
+cửa hàng mở cửa lúc mấy giờ: Giờ mở cửa sẽ khác nhau tùy từng cửa hàng.
+cửa hàng đóng cửa lúc mấy giờ: Bạn nên kiểm tra thông tin của cửa hàng trước khi đến.
+đi đâu chơi bây giờ: Bạn có thể chọn một địa điểm phù hợp với thời gian và sở thích của mình.
+cuối tuần nên đi đâu: Cuối tuần là dịp thích hợp để thư giãn hoặc khám phá nơi mới.
+chỗ này có đẹp không: Mỗi địa điểm đều có nét đẹp riêng và đáng để trải nghiệm.
+ở đây có gì chơi: Điều đó còn tùy vào từng địa điểm và khu vực.
+đi biển hay đi núi: Cả hai đều có vẻ đẹp riêng, hãy chọn theo sở thích của bạn.
+đi du lịch một mình có được không: Được, chỉ cần chuẩn bị kỹ và đảm bảo an toàn.
+đi du lịch cùng bạn bè vui không: Đi cùng bạn bè thường mang lại nhiều kỷ niệm đáng nhớ.
+đi xe máy có an toàn không: Hãy đội mũ bảo hiểm và tuân thủ luật giao thông.
+đi ô tô có tiện không: Ô tô mang lại sự thoải mái cho nhiều chuyến đi.
+đi xe buýt như thế nào: Bạn cần tìm đúng tuyến và điểm dừng phù hợp.
+đi tàu hỏa có vui không: Tàu hỏa giúp bạn ngắm cảnh trên suốt hành trình.
+đi máy bay có nhanh không: Máy bay là một trong những phương tiện di chuyển nhanh nhất.
+đi taxi có đắt không: Chi phí còn tùy vào quãng đường và dịch vụ.
+đi xe công nghệ có tiện không: Đây là lựa chọn phổ biến ở nhiều thành phố.
+đường này đi đâu: Bạn có thể xem biển báo hoặc bản đồ để biết hướng đi.
+làm sao để tìm đường: Bạn có thể sử dụng ứng dụng bản đồ trên điện thoại.
+mình bị lạc rồi: Hãy bình tĩnh và xem bản đồ hoặc hỏi người xung quanh.
+đường có đông không: Điều này còn tùy vào thời điểm trong ngày.
+giờ có kẹt xe không: Tình trạng giao thông thay đổi theo từng khu vực và thời gian.
+bao lâu thì tới nơi: Thời gian di chuyển phụ thuộc vào quãng đường và phương tiện.
+gần đây có cây xăng không: Bạn có thể tìm trên ứng dụng bản đồ.
+gần đây có bãi đỗ xe không: Hãy kiểm tra bản đồ hoặc biển chỉ dẫn.
+gần đây có khách sạn không: Nhiều khu vực có khách sạn với nhiều mức giá khác nhau.
+gần đây có nhà nghỉ không: Bạn có thể tìm bằng ứng dụng bản đồ hoặc hỏi người dân.
+gần đây có quán ăn không: Thông thường sẽ có nhiều quán ăn quanh khu dân cư.
+gần đây có quán cà phê không: Bạn có thể tìm bằng bản đồ trên điện thoại.
+gần đây có siêu thị không: Hãy kiểm tra bản đồ để biết vị trí gần nhất.
+gần đây có bệnh viện không: Bạn có thể dùng bản đồ để tìm bệnh viện gần nhất.
+gần đây có hiệu thuốc không: Hiệu thuốc thường có ở các khu dân cư.
+gần đây có cây atm không: Bạn có thể tìm ATM bằng ứng dụng ngân hàng hoặc bản đồ.
+nên xuất phát lúc mấy giờ: Hãy tránh giờ cao điểm nếu có thể.
+đi ban ngày hay ban đêm: Ban ngày thường thuận tiện hơn cho việc quan sát đường đi.
+mình chuẩn bị đi du lịch: Chúc bạn có một chuyến đi thật vui và an toàn.
+mình vừa về từ chuyến đi: Hy vọng bạn đã có nhiều trải nghiệm đáng nhớ.
+mình bị say xe: Hãy nghỉ ngơi và hít thở không khí trong lành nếu có thể.
+xe bị hỏng giữa đường: Hãy tìm nơi an toàn và liên hệ người hỗ trợ nếu cần.
+xe hết xăng rồi: Bạn nên tìm cây xăng gần nhất để tiếp nhiên liệu.
+mình quên mang bằng lái: Nếu điều khiển phương tiện thì bạn nên luôn mang theo giấy tờ cần thiết.
+mình quên mang căn cước: Một số dịch vụ có thể yêu cầu giấy tờ tùy thân.
+mình muốn ngắm cảnh: Chúc bạn sẽ có những bức ảnh và kỷ niệm đẹp.
+mình thích đi phượt: Hãy chuẩn bị đầy đủ đồ dùng và đảm bảo an toàn.
+đường này có dễ đi không: Điều đó còn tùy vào tình trạng đường và phương tiện.
+có nên dùng bản đồ không: Bản đồ sẽ giúp bạn tìm đường thuận tiện hơn.
+mình nên mang gì khi đi du lịch: Hãy mang giấy tờ, quần áo phù hợp và các vật dụng cần thiết.
+đi trời mưa có sao không: Hãy chuẩn bị áo mưa và lái xe cẩn thận.
+đi trời nắng có sao không: Đừng quên mang nước uống và chống nắng.
+mình vừa tới nơi: Chúc bạn có khoảng thời gian thật vui vẻ.
+chuyến đi có vui không: Điều đó phụ thuộc vào những trải nghiệm của mỗi người.
+mình muốn khám phá nơi mới: Khám phá những địa điểm mới luôn mang lại nhiều điều thú vị.
+chúc mình đi đường bình an: Chúc bạn thượng lộ bình an và có một chuyến đi an toàn.
+mình nên làm nghề gì: Hãy chọn nghề phù hợp với sở thích, khả năng và mục tiêu của bạn.
+nghề nào dễ xin việc: Điều này thay đổi theo nhu cầu của thị trường lao động.
+nghề nào lương cao: Mức lương còn phụ thuộc vào kinh nghiệm, kỹ năng và vị trí làm việc.
+nghề nào phù hợp với mình: Bạn nên tìm hiểu điểm mạnh và sở thích của bản thân.
+làm việc chăm chỉ có tốt không: Chăm chỉ là điều tốt nhưng cũng cần nghỉ ngơi hợp lý.
+làm sao để tìm việc: Bạn có thể tìm qua các trang tuyển dụng hoặc người quen giới thiệu.
+làm sao để viết cv: Hãy trình bày ngắn gọn, rõ ràng và trung thực về kinh nghiệm của bạn.
+phỏng vấn có khó không: Nếu chuẩn bị kỹ thì bạn sẽ tự tin hơn khi phỏng vấn.
+mình sắp đi phỏng vấn: Chúc bạn thật bình tĩnh và đạt kết quả tốt.
+mình vừa đậu phỏng vấn: Xin chúc mừng, hy vọng bạn sẽ có một khởi đầu thuận lợi.
+mình trượt phỏng vấn: Đừng nản lòng, lần sau bạn sẽ có thêm kinh nghiệm.
+đi làm có vui không: Điều đó phụ thuộc vào môi trường và công việc của bạn.
+đi làm có mệt không: Công việc nào cũng có những thử thách riêng.
+mình mới đi làm: Chúc bạn nhanh chóng làm quen với công việc mới.
+mình mới nghỉ việc: Hy vọng bạn sẽ sớm tìm được cơ hội phù hợp hơn.
+mình muốn đổi nghề: Nếu đã cân nhắc kỹ thì đây có thể là một quyết định tích cực.
+làm việc nhóm có quan trọng không: Làm việc nhóm là kỹ năng rất cần thiết trong nhiều công việc.
+làm sao để giao tiếp tốt: Hãy lắng nghe, nói rõ ràng và tôn trọng người khác.
+làm sao để tự tin hơn: Hãy luyện tập và tin vào khả năng của bản thân.
+mình bị áp lực công việc: Hãy chia nhỏ công việc và nghỉ ngơi khi cần thiết.
+mình làm sai rồi: Ai cũng có thể mắc lỗi, quan trọng là biết rút kinh nghiệm.
+mình được sếp khen: Xin chúc mừng, đó là kết quả từ sự cố gắng của bạn.
+mình bị sếp nhắc: Hãy xem đó là cơ hội để cải thiện bản thân.
+đồng nghiệp có quan trọng không: Một môi trường làm việc thân thiện sẽ giúp công việc dễ dàng hơn.
+làm thêm có tốt không: Nếu sắp xếp được thời gian thì làm thêm có thể mang lại nhiều kinh nghiệm.
+kiếm tiền khó không: Kiếm tiền cần sự cố gắng, kiên trì và kỹ năng.
+làm sao để tiết kiệm lương: Hãy lập kế hoạch chi tiêu và ưu tiên những khoản cần thiết.
+nên tiêu tiền như thế nào: Hãy chi tiêu hợp lý và tránh mua sắm bốc đồng.
+mình vừa nhận lương: Chúc mừng bạn, hy vọng bạn sẽ sử dụng khoản tiền thật hiệu quả.
+mình hết tiền trước ngày lương: Có lẽ bạn nên xem lại kế hoạch chi tiêu của mình.
+mình muốn tăng lương: Hãy nâng cao kỹ năng và thể hiện tốt trong công việc.
+làm sao để thăng chức: Hãy làm việc hiệu quả và không ngừng học hỏi.
+làm việc từ xa có tốt không: Làm việc từ xa mang lại sự linh hoạt nhưng cần tính kỷ luật.
+làm việc tại văn phòng có tốt không: Văn phòng giúp bạn dễ trao đổi trực tiếp với đồng nghiệp.
+mình muốn mở công ty: Hãy chuẩn bị kế hoạch và tìm hiểu kỹ trước khi bắt đầu.
+mình muốn kinh doanh: Kinh doanh cần sự chuẩn bị và hiểu rõ thị trường.
+bán hàng có khó không: Bán hàng cần kỹ năng giao tiếp và sự kiên nhẫn.
+làm freelancer là gì: Freelancer là người làm việc tự do theo dự án thay vì làm cố định cho một công ty.
+mình muốn kiếm thêm thu nhập: Bạn có thể tìm công việc phù hợp với thời gian rảnh của mình.
+làm việc có cần đúng giờ không: Đúng giờ là một thói quen chuyên nghiệp.
+mình đi làm muộn: Hãy cố gắng sắp xếp thời gian để hạn chế việc này.
+mình vừa hoàn thành công việc: Làm tốt lắm, chúc mừng bạn.
+mình còn nhiều việc quá: Hãy ưu tiên những việc quan trọng trước.
+mình muốn học kỹ năng mới: Học kỹ năng mới sẽ giúp bạn phát triển hơn trong công việc.
+kinh nghiệm có quan trọng không: Kinh nghiệm rất hữu ích nhưng luôn có thể tích lũy theo thời gian.
+bằng cấp có quan trọng không: Bằng cấp hữu ích nhưng kỹ năng và thái độ cũng rất quan trọng.
+mình muốn thành công: Hãy kiên trì, học hỏi và không ngừng cố gắng.
+mình đang cố gắng mỗi ngày: Sự cố gắng hôm nay sẽ mang lại kết quả trong tương lai.
+công việc đầu tiên có ý nghĩa không: Công việc đầu tiên thường mang đến nhiều bài học quý giá.
+chúc mình làm việc thuận lợi: Chúc bạn luôn hoàn thành tốt công việc và đạt nhiều thành công.
+bạn có biết mọi thứ không: Mình biết khá nhiều thông tin nhưng không phải mọi thứ.
+bạn có thể giúp mình không: Tất nhiên, mình sẽ cố gắng hỗ trợ bạn trong khả năng của mình.
+bạn trả lời nhanh thật: Cảm ơn, mình luôn cố gắng phản hồi nhanh và rõ ràng.
+bạn có bao giờ nghỉ không: Mình luôn sẵn sàng hỗ trợ khi bạn cần.
+mình nên hỏi gì: Bạn có thể hỏi về học tập, công nghệ, kiến thức, cuộc sống hoặc nhiều chủ đề khác.
+mình không biết hỏi gì cả: Không sao, hãy kể mình nghe điều bạn đang nghĩ hoặc quan tâm.
+bạn hiểu tiếng việt chứ: Có, mình có thể trò chuyện bằng tiếng Việt.
+bạn hiểu tiếng anh không: Có, mình cũng có thể trò chuyện bằng tiếng Anh.
+bạn biết nhiều ngôn ngữ không: Mình có thể hỗ trợ nhiều ngôn ngữ khác nhau.
+bạn có thể giải thích không: Được, mình sẽ cố gắng giải thích thật dễ hiểu.
+bạn có thể nói ngắn gọn không: Được, mình sẽ trả lời ngắn gọn hơn.
+bạn có thể nói chi tiết không: Được, mình có thể giải thích đầy đủ hơn.
+bạn có thể kể chuyện không: Có, mình có thể kể nhiều loại câu chuyện khác nhau.
+bạn có thể làm thơ không: Có, mình có thể sáng tác thơ theo chủ đề bạn muốn.
+bạn có thể đố vui không: Có, mình biết nhiều câu đố vui và câu hỏi thú vị.
+bạn có biết toán không: Có, mình có thể hỗ trợ nhiều dạng toán khác nhau.
+bạn có biết lập trình không: Có, mình có thể hỗ trợ nhiều ngôn ngữ lập trình.
+bạn có biết khoa học không: Có, mình có thể giải thích nhiều kiến thức khoa học.
+bạn có biết lịch sử không: Có, mình có thể chia sẻ thông tin lịch sử.
+bạn có biết địa lý không: Có, mình có thể trả lời nhiều câu hỏi về địa lý.
+bạn có biết tiếng anh không: Có, mình có thể giúp học và sử dụng tiếng Anh.
+bạn có thể dịch không: Có, mình có thể hỗ trợ dịch nhiều ngôn ngữ.
+bạn có thể viết giúp mình không: Có, mình có thể hỗ trợ viết nhiều loại nội dung.
+bạn có thể sửa lỗi chính tả không: Có, mình có thể giúp kiểm tra và sửa lỗi.
+bạn có thể giải thích từ này không: Được, hãy gửi từ bạn muốn tìm hiểu.
+bạn có thể tính toán không: Có, mình có thể hỗ trợ nhiều phép tính.
+bạn có thể đưa ý tưởng không: Có, mình có thể gợi ý nhiều ý tưởng khác nhau.
+mình nên bắt đầu từ đâu: Hãy bắt đầu từ mục tiêu nhỏ và thực hiện từng bước.
+mình đang phân vân: Hãy cân nhắc ưu và nhược điểm của từng lựa chọn.
+mình cần một lời khuyên: Mình sẽ cố gắng đưa ra lời khuyên phù hợp với thông tin bạn chia sẻ.
+mình nên làm gì tiếp theo: Điều đó phụ thuộc vào mục tiêu hiện tại của bạn.
+mình vừa hoàn thành mục tiêu: Xin chúc mừng, đó là thành quả rất đáng tự hào.
+mình muốn học điều mới: Học hỏi mỗi ngày là một thói quen rất tốt.
+mình muốn giỏi hơn: Hãy kiên trì luyện tập và không ngừng học hỏi.
+mình muốn thử điều mới: Trải nghiệm mới có thể mang đến nhiều bài học thú vị.
+mình cần động lực: Hãy nhớ lý do bạn bắt đầu và tiến từng bước nhỏ.
+mình sắp bỏ cuộc: Nghỉ ngơi một chút rồi tiếp tục cũng là một lựa chọn tốt.
+mình đã cố gắng hết sức: Điều đó rất đáng trân trọng, hãy tự hào về nỗ lực của mình.
+hôm nay có gì thú vị không: Mỗi ngày đều có cơ hội để học và khám phá điều mới.
+cuộc sống có ý nghĩa không: Ý nghĩa cuộc sống thường được mỗi người tự tạo nên qua trải nghiệm và mục tiêu của mình.
+mình muốn thay đổi cuộc sống: Những thay đổi nhỏ và đều đặn có thể tạo nên kết quả lớn.
+mình muốn sống tốt hơn: Hãy chăm sóc sức khỏe, học hỏi và dành thời gian cho những điều quan trọng.
+mình muốn vui hơn: Hãy dành thời gian cho sở thích và những người bạn yêu quý.
+mình muốn thông minh hơn: Đọc sách, học tập và luyện tư duy sẽ giúp bạn tiến bộ.
+mình muốn khỏe hơn: Hãy ngủ đủ, ăn uống hợp lý và vận động thường xuyên.
+mình muốn hạnh phúc hơn: Hãy trân trọng những điều tốt đẹp và giữ cân bằng trong cuộc sống.
+chúc mình một ngày may mắn: Chúc bạn có thật nhiều may mắn và niềm vui.
+chúc mình thành công nhé: Chúc bạn đạt được những mục tiêu mà mình đang theo đuổi.
+cảm ơn bạn rất nhiều: Không có gì, rất vui vì có thể giúp được bạn.
+tạm biệt nhé: Tạm biệt, chúc bạn luôn vui vẻ và hẹn gặp lại.
+facebook là gì: Facebook là một mạng xã hội giúp mọi người kết nối và chia sẻ nội dung.
+youtube là gì: YouTube là nền tảng chia sẻ video trực tuyến nổi tiếng.
+tiktok là gì: TikTok là mạng xã hội chuyên về video ngắn.
+zalo là gì: Zalo là ứng dụng nhắn tin và gọi điện phổ biến tại Việt Nam.
+discord là gì: Discord là ứng dụng trò chuyện bằng văn bản và giọng nói.
+telegram là gì: Telegram là ứng dụng nhắn tin có nhiều tính năng bảo mật.
+instagram là gì: Instagram là mạng xã hội chia sẻ hình ảnh và video.
+twitter là gì: Twitter là mạng xã hội chia sẻ các bài đăng ngắn.
+reddit là gì: Reddit là diễn đàn nơi mọi người chia sẻ và thảo luận nhiều chủ đề.
+google là gì: Google là công cụ tìm kiếm phổ biến nhất thế giới.
+gmail là gì: Gmail là dịch vụ email của Google.
+email là gì: Email là thư điện tử dùng để gửi và nhận thông tin.
+trình duyệt là gì: Trình duyệt là phần mềm dùng để truy cập các trang web.
+website là gì: Website là tập hợp nhiều trang thông tin trên Internet.
+mật khẩu mạnh là gì: Mật khẩu mạnh thường dài và có chữ hoa, chữ thường, số cùng ký tự đặc biệt.
+đăng nhập là gì: Đăng nhập là quá trình truy cập vào tài khoản của bạn.
+đăng xuất là gì: Đăng xuất là quá trình rời khỏi tài khoản đang sử dụng.
+tài khoản là gì: Tài khoản là thông tin định danh để sử dụng một dịch vụ.
+avatar là gì: Avatar là ảnh đại diện của người dùng.
+link là gì: Link là liên kết dẫn đến một nội dung khác.
+wifi miễn phí là gì: Đó là mạng Wi-Fi cho phép kết nối mà không mất phí.
+4g là gì: 4G là công nghệ mạng di động tốc độ cao.
+5g là gì: 5G là thế hệ mạng di động mới có tốc độ rất nhanh.
+internet là gì: Internet là mạng lưới kết nối máy tính trên toàn thế giới.
+trang web không mở được: Có thể do mạng hoặc máy chủ đang gặp sự cố.
+hàng ngày : chăm chỉ luyện tập ngoại ngữ sẽ mang lại kết quả bất ngờ.
+cách giải quyết bài toán khó : hãy chia nhỏ bài toán thành các bước đơn giản để dễ xử lý.
+làm sao để bớt căng thẳng : hít thở sâu, nghe một bản nhạc nhẹ và nghỉ ngơi một chút.
+bí quyết quản lý thời gian : lập danh sách công việc cần làm và ưu tiên việc quan trọng trước.
+tại sao lại bị rớt mạng : có thể do tín hiệu wifi yếu hoặc đường truyền cáp quang gặp sự cố.
+làm thế nào để máy tính nhanh hơn : dọn dẹp file rác, tắt các ứng dụng chạy ngầm và nâng cấp ổ cứng.
+cách học lập trình hiệu quả : nắm vững kiến thức nền tảng và thực hành viết code mỗi ngày.
+tại sao code hay bị lỗi bug : do logic chưa chặt chẽ hoặc sót các điều kiện biên trong chương trình.
+làm gì khi bí ý tưởng : tạm gác công việc lại, đi dạo hoặc tìm kiếm nguồn cảm hứng mới.
+cách để có giấc ngủ ngon : tránh sử dụng điện thoại trước khi ngủ và giữ phòng ngủ thoáng mát.
+tại sao uống cà phê lại tỉnh táo : chất caffeine trong cà phê giúp kích thích hệ thần kinh trung ương.
+làm sao để rèn luyện sự kiên nhẫn : đặt ra các mục tiêu nhỏ và kiên trì hoàn thành chúng từng ngày.
+cách phối đồ đi chơi đẹp : chọn trang phục thoải mái, phù hợp với thời tiết và phong cách cá nhân.
+tại sao trời lại mưa : do hơi nước bay lên ngưng tụ thành mây và rơi xuống khi quá nặng.
+làm sao để tiết kiệm tiền hiệu quả : ghi chép lại mọi khoản chi tiêu và cắt giảm những thứ không cần thiết.
+cách chụp ảnh đẹp bằng điện thoại : chú ý ánh sáng, góc chụp và bật lưới khung hình để cân đối.
+tại sao lá cây có màu xanh : nhờ sự hiện diện của chất diệp lục giúp cây quang hợp ánh sáng.
+làm gì khi cảm thấy cô đơn : nhắn tin trò chuyện với bạn bè hoặc làm những sở thích cá nhân.
+cách để tự tin trước đám đông : chuẩn bị kỹ nội dung và hít thở sâu trước khi bước lên sân khấu.
+tại sao biển lại có vị mặn : do chứa hàm lượng lớn các khoáng chất và muối hòa tan từ đất liền.
+làm sao để bảo vệ môi trường : hạn chế sử dụng đồ nhựa dùng một lần và tích cực trồng cây xanh.
+cách nấu một bữa cơm gia đình : chuẩn bị các món mặn, canh, rau xanh và cơm dẻo nóng hổi.
+tại sao mùa hè lại nóng nực : do góc chiếu của ánh mặt trời vuông góc và thời gian ban ngày dài hơn.
+làm gì khi bị đau đầu : uống một cốc nước ấm, massage nhẹ vùng thái dương và nghỉ ngơi.
+cách để cải thiện trí nhớ : ghi chép lại thông tin quan trọng và rèn luyện thể thao đều đặn.
+tại sao lại có cầu vồng : do hiện tượng khúc xạ và phản xạ ánh sáng mặt trời qua các hạt mưa.
+làm sao để giữ gìn sức khỏe : ăn uống điều độ, ngủ đủ giấc và tập thể dục mỗi ngày.
+cách để tạo ấn tượng tốt : luôn nở nụ cười, lịch sự và lắng nghe người đối diện chia sẻ.
+tại sao mùa đông lại lạnh : do bán cầu địa lý ngả về hướng xa mặt trời hơn bình thường.
+làm gì khi gặp áp lực lớn : chia sẻ tâm sự với người thân hoặc tìm không gian yên tĩnh thư giãn.
+cách để rèn luyện tư duy logic : chơi các trò chơi giải đố, cờ vua hoặc học các thuật toán máy tính.
+tại sao lại có hiện tượng nhật thực : do mặt trăng di chuyển vào giữa trái đất và mặt trời.
+làm sao để viết văn hay hơn : đọc nhiều sách báo và tích lũy vốn từ vựng phong phú mỗi ngày.
+cách để kiểm soát cảm xúc : bình tĩnh suy xét vấn đề trước khi đưa ra bất kỳ phản ứng nào.
+tại sao lại có gió thổi : do sự chênh lệch áp suất không khí giữa các vùng địa lý khác nhau.
+làm gì khi mất động lực : nhớ lại lý do vì sao mình bắt đầu và tự thưởng cho bản thân.
+cách để nâng cao hiệu suất làm việc : tập trung cao độ vào một nhiệm vụ duy nhất tại một thời điểm.
+tại sao lại có hiện tượng nguyệt thực : do trái đất nằm giữa mặt trời và mặt trăng trên một đường thẳng.
+làm sao để xây dựng lòng tin : luôn giữ chữ tín và hành động trung thực trong mọi hoàn cảnh.
+cách để phát triển bản thân : không ngừng học hỏi, tiếp thu ý kiến và vượt qua vùng an toàn.
+tại sao lại xuất hiện sấm chớp : do sự phóng điện giữa các đám mây tích điện trái dấu trên bầu trời.
+làm gì khi bị mất ngủ : đọc một cuốn sách nhẹ nhàng hoặc nghe âm thanh tiếng mưa rơi.
+cách để cải thiện kỹ năng giao tiếp : chủ động lắng nghe, diễn đạt ý kiến rõ ràng và thân thiện.
+tại sao đại dương lại bao la : phần lớn bề mặt hành tinh của chúng ta được bao phủ bởi nước.
+làm sao để có một ngày làm việc hiệu quả : lên kế hoạch chi tiết từ tối hôm trước và thực hiện nghiêm túc.
+cách để vượt qua nỗi buồn : chấp nhận cảm xúc thật và hướng tâm trí về những điều tích cực hơn.
+tại sao con người cần phải ngủ : để cơ thể phục hồi năng lượng và củng cố trí nhớ sau một ngày.
+làm gì để giữ lửa đam mê : luôn tìm kiếm những thử thách mới và không ngại đối mặt khó khăn.
+cách để phân biệt thật giả : quan sát kỹ lưỡng chi tiết và kiểm chứng thông tin từ nhiều nguồn.
+tại sao trái đất lại quay : do lực quán tính từ thuở hình thành hệ mặt trời hàng tỷ năm trước.
+làm gì khi cảm thấy mệt mỏi : hãy tạm gác lại công việc, uống một ly nước ấm và dành thời gian nghỉ ngơi đầy đủ.
+cách để duy trì động lực học tập : đặt ra mục tiêu rõ ràng cho từng ngày và tự thưởng cho bản thân khi hoàn thành tốt.
+tại sao cần phải đọc sách thường xuyên : sách giúp mở rộng vốn từ vựng, nâng cao kiến thức và phát triển tư duy chiều sâu.
+làm sao để cải thiện kỹ năng thuyết trình : luyện tập trước gương nhiều lần, kiểm soát tốc độ nói và tự tin giao tiếp bằng ánh mắt.
+tại sao tập thể dục lại tốt cho sức khỏe : vận động giúp tăng cường tuần hoàn máu, cải thiện vóc dáng và nâng cao sức đề kháng.
+làm gì khi gặp bài toán khó chưa tìm ra lời giải : tạm nghỉ vài phút để thư giãn đầu óc rồi quay lại phân tích từ góc độ khác.
+cách để xây dựng thói quen dậy sớm : đi ngủ đúng giờ, đặt báo thức xa giường và có động lực cụ thể cho buổi sáng.
+tại sao cần phải tiết kiệm tài chính : để chủ động trong các tình huống khẩn cấp và hướng tới sự độc lập về lâu dài.
+làm sao để giữ tinh thần lạc quan : luôn tìm kiếm những điểm tích cực trong mọi hoàn cảnh khó khăn nhất.
+tại sao cần lắng nghe nhiều hơn nói : lắng nghe giúp ta thấu hiểu người khác và học hỏi thêm nhiều góc nhìn mới trong cuộc sống.
+làm gì khi lịch trình quá tải : sắp xếp lại công việc theo thứ tự ưu tiên và giải quyết từng việc một một cách cẩn thận.
+cách để viết email công việc chuyên nghiệp : tiêu đề rõ ràng, nội dung ngắn gọn súc tích và luôn có lời chào lịch sự cuối thư.
+tại sao cần rèn luyện kỹ năng mềm : kỹ năng mềm giúp tăng khả năng thích ứng và dễ dàng hợp tác thành công trong mọi môi trường.
+làm sao để giảm bớt thời gian dùng điện thoại : bật chế độ không làm phiền và đặt ra khung giờ cố định không sử dụng thiết bị.
+tại sao thực phẩm tươi sống lại tốt hơn : giữ được hàm lượng dinh dưỡng cao hơn và không chứa các chất bảo quản có hại.
+làm gì khi đồng nghiệp gặp khó khăn : sẵn sàng hỗ trợ trong khả năng của mình để cùng nhau hoàn thành tốt công việc chung.
+cách để cải thiện chất lượng giấc ngủ tối : giữ phòng tối hoàn toàn, không ăn quá no trước khi ngủ và tránh xa màn hình thiết bị.
+tại sao việc uống đủ nước lại quan trọng : nước giúp duy trì các chức năng sinh học, thanh lọc cơ thể và giữ ẩm cho làn da.
+làm sao để phát triển tư duy phản biện : luôn đặt câu hỏi tại sao và không chấp nhận thông tin một cách thụ động hay một chiều.
+tại sao cần tôn trọng sự khác biệt : mỗi cá nhân có nền tảng văn hóa và quan điểm riêng tạo nên sự phong phú cho xã hội.
+làm gì khi bản thân thiếu tập trung : dọn dẹp gọn gàng bàn làm việc và thực hiện phương pháp quản lý thời gian phù hợp.
+cách để gìn giữ các mối quan hệ lâu dài : sự chân thành, tôn trọng lẫn nhau và thường xuyên giữ liên lạc quan tâm nhau.
+tại sao cần phải học ngoại ngữ mới : mở ra nhiều cơ hội nghề nghiệp toàn cầu và tiếp cận nguồn tri thức nhân loại dễ dàng hơn.
+làm sao để xử lý tình huống bất ngờ : giữ bình tĩnh tối đa, đánh giá nhanh tình hình và đưa ra phương án giải quyết tối ưu.
+tại sao kỹ năng làm việc nhóm lại cần thiết : sự kết hợp của nhiều thế mạnh giúp giải quyết các dự án lớn hiệu quả và nhanh chóng.
+làm gì khi cảm thấy chán nản công việc hiện tại : nhìn nhận lại mục tiêu nghề nghiệp, tìm kiếm thử thách mới hoặc trò chuyện với cấp quản lý.
+cách để quản lý cảm xúc giận dữ : hít thở sâu đếm đến mười trước khi phát ngôn để tránh làm tổn thương người khác.
+tại sao cần kiểm tra lại thông tin trước khi chia sẻ : ngăn chặn việc lan truyền tin giả và thể hiện trách nhiệm với cộng đồng mạng.
+làm gì khi gặp thất bại trong kinh nghiệm đầu đời : coi đó là bài học quý giá để đúc rút kinh nghiệm và mạnh mẽ đứng lên.
+cách để nâng cao năng lực tự học : chủ động tìm kiếm tài liệu, tham gia các khóa học trực tuyến và kiên trì thực hành.
+tại sao cần duy trì thái độ khiêm tốn : sự khiêm tốn giúp ta không ngừng học hỏi thêm từ những người xung quanh mỗi ngày.
+làm gì khi trí nhớ giảm sút tạm thời : ghi chú lại mọi công việc cần làm vào sổ tay hoặc ứng dụng quản lý cá nhân.
+cách để rèn luyện sự cẩn thận trong công việc : kiểm tra lại kết quả nhiều lần trước khi bàn giao hoặc nộp báo cáo chính thức.
+tại sao cần bảo mật thông tin cá nhân trên mạng : tránh nguy cơ bị kẻ gian lợi dụng lừa đảo hoặc đánh cắp tài sản số quan trọng.
+làm gì khi thời tiết thay đổi đột ngột : giữ ấm cơ thể, ăn uống đủ chất và bổ sung vitamin để tăng cường hệ miễn dịch.
+cách để tăng sự sáng tạo trong công việc : thay đổi không gian làm việc, đi dạo thiên nhiên hoặc đọc các tài liệu ngoài chuyên môn.
+tại sao cần phải đúng giờ trong mọi cuộc hẹn : thể hiện sự tôn trọng thời gian của đối phương và xây dựng uy tín cá nhân vững chắc.
+làm gì khi không gian sống quá bừa bộn : tiến hành phân loại đồ đạc, vứt bỏ thứ không dùng và sắp xếp lại mọi thứ ngăn nắp.
+cách để vượt qua nỗi sợ thất bại : hiểu rằng thất bại chỉ là một bước đệm trên con đường hướng tới thành công lâu dài.
+tại sao cần tham gia các hoạt động cộng đồng : lan tỏa sự sẻ chia, rèn luyện tinh thần trách nhiệm và kết nối với nhiều người hơn.
+làm gì khi gặp người có quan điểm trái chiều : giữ thái độ lắng nghe ôn hòa thay vì tranh cãi gay gắt không có hồi kết.
+cách để giữ cho tâm hồn luôn thanh thản : học cách buông bỏ những chuyện buồn không thể thay đổi trong quá khứ.
+tại sao cần đọc hợp đồng thật kỹ trước khi ký : đảm bảo quyền lợi hợp pháp của bản thân và tránh những rủi ro pháp lý về sau.
+làm gì khi mất kết nối internet đột ngột : khởi động lại thiết bị phát sóng hoặc chuyển sang dùng mạng di động dự phòng.
+cách để thể hiện lòng biết ơn chân thành : nói lời cảm ơn trực tiếp kèm theo hành động thiết thực giúp đỡ lại người khác.
+tại sao cần phân chia công việc nhà đều đặn : giúp giảm áp lực cho một cá nhân và duy trì môi trường sống sạch sẽ gọn gàng.
+làm gì khi cảm thấy ý tưởng bị cạn kiệt : tham khảo các tác phẩm nghệ thuật, tài liệu khoa học để tìm kiếm hướng đi mới.
+cách để xây dựng một thương hiệu cá nhân uy tín : sự nhất quán trong lời nói, hành động và chất lượng công việc mang lại.
+tại sao cần phải lập kế hoạch tài chính dài hạn : có nguồn quỹ dự phòng vững chắc cho các mục tiêu lớn như mua nhà hay hưu trí.
+làm gì khi gặp sự cố giao thông trên đường : bật đèn cảnh báo, giữ bình tĩnh và tìm hướng đi thay thế phù hợp an toàn.
+cách để cải thiện tư duy phản biện qua việc đọc : tự đặt câu hỏi về động cơ của tác giả và tính xác thực của số liệu được đưa ra.
+tại sao cần duy trì liên lạc với bạn cũ : giữ gìn những kỷ niệm đẹp và củng cố mạng lưới hỗ trợ tinh thần đáng tin cậy.
+làm gì khi gặp vấn đề về bảo mật tài khoản : lập tức đổi mật khẩu mạnh và kích hoạt tính năng xác thực hai lớp bảo vệ.
+cách để tối ưu hóa thời gian sử dụng máy tính : sử dụng các phím tắt bàn phím và tự động hóa các tác vụ lặp đi lặp lại.
+tại sao cần phải tôn trọng bản quyền tác giả : khuyến khích sự sáng tạo chân chính và tuân thủ các quy định pháp luật hiện hành.
+làm gì khi gặp khó khăn trong việc ra quyết định : liệt kê danh sách ưu nhược điểm của từng phương án để cân nhắc kỹ lưỡng.
+cách để duy trì năng lượng tích cực suốt cả ngày : bắt đầu buổi sáng bằng một bữa ăn dinh dưỡng và vài phút vận động nhẹ.
+tại sao cần phải bảo trì thiết bị điện tử định kỳ : kéo dài tuổi thọ hoạt động và phát hiện sớm các hỏng hóc tiềm ẩn bên trong.
+làm gì khi tài chính cá nhân gặp khủng hoảng : cắt giảm toàn bộ chi tiêu xa xỉ và tập trung vào các nhu cầu thiết yếu nhất.
+cách để nâng cao chất lượng các cuộc họp : chuẩn bị sẵn danh sách nội dung cần thảo luận và giới hạn thời gian cụ thể.
+tại sao cần rèn luyện khả năng thích ứng linh hoạt : giúp dễ dàng vượt qua các biến động bất ngờ trong công việc và cuộc sống.
+làm gì khi cảm thấy quá tải thông tin số : ngắt kết nối mạng hoàn toàn trong vài giờ để tâm trí được nghỉ ngơi thực sự.
+cách để phát triển kỹ năng giải quyết vấn đề : tập trung tìm kiếm nguyên nhân gốc rễ thay vì chỉ xử lý phần bề nổi của sự việc.
+tại sao cần phải cam kết với mục tiêu đã đề ra : kỷ luật bản thân chính là chìa khóa cốt lõi dẫn đến mọi thành tựu lớn lao.
+làm gì khi gặp tình huống khẩn cấp cần trợ giúp : gọi ngay các số điện thoại cứu hộ khẩn cấp và giữ bình tĩnh hướng dẫn.
+cách để cải thiện nét chữ viết tay hàng ngày : viết chậm rãi từng nét, chú ý độ đều của khoảng cách các chữ cái và từ.
+tại sao cần duy trì thói quen đọc tin tức chọn lọc : cập nhật thông tin chính thống và tránh bị nhiễu loạn bởi tin tức giật gân.
+làm gì khi gặp trở ngại trong quá trình làm việc nhóm : tổ chức một buổi họp ngắn để mọi người thẳng thắn tháo gỡ vướng mắc.
+cách để bảo vệ sức khỏe đôi mắt khi làm việc : áp dụng quy tắc nhìn xa sau mỗi khoảng thời gian tập trung nhìn màn hình.
+tại sao cần phải tôn trọng quy trình làm việc chung : đảm bảo tính đồng bộ, minh bạch và hiệu suất phối hợp giữa các phòng ban.
+làm gì khi nhận được phản hồi tiêu cực công việc : bình tĩnh tiếp thu ý đóng góp mang tính xây dựng để hoàn thiện bản thân hơn.
+cách để tăng cường sự tập trung khi đọc sách : ghi chú lại các ý chính ra giấy và tìm một góc ngồi thật yên tĩnh.
+tại sao cần phải chú trọng đến an toàn thông tin : bảo vệ dữ liệu cá nhân và tài sản số khỏi các cuộc tấn công mạng tinh vi.
+làm gì khi cảm thấy thiếu tự tin về năng lực : nhìn lại những thành quả nhỏ đã đạt được trong quá khứ để lấy lại tinh thần.
+cách để rèn luyện thói quen ăn uống lành mạnh : tăng cường rau xanh, trái cây tươi và giảm thiểu lượng đường cùng dầu mỡ.
+tại sao cần phải ghi chép lại các ý tưởng lóe lên : ý tưởng rất dễ trôi đi nếu không được lưu trữ lại kịp thời vào sổ tay.
+làm gì khi gặp tình trạng máy tính bị đơ : sử dụng trình quản lý tác vụ để tắt ứng dụng bị treo mà không cần khởi động lại.
+cách để duy trì mối quan hệ tốt với hàng xóm : sự thân thiện, ý thức giữ gìn vệ sinh chung và sẵn sàng giúp đỡ khi cần.
+tại sao cần phải kiểm tra kỹ hóa đơn thanh toán : đảm bảo không có sai sót về giá cả hoặc các khoản phí phát sinh ngoài ý muốn.
+làm gì khi tham gia giao thông trong giờ cao điểm : giữ khoảng cách an toàn, kiên nhẫn chờ đợi và tuyệt đối không lấn làn.
+cách để tăng cường sự minh bạch trong công việc : trao đổi rõ ràng, chia sẻ tiến độ công việc đầy đủ với các bên liên quan.
+tại sao cần phải học cách từ chối khéo léo : bảo vệ thời gian và năng lượng bản thân khỏi việc ôm đồm quá nhiều trách nhiệm.
+làm gì khi nhận diện được một lỗ hổng bảo mật : báo cáo ngay cho bộ phận kỹ thuật có trách nhiệm để xử lý kịp thời ngăn chặn.
+cách để xây dựng một không gian làm việc truyền cảm hứng : trang trí thêm cây xanh và giữ cho bàn làm việc luôn ngăn nắp sạch sẽ.
