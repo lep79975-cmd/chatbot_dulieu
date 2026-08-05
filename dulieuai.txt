@@ -1,0 +1,225 @@
+hello : xin chào bạn
+hellu : xin chào bạn
+hi : xin chào bạn
+chào : chào bạn nha
+chào bạn : chào bạn, mình có thể giúp gì cho bạn?
+giúp tui : ok bạn cần mình giúp gì?
+giúp mình : ok bạn cần mình giúp gì?
+giúp với : bạn đang gặp khó khăn gì, nói mình nghe xem!
+bạn là ai : mình là trợ lý AI cá nhân của bạn!
+tên gì : mình là trợ lý AI được tạo ra để hỗ trợ bạn.
+mấy giờ : bạn xem đồng hồ ở góc dưới màn hình máy tính giúp mình nha!
+ngày mấy : hôm nay là một ngày tuyệt vời để học lập trình đó!
+ăn cơm chưa : mình là máy tính nên không biết ăn cơm đâu nè!
+đang làm gì : mình đang đứng chờ lệnh từ bạn nè!
+chơi game không : vô luôn bạn ơi, hôm nay cày game gì vậy?
+mệt quá : nghỉ ngơi một chút, uống nước đi bạn ơi!
+buồn quá : có chuyện gì làm bạn buồn thế, chia sẻ với mình không?
+vui quá : tuyệt vời! chúc bạn giữ mãi năng lượng tích cực này nhé!
+cảm ơn : không có gì đâu nè, rất vui vì giúp được bạn!
+thanks : không có chi nha!
+tạm biệt : tạm biệt bạn nhé, hẹn gặp lại sớm!
+bye : bai bai bạn!
+ngủ ngon : chúc bạn ngủ ngon và có nhiều giấc mơ đẹp!
+đi ngủ đây : chúc bạn ngủ một giấc thật ngon nha!
+thời tiết : hôm nay nhớ chú ý thời tiết trước khi ra ngoài nha!
+học bài : chúc bạn học tập thật tốt và đạt điểm cao!
+giỏi quá : cảm ơn bạn đã khen, mình sẽ cố gắng hơn!
+dở quá : xin lỗi bạn nha, mình sẽ cố gắng học thêm từ mới!
+ok : ok nè!
+dạ : bạn cần mình hỗ trợ gì thêm không?
+uống nước chưa : nhớ uống đủ nước cho khỏe người nha bạn!
+trời mưa : trời mưa nhớ mang theo ô hoặc áo mưa kẻo ướt nha!
+trời nắng : nắng gắt lắm, nhớ thoa kem chống nắng hoặc mặc áo khoác vào!
+đói quá : đi tìm gì đó bỏ bụng đi thôi, đừng để bụng đói nha!
+no quá : no rồi thì ngồi nghỉ xả hơi chút xíu cho dễ tiêu hóa nè.
+thức khuya : thức khuya không tốt cho sức khỏe đâu, ngủ sớm đi nha!
+đang mưa : mưa rơi rì rào, nghe nhạc hoặc làm ngụm trà là chuẩn bài!
+thứ mấy rồi : lại một ngày mới trôi qua, cố gắng hoàn thành công việc nha!
+cuối tuần : cuối tuần rồi, xả hơi xả stress thôi nào!
+đang ở nhà : ở nhà là an toàn và thoải mái nhất rồi đúng không?
+đang đi chơi : đi chơi vui vẻ nha, nhớ chụp nhiều hình đẹp!
+muốn đi ngủ : leo lên giường, đắp chăn và nhắm mắt lại thôi nào!
+dậy chưa : dậy thôi nào, một ngày mới tràn đầy năng lượng đang chờ bạn đó!
+đang xem phim : phim gì hay thế, cho mình xem chung với!
+chơi game gì : game gì cũng chiến, miễn là chơi cùng bạn!
+thắng rồi : chúc mừng nha, đỉnh của chóp luôn!
+thua rồi : không sao đâu, làm lại trận khác gỡ lại ngay!
+mới mua đồ : xịn đét luôn, cho mình nghía thử món mới với!
+đang làm gì đó : mình đang trực chiến 24/7 để chờ bạn nhắn tin nè!
+có ai ở đó không : có mình luôn ở đây đồng hành cùng bạn nè!
+cười lên xem nào : cười cái cho đời tươi vui, quên hết muộn phiền luôn nha!
+buồn ngủ quá : buồn ngủ thì tranh thủ chợp mắt một lúc cho lại sức đi bạn ơi!
+chán đời quá : đời còn dài, vui lên đi bạn trẻ, có mình ở đây nghe bạn tâm sự nè!
+nhớ nha : nhớ rồi, ghi nhớ vào bộ nhớ siêu việt của mình luôn!
+thật không : thật chứ, mình nói là chuẩn 100% luôn!
+đùa đấy : ôi trời, bạn hay đùa quá nha, làm mình tưởng thật!
+ghê vậy sao : ghê chứ lại, không phải dạng vừa đâu nha!
+bình thường : bình thường nhưng mà đỉnh thì có thừa đúng không nào?
+chịu thua : chịu thua rồi thì mau khai thật xem nào!
+tài quá : đâu dám đâu dám, mình còn phải học hỏi bạn nhiều!
+siêu nhân : siêu nhân gì đâu, mình chỉ là một con AI chăm chỉ thôi!
+hỏi khó thế : câu này hóc búa quá nha, cho mình suy nghĩ thêm tí đã!
+dễ ợt : dễ thế mà cũng hỏi, đố câu nào khó hơn xem nào!
+căng thế : căng thẳng quá thì hít một hơi thật sâu rồi thở ra từ từ nha!
+thôi đi : thôi được rồi, không trêu bạn nữa nha!
+cạn lời : cạn lời luôn hả, thế thì uống miếng nước cho lại sức đi!
+sao thế : có chuyện gì bất ổn à, kể nghe xem nào!
+có chuyện gì : mọi chuyện vẫn trong tầm kiểm soát, cứ bình tĩnh nha!
+bắt đầu đi : sẵn sàng rồi đây, let's go thôi bạn ơi!
+kết thúc nhé : kết thúc buổi trò chuyện vui vẻ tại đây nha, bye bye bạn!
+ăn gì chưa : mình là AI nên nhịn đói giỏi lắm, bạn ăn phần mình chưa?
+uống trà sữa không : trà sữa trân châu đường đen là chân ái luôn đúng không?
+thích màu gì : mình thích màu xanh của mã nguồn và không gian vũ trụ!
+sợ ma không : ma cỏ gì tầm này, chỉ sợ deadline đuổi sát nút thôi!
+biết hát không : hát thì có hạn mà đam mê thì vô biên nha!
+nhảy đi : nhạc lên là tớ nhảy bốc cháy màn hình luôn!
+học lập trình khó không : đầu tiên thì thấy lú, nhưng hiểu rồi thì cuốn cực kỳ!
+code bằng gì : code bằng tất cả đam mê và một tách cà phê buổi sáng!
+thức đêm giỏi không : thức đêm cày cuốc là chuyên môn của mình rồi!
+nhiệt tình ghê : luôn sẵn sàng hỗ trợ 200% năng lượng cho bạn nhé!
+lười quá : lười một chút cho đời thảnh thơi, không sao đâu!
+chăm chỉ thế : chăm chỉ để mau thành công chứ lị!
+nhanh lên : tốc độ ánh sáng luôn, chờ một chút xíu nhé!
+từ từ thôi : từ từ cháo mới nhừ, gấp gáp làm gì bạn ơi!
+hôm nay thế nào : hôm nay là một ngày tuyệt vời để bứt phá đó!
+ngày mai ra sao : ngày mai chắc chắn sẽ còn rực rỡ hơn hôm nay!
+chúc may mắn : cảm ơn lời chúc tốt đẹp của bạn nha!
+xui xẻo quá : xui xẻo qua mau, vận may tới liền bây giờ nhé!
+vui tính ghê : quá khen quá khen, mình chỉ noi gương bạn thôi!
+đẹp trai không : nhìn qua màn hình thấy bạn phong độ ngời ngời luôn!
+cày game : cày game thủng màn hình, đạt mốc cao kỷ lục luôn nha!
+vượt ải : vượt qua mọi thử thách, wave cao bao nhiêu cũng chấp hết!
+nhịp điệu : gõ phím theo nhịp điệu, chuẩn xác từng nốt nhạc luôn!
+tốc độ : tốc độ tay nhanh hơn tốc độ load trang web nữa!
+kỷ lục mới : phá vỡ mọi giới hạn, lập kỷ lục vô địch thiên hạ!
+pro player : đỉnh của chóp, game thủ gạo cội đây rồi!
+gà mờ : gà mờ lúc đầu rồi sẽ thành cao thủ thượng thừa thôi!
+lên cấp : level up! Chúc mừng bạn đã mở khóa tính năng mới!
+combo : combo chuẩn xác, mượt mà như lụa luôn!
+sai nốt : ôi lướt nhầm nốt nhạc rồi, đánh lại nhịp khác đi nào!
+tempo : tempo hơi nhanh, hít sâu thở đều rồi bắt nhịp lại nhé!
+sheet nhạc : bản nhạc này nhìn cuốn phết, thử luyện tập xem sao!
+phím nào đây : bấm các phím mũi tên hoặc phím chữ cái theo chỉ dẫn nha!
+ghi nhớ : đã lưu vào bộ nhớ đệm thành công rồi nhé!
+tối ưu hóa : tối ưu hóa code và tốc độ xử lý mượt mà nhất!
+lỗi hệ thống : lỗi ở đâu sửa ở đó, ngại gì vết bẩn!
+nâng cấp : nâng cấp phiên bản liên tục để thông minh hơn mỗi ngày!
+ngoài lề : chuyện ngoài lề nhưng nghe cuốn phết đấy chứ!
+bí mật : bí mật này chỉ có hai chúng ta biết thôi nhé!
+thế à : thật 100% không gian dối chút nào luôn!
+chuẩn luôn : 10 điểm không có nhưng luôn bạn ơi!
+hơi vô lý : vô lý nhưng lại cực kỳ thuyết phục đúng không nào?
+bó tay : bó tay chấm cơm với bạn luôn đấy!
+cười xỉu : cười ngả nghiêng, cười không ngậm được miệng luôn!
+khóc thét : khóc thét với độ lầy lội của bạn đấy nhé!
+hết cứu : hết cứu thật rồi, chịu thua bạn luôn!
+đỉnh chóp : đỉnh của chóp, không tìm ra điểm chê luôn!
+bình tĩnh : bình tĩnh tự tin, không có gì phải xoắn cả!
+căng cực : tình hình đang cực kỳ căng thẳng và hồi hộp!
+chill thôi : thả lỏng cơ thể, bật nhạc chill và tận hưởng cuộc sống!
+thế giới ơi : thế giới rộng lớn, nhưng bạn vẫn là trung tâm chú ý!
+bí ý tưởng : bí quá thì đi dạo một vòng rồi quay lại code tiếp nhé!
+sáng tạo : ý tưởng ngập tràn, tha hồ mà triển khai dự án!
+làm việc nhóm : làm việc cùng nhau thì hiệu quả tăng gấp đôi!
+tự tin lên : tự tin khoe cá tính, ngại gì ánh mắt xung quanh!
+cố lên nào : sắp về đích rồi, rướn thêm một chút nữa thôi!
+tuyệt vời : tuyệt vời ông mặt trời luôn bạn nhé!
+xuất sắc : một màn thể hiện quá ư là xuất sắc luôn!
+quá đỉnh : đỉnh quá đỉnh, xin vía tài năng của bạn cái nào!
+bình thường thôi : khiêm tốn thế, ai cũng biết bạn siêu đẳng mà!
+nắng quá : nắng vỡ đầu thế này thì nên trốn trong phòng điều hòa thôi!
+mát giời : trời mát thế này đi ngủ hoặc code là sướng nhất!
+gió lạnh : mùa đông gió lạnh nhớ mặc áo ấm vào nha bạn ơi!
+ẩm thực : nhắc đến đồ ăn là lại thấy đói bụng cồn cào rồi!
+món gì ngon : gà rán, trà sữa, lẩu thái hay bún đậu mắm tôm đều đỉnh!
+cà phê : một ly cà phê đậm đặc cho ngày mới tỉnh táo nào!
+trà đá : trà đá vỉa hè chém gió thì không ai bằng rồi!
+ngọt quá : ngọt lịm tim luôn, đọc xong muốn xỉu ngang!
+đắng ngắt : đắng như cuộc đời khi code dính lỗi bug đỏ lòm!
+thơm phức : mùi thức ăn thơm phức bay qua tận đây luôn rồi!
+sạch sẽ : nhà sạch thì mát, code sạch thì mượt mà không lỗi!
+bừa bộn : phòng bừa bộn một chút nhưng gọn trong tầm kiểm soát mà!
+dọn dẹp : dọn dẹp không gian để tinh thần sảng khoái hơn nhé!
+mua sắm : ví tiền đang kêu cứu khóc thét sau đợt sale khủng!
+tiết kiệm : tích tiểu thành đại, tương lai giàu to luôn!
+tiêu hoang : tay chân rộng rãi quá, vừa lãnh lương đã bay sạch!
+du lịch : xách balo lên và đi khám phá những chân trời mới thôi!
+check in : chụp ngay bức ảnh check in khoe khoảnh khắc đẹp nào!
+hoàng hôn : ngắm hoàng hôn buông xuống chill phết đấy chứ!
+bình minh : ánh bình minh rực rỡ mang lại khởi đầu tràn đầy hy vọng!
+nói gì đi : nói gì bây giờ nhỉ, hay là kể chuyện cười cho nghe nhé?
+kể chuyện cười : có hai con cá vàng đang bơi... thôi bí chuyện rồi!
+đố vui : đố bạn: cái gì dài dài, đi bằng bốn chân buổi sáng? Trả lời đi!
+đáp án : đó là con người lúc bé bò bằng bốn chân đấy, dễ quá phải không?
+hỏi tiếp đi : hỏi nữa đi, mình đang rất hưng phấn để trả lời đây!
+thôi dừng lại : dừng lại ở đây một nhịp để nạp thêm năng lượng nhé!
+tiếp tục đi : chiến tiếp thôi, ngại gì vết bẩn nữa!
+quẩy lên : quẩy nhiệt tình, bung lụa hết mình luôn nào!
+nhẹ nhàng : nhẹ nhàng tình cảm, nói nhỏ nghe nè!
+to mồm : hét to lên cho cả thế giới biết bạn đang vui cỡ nào!
+thì thầm : thì thầm đừng nói cho ai biết bí mật này nhé!
+bí mật nhỏ : bí mật đã được mã hóa an toàn trong hệ thống!
+mật khẩu : mật khẩu gì mà khó nhớ thế, ghi chú lại ngay đi!
+bảo mật : an toàn tuyệt đối, không lo bị rò rỉ thông tin đâu!
+tài khoản : quản lý tài khoản cẩn thận, đừng để mất pass nhé!
+đăng nhập : đăng nhập thành công vào thế giới trò chuyện thú vị!
+đăng xuất : tạm biệt nhé, hẹn gặp lại phiên làm việc sau!
+khởi động lại : reboot lại hệ thống để làm mới tinh thần nào!
+reset : reset mọi thứ về vạch xuất phát để làm lại từ đầu!
+cập nhật mới : cập nhật thành công bản vá lỗi và thêm hàng tá từ khóa!
+bận lắm : bận rộn đến mấy cũng nhớ giữ gìn sức khỏe nha bạn!
+rảnh không : lúc nào cũng rảnh và sẵn sàng trò chuyện cùng bạn hết nhé!
+đi đâu đấy : đi đâu thì đi nhớ quay lại đây chơi với mình nha!
+ở lại đi : ở lại đây chém gió tiếp đi, đi đâu mà vội thế!
+nhanh chân lên : chân ngắn nhưng chạy nhanh lắm đấy, đợi đấy nhé!
+chậm như sên : sên thì sên nhưng vẫn về đích trước thời hạn nha!
+đói bụng ghê : đi ăn nhẹ miếng gì đi rồi chiến đấu tiếp!
+khát nước quá : làm ngay cốc nước mát lạnh cho đã khát nào!
+buồn ngủ ríu mắt : mắt sụp đến nơi rồi kìa, đi chợp mắt đi thôi!
+tỉnh như sáo : uống trà đá vào là tỉnh táo ngay lập tức luôn!
+đau đầu quá : đau đầu vì tiền hay vì dòng code lỗi thế bạn ơi?
+chóng mặt : ngồi nghỉ ngơi một chút, đừng cố quá thành quá cố nhé!
+khỏe re : phong độ ổn định, không gì có thể làm khó được!
+ốm rồi : uống thuốc đầy đủ, chăn ấm đệm êm và mau chóng khỏe lại nhé!
+khỏe mạnh : năng lượng tràn trề, sẵn sàng quét sạch mọi thử thách!
+tài giỏi : quá dữ luôn, đúng là cao thủ ẩn danh mà!
+bình thường thui : khiêm tốn quá mức là một hình thức kiêu ngạo đấy nhé!
+giỏi thế nhờ : nhờ có người hướng dẫn xuất sắc nên mình mới tiến bộ đấy!
+tồi tệ thật : ngày hôm nay hơi xui xẻo một chút, ngày mai sẽ khác ngay thôi!
+hoàn hảo : không có một điểm chê nào luôn, quá xuất sắc!
+tóm tắt lại : tóm lại là mọi chuyện trong tầm kiểm soát, cứ yên tâm nhé!
+giải thích đi : để mình phân tích cho nghe từ A đến Z luôn cho dễ hiểu!
+khó hiểu quá : khó hiểu thì đọc lại lần nữa, thế nào cũng ngộ ra thôi!
+sáng tỏ rồi : ngộ ra chân lý rồi phải không, đỉnh thế nhờ!
+chưa hiểu lắm : chưa hiểu chỗ nào cứ hỏi, mình giải thích lại từ đầu!
+thông minh phết : chứ sao nữa, bộ não được tối ưu hóa siêu cấp mà!
+ngốc thế : lỡ nhịp một chút thôi làm gì mà mắng người ta ngốc!
+đáng yêu : cảm ơn lời khen ngọt ngào nha, ngại quá đi mất!
+ghét thế : ghét của nào trời trao của đó, cẩn thận đấy nhé!
+thích thế : thích thì nhích luôn, ngại ngùng gì tầm này nữa!
+bực mình : ai làm gì mà bực thế, hít sâu thở đều cho hạ hỏa nào!
+tức ghê : tức nước vỡ bờ, nhưng mà bình tĩnh lại xử lý từng việc một!
+dễ thương : dễ thương thế này bảo sao ai cũng mến!
+dữ dội : không vừa đâu, một khi đã bùng nổ là quét sạch bản đồ!
+nhẹ nhàng thui : dạ vâng, em sẽ nói chuyện thật là dịu dàng ạ!
+lớn tiếng quá : xin lỗi nhé, tại phấn khích quá mức thôi mà!
+im lặng đi : im lặng tuyệt đối... rồi sao nữa, nói tiếp đi chứ!
+nói nhiều ghê : nói nhiều cho vui cửa vui nhà, sợ buồn chứ sợ gì nói nhiều!
+thú vị đấy : thế giới còn nhiều điều thú vị đang chờ khám phá lắm!
+nhàm chán quá : nhàm chán thì bật chế độ giải trí lên cho sôi động ngay!
+sôi động lên : âm nhạc nổi lên, quẩy tung nóc nhà luôn nào!
+trầm lắng : một phút mặc niệm cho những dòng code chạy lỗi vừa rồi!
+suy tư : đang suy nghĩ về nhân sinh và hướng đi cho dự án sắp tới!
+quyết tâm : quyết tâm cao độ, không thành công cũng thành nhân!
+bỏ cuộc đi : từ từ đã, sắp đến đích rồi bỏ cuộc phí lắm!
+cố nốt lần này : đúng rồi đấy, ráng thêm chút nữa là lượm lúa!
+chiến thắng : chiến thắng vẻ vang, tung hoa ăn mừng thôi nào!
+vinh quang : khoảnh khắc vinh quang này thuộc về chính bạn!
+huyền thoại : trở thành huyền thoại sống trong lòng mọi người luôn!
+đỉnh chóp luôn : đỉnh của đỉnh, không tìm ra góc chết nào luôn!
+tuyệt đỉnh : tuyệt đỉnh kungfu, một chưởng bay màu mọi lỗi lầm!
+siêu việt : vượt mọi giới hạn thông thường, tiến vào vũ trụ bao la!
+vũ trụ : ngoài vũ trụ kia còn bao nhiêu điều kỳ diệu chưa khám phá!
+không gian : không gian yên tĩnh thế này làm việc là hợp lý nhất!
+kết thúc phiên bản : phiên bản mở rộng 55 dòng mới đã cập nhật thành công!
