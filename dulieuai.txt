@@ -2319,3 +2319,789 @@ trùm hắc ám tối cao : Trùm hắc ám tối cao đang bận rộn lau chù
 vua hắc đạo : Vua hắc đạo đang tìm kiếm quán ăn vặt ngon rẻ quanh khu phố.
 trùm huyết nguyệt : Trùm huyết nguyệt đang ngắm trăng tròn và nhâm nhi ly trà nóng.
 chúa tể âm hồn : Chúa tể âm hồn đang chơi đàn guitar khúc nhạc tình lãng mạn.
+bút chì : bút chì tự động vẽ nên ước mơ trên trang giấy trắng.
+cục gôm : cục gôm xóa sạch mọi lỗi lầm trong nét vẽ ngệch ngoạc.
+thước kẻ : thước kẻ thẳng tắp đo lường khoảng cách giữa các vì sao.
+compas : compas quay tròn tạo ra những vòng tròn hoàn hảo nhất.
+hộp màu : hộp màu tô điểm cho cuộc sống thêm rực rỡ sắc màu.
+giấy kiểm tra : giấy kiểm tra gieo rắc nỗi sợ hãi cho bao thế hệ học sinh.
+sổ tay : sổ tay lưu giữ những bí mật nhỏ xinh của tuổi học trò.
+bảng đen : bảng đen ghi dấu những bài học vỡ lòng đầu tiên.
+phấn trắng : phấn trắng mòn dần theo năm tháng để đưa đò tri thức.
+khăn lau bảng : khăn lau bảng xóa sạch những con số và phương trình dài dằng dặc.
+phòng học : phòng học rộn rã tiếng cười nói của tuổi trẻ hồn nhiên.
+sân trường : sân trường ngập tràn ánh nắng và bóng râm của hàng cây xanh.
+cây phượng : cây phượng nở hoa đỏ rực báo hiệu mùa chia tay đến gần.
+cây bằng lăng : bằng lăng tím ngắt một góc trời gợi nhớ kỷ niệm xưa.
+tiếng trống trường : tiếng trống trường vang lên giục giã bước chân đến lớp.
+giờ ra chơi : giờ ra chơi náo nhiệt với những trò chơi đuổi bắt tinh nghịch.
+căng tin trường : căng tin trường là thiên đường ăn vặt của đám học sinh.
+bánh mì kẹp : bánh mì kẹp chả nóng hổi cứu đói giữa giờ học căng thẳng.
+nước mía : nước mía ngọt lịm mát rượi giải nhiệt mùa hè oi bức.
+bánh tráng trộn : bánh tráng trộn đậm đà hương vị tuổi học trò siêu ngon.
+xiên bẩn : món quà vặt huyền thoại cổng trường lúc chiều tà.
+trà sữa trân châu : trà sữa trân châu là nguồn năng lượng bất tận cho giới trẻ.
+cà phê sữa đá : cà phê sữa đá đậm đà hương vị truyền thống buổi sáng.
+phở bò : phở bò thơm phức nghi ngút khói cho bữa sáng hoàn hảo.
+bún chả : bún chả thơm lừng mùi thịt nướng góc phố Hà Nội.
+bánh xèo : bánh xèo vàng giòn cuốn rau sống chấm nước mắm chua ngọt.
+gỏi cuốn : gỏi cuốn thanh mát chấm tương đậu phộng béo ngậy.
+nem rán : nem rán giòn rụm vàng ươm ăn hoài không thấy ngán.
+lẩu thái : lẩu thái chua cay hít hà trong những ngày trời se lạnh.
+gà nướng mật ong : gà nướng vàng ươm thơm phức mùi mật ong nguyên chất.
+bánh mì bơ tỏi : bánh mì bơ tỏi giòn rụm thơm nức mũi cả căn phòng.
+khoai tây chiên : khoai tây chiên giòn rụm chấm tương ớt cay cay.
+hamburger : hamburger đầy đặn phô mai béo ngậy ngập tràn năng lượng.
+pizza : pizza đế mỏng phủ phô mai kéo sợi dài bất tận.
+mì ý : mì ý sốt kem nấm béo ngậy chuẩn vị nhà hàng Ý.
+sushi : sushi tươi ngon đậm đà hương vị ẩm thực xứ sở hoa anh đào.
+kim chi : kim chi cay cay giòn giòn ăn kèm món gì cũng hợp.
+cơm tấm : cơm tấm sườn bì chả thơm ngon nức tiếng Sài Gòn.
+bánh mì thịt nguội : bánh mì giòn rụm nhân đầy ắp pate và thịt nguội.
+bánh cuốn : bánh cuốn nóng mềm mại ăn kèm chả lụa và hành phi thơm lừng.
+cháo lòng : tô cháo lòng nóng hổi vào buổi sáng sớm tinh mơ.
+hủ tiếu nam vang : tô hủ tiếu đậm đà hương vị miền nam ngọt nước xương.
+bún bò huế : bún bò huế cay nồng chuẩn vị xứ cố đô mộng mơ.
+mì quảng : mì quảng đậm đà thơm mùi đậu phộng và bánh tráng nướng.
+bánh canh chả cá : bánh canh chả cá dai ngon nước dùng ngọt thanh.
+bún đậu mắm tôm : bún đậu mắm tôm chuẩn vị mặn mòi khó cưỡng.
+nem chua thanh hóa : nem chua giòn sần sật cay cay vị tỏi ớt.
+bánh pía sầu riêng : bánh pía ngọt ngào thơm lừng mùi sầu riêng đặc trưng.
+kẹo dừa bến tre : kẹo dừa ngọt béo đậm hương vị quê hương xứ dừa.
+cốm làng vòng : cốm xanh dẻo thơm gói trong lá sen đậm đà hương thu.
+bánh trung thu : bánh trung thu nướng dẻo thơm ngọt ngào mùa đoàn viên.
+mứt tết : mứt tết ngọt lịm đủ vị chào đón năm mới an khang.
+bánh chưng xanh : bánh chưng dẻo thơm góc bếp ngày tết cổ truyền.
+dưa hành : dưa hành muối chua ăn kèm bánh chưng chống ngán cực tốt.
+thịt đông : món ăn truyền thống mát lạnh độc đáo ngày tết miền Bắc.
+giò lụa : giò lụa thơm ngon dai giòn cắt lát tròn đầy đặn.
+nem chua rán : nem chua rán nóng hổi chấm tương ớt cực kỳ bắt miệng.
+chè trôi nước : chè trôi nước ngọt thanh ấm áp ngày hàn thực.
+chè khúc bạch : chè khúc bạch thanh mát béo ngậy giải nhiệt mùa hè.
+chè thái : chè thái sữa dừa thơm ngon ngập tràn thạch trái cây.
+kem cuộn thái lan : kem cuộn mát lạnh biểu diễn nghệ thuật đẹp mắt.
+trà đào cam sả : trà đào thanh mát ngọt dịu thơm hương sả tươi.
+nước chanh leo : nước chanh leo chua ngọt giàu vitamin C cực tốt.
+sinh tố bơ : sinh tố bơ béo ngậy thơm ngon bổ dưỡng cho sức khỏe.
+nước ép dưa hấu : nước dưa hấu đỏ ngọt mát giải khát tức thì.
+nước mía sầu riêng : sự kết hợp độc đáo giữa nước mía và sầu riêng béo ngậy.
+sữa tươi trân châu đường đen : món quốc dân được giới trẻ yêu thích cuồng nhiệt.
+cà phê cốt dừa : cà phê đắng hòa quyện cùng cốt dừa béo ngậy khó quên.
+trà sữa matcha : trà sữa vị trà xanh đậm đà thơm mát thanh dịu.
+sữa chua dẻo : sữa chua dẻo mịn rắc bột cacao thơm ngon lạ miệng.
+bánh flan : bánh flan mềm mịn thơm mùi caramel ngọt ngào.
+rau câu dừa : rau câu dừa giòn mát thanh giải nhiệt ngày hè oi bức.
+chè sen long nhãn : món chè thanh tao bổ dưỡng mang hương vị cung đình.
+bánh chuối nướng : bánh chuối nướng thơm phức béo ngậy mùi bơ sữa.
+bánh bông lan trứng muối : bánh bông lan mềm xốp phủ trứng muối và chà bông đậm đà.
+bánh su kem : bánh su kem vỏ mềm nhân kem vani mát lạnh tan chảy trong miệng.
+bánh tiramisu : bánh tiramisu vị cà phê đắng nhẹ ngọt ngào lãng mạn.
+bánh macaron : bánh macaron ngọt ngào đầy màu sắc nghệ thuật nước Pháp.
+bánh sừng bò : bánh croissant giòn xốp thơm ngậy hương vị bơ tươi.
+bánh tart trứng : bánh tart trứng vỏ ngàn lớp nhân kem trứng béo ngậy.
+bánh waffle : bánh kếp waffle giòn thơm rưới mật ong ngọt lịm.
+bánh pancake : bánh pancake mềm xốp ăn kèm siro phong và bơ tươi.
+bánh giò : bánh giò nóng hổi nhân thịt mộc nhĩ đầy đặn buổi sáng.
+bánh đúc nóng : bánh đúc nóng dẻo mịn ăn kèm thịt băm hành phi đậm đà.
+bánh bèo : chén bánh bèo chén nhỏ xinh nhân tôm cháy thơm phức.
+bánh bột lọc : bánh bột lọc dai trong nhân tôm thịt đậm đà vị Huế.
+bánh căn : bánh căn nướng khuôn đất giòn rụm chấm nước mắm xoài.
+bánh xèo miền tây : bánh xèo vàng giòn cuốn rau vườn chấm nước cốt dừa.
+bánh khọt : bánh khọt tôm tươi tròn xoe giòn rụm ăn kèm rau sống.
+bánh mì chảo : chảo nóng hổi ngập tràn trứng ơ pate xúc xích thịt bò.
+bánh mì ốp la : bữa sáng nhanh gọn đầy đủ dinh dưỡng cho ngày mới.
+bánh mì kebab : bánh mì doner kebab thịt nướng thơm lừng đậm đà phong cách Thổ Nhĩ Kỳ.
+bánh mì thịt nướng : bánh mì kẹp thịt nướng than hoa thơm phức góc phố.
+bánh mì chà bông : bánh mì sốt bơ trứng phủ đầy chà bông mằn mặn.
+bánh mì bơ sữa : bánh mì ngọt mềm mại thơm mùi bơ sữa thơm ngậy.
+bánh mì khoai lang tím : bánh mì tạo hình khoai lang độc đáo ngon miệng.
+bánh mì đen : bánh mì nguyên cám tốt cho sức khỏe và giảm cân.
+bánh mì hoa cúc : bánh mì hoa cúc thơm mùi bơ Pháp mềm xốp từng thớ.
+sư tử : chúa tể sơn lâm oai phong lẫm liệt giữa chốn đại ngàn.
+hổ vằn : mãnh thú hoang dã với những sọc vằn uy quyền.
+voi rừng : sinh vật khổng lồ hiền lành với chiếc ngà dài chắc khỏe.
+hươu cao cổ : vũ công uyển chuyển với chiếc cổ vươn cao đón nắng sớm.
+ngựa vằn : họa tiết thiên nhiên di chuyển nhịp nhàng trên thảo nguyên.
+gấu trúc : chú gấu đáng yêu với đôi mắt quầng thâm siêu cấp dễ thương.
+cá heo : thiên tài thông minh nhảy múa tung bọt nước đại dương.
+cá mập : sát thủ biển sâu với những chiếc răng sắc nhọn uy lực.
+chim đại bàng : chúa tể bầu trời sải cánh oai phong qua từng tầng mây.
+chim bồ câu : sứ giả hòa bình bay lượn giữa bầu trời xanh thẳm.
+thiên nga : vũ công ballet kiêu sa lướt nhẹ trên mặt hồ phẳng lặng.
+cánh cò : hình ảnh quê hương dãi dầu mưa nắng trên cánh đồng lúa chín.
+con thuyền : người bạn thủy chung cùng ngư dân bám biển qua bao sóng gió.
+ngọn hải đăng : ánh sáng soi đường chỉ lối cho những con tàu về bến bình an.
+cánh đồng lúa : thảm lụa vàng óng ả uốn lượn theo những cơn gió mùa.
+dòng sông : dải lụa mềm mại bồi đắp phù sa cho những xóm làng trù phú.
+ngọn núi : bức tường thành vững chãi hiên ngang giữa đất trời bao la.
+thác nước : dải bạc trắng xóa đổ ào ạt tạo nên khúc tráng ca đại ngàn.
+hang động : kỳ quan huyền bí ẩn giấu những nhũ đá muôn hình vạn trạng.
+rừng nguyên sinh : lá phổi xanh khổng lồ điều hòa nhịp thở của hành tinh.
+cây cổ thụ : nhân chứng lịch sử che bóng mát cho bao thế hệ qua đi.
+hoa hồng : nữ hoàng của các loài hoa kiêu sa khoe sắc cùng hương thơm quyến rũ.
+hoa hướng dương : mặt trời nhỏ luôn hướng về phía ánh sáng rực rỡ.
+hoa sen : đóa hoa thanh cao gần bùn mà chẳng hôi tanh mùi bùn.
+hoa cúc trắng : nét đẹp bình dị tinh khôi gợi nhớ những mùa thu dịu ngọt.
+hoa lan : quý cô đài các khoe sắc thắm trong khu vườn thượng uyển.
+hoa mai : sứ giả mùa xuân mang tài lộc và may mắn đến mọi nhà.
+hoa đào : sắc hồng thắm đượm hơi thở ấm áp của tết miền Bắc.
+cây tre : biểu tượng kiên cường bất khuất của con người Việt Nam.
+cây chuối : bóng hình thân quen bên hiên nhà ngoại mỗi buổi chiều tà.
+chiếc cầu : nhịp nối yêu thương gắn kết hai bờ vui của những miền quê.
+con đường làng : lối nhỏ ngoằn ngoèo rợp bóng hàng tre xanh mát rượi.
+giếng làng : nguồn nước mát lành nuôi dưỡng biết bao thế hệ lớn khôn.
+mái đình : chốn tâm linh lưu giữ hồn cốt của làng quê truyền thống.
+lũy tre làng : vòng tay che chở bình yên cho những đứa trẻ trốn tìm.
+cánh diều : ước mơ tuổi thơ bay cao bay xa theo từng cơn gió lộng.
+trăng non : chiếc liềm bạc lơ lửng giữa bầu trời đêm huyền ảo.
+ánh sao băng : khoảnh khắc kỳ diệu để gửi gắm những ước nguyện thành tâm.
+mây trắng : những cục bông mềm mại trôi bồng bềnh giữa khung trời xanh.
+cơn mưa rào : giọt nước mát lành gột rửa mọi oi bức của ngày hè.
+cầu vồng : dải lụa bảy sắc cầu vồng rực rỡ sau cơn mưa giông.
+tia nắng : những sợi chỉ vàng ấm áp đánh thức vạn vật mỗi sớm mai.
+gió heo may : hơi thở se lạnh báo hiệu mùa thu chính thức ghé thăm.
+tuyết trắng : tấm thảm tinh khôi phủ kín những chặng đường mùa đông.
+vầng thái dương : nguồn năng lượng bất tận sưởi ấm cho muôn loài.
+đêm trung thu : khoảnh khắc rộn rã tiếng trống lân và ánh đèn lấp lánh.
+ông sao : chiếc đèn lồng giấy kiếng thắp sáng ước mơ đêm hội trăng rằm.
+mâm cỗ : bày biện đủ đầy hương vị ngọt ngào của ngày hội đoàn viên.
+chiếc quạt giấy : làn gió mát dịu thủ thỉ câu chuyện cổ tích của bà.
+túi vải : phụ kiện mộc mạc thân thiện với môi trường xanh.
+mũ nón : chiếc nón lá trắng che nghiêng góc phố nhỏ dịu dàng.
+khăn rằn : nét đặc trưng mộc mạc đậm đà nghĩa tình miền Tây.
+áo dài : trang phục truyền thống tôn lên vẻ đẹp thướt tha của phụ nữ Việt.
+bộ vest : biểu tượng của sự lịch lãm và phong độ phái mạnh.
+cà vạt : điểm nhấn trang trọng cho những dịp hội ngộ quan trọng.
+túi da : món đồ phụ kiện sang trọng khẳng định đẳng cấp phái mạnh.
+giày tây : bước chân tự tin vững chãi trong những buổi gặp gỡ đối tác.
+kính cận : người bạn đồng hành tri kỷ của những tâm hồn mọt sách.
+vòng cổ : sợi dây chuyền lấp lánh tôn lên chiếc cổ cao thanh thoát.
+lắc tay : món trang sức nhỏ xinh rung rinh theo nhịp bước chân.
+ghế bành : chiếc ghế êm ái để thả mình đọc sách vào buổi chiều lười biếng.
+thảm yoga : người bạn đồng hành dẻo dai trong hành trình rèn luyện sức khỏe.
+tạ tay : dụng cụ săn chắc cơ bắp cho những buổi tập luyện hăng say.
+vợt cầu lông : cây vợt linh hoạt vút bay theo từng đường cầu quyết đoán.
+quả bóng đá : trái cầu tròn lăn qua bao cảm xúc của triệu người hâm mộ.
+bàn cờ vua : chiến trường trí tuệ thu nhỏ với những nước đi hiểm hóc.
+quân cờ tướng : những quân gỗ mộc mạc đấu trí căng thẳng từng phút giây.
+bộ bài tây : trò chơi giải trí quen thuộc trong những dịp tụ họp bạn bè.
+con diều giấy : cánh diều tự tay làm thủ công bay vút giữa tầng cao.
+hòn bi ve : viên thủy tinh lấp lánh ánh màu của trò chơi tuổi thơ.
+chiếc còi : tiếng còi giòn giã bắt đầu những trận đấu thể thao sôi động.
+khung thành : nơi lưu giữ những bàn thắng nghẹt thở đầy cảm xúc.
+đường chạy : đường piste đỏ rực thử thách sức bền và tốc độ vận động viên.
+tấm huy chương : phần thưởng cao quý ghi nhận sự nỗ lực không ngừng nghỉ.
+chiếc cúp vàng : đỉnh vinh quang mà mọi vận động viên đều khao khát chạm tới.
+khán giả : những cổ động viên nhiệt huyết cháy hết mình trên khán đài.
+sân vận động : chốn bùng nổ năng lượng và cảm xúc của thể thao đỉnh cao.
+vũ điệu : những bước nhảy uyển chuyển biểu cảm qua từng giai điệu.
+bản giao hưởng : hòa tấu âm thanh hùng tráng chạm đến cảm xúc sâu thẳm.
+tiếng sáo diều : khúc ca bình yên ngân vang giữa bầu trời đồng nội.
+tiếng đàn tranh : âm thanh trong trẻo réo rắt gợi nhớ hồn quê dân tộc.
+tiếng kèn trumpet : giai điệu hào hùng vang dội góc phố buổi sáng.
+nhịp trống hội : âm vang rộn ràng thúc giục lòng người trong ngày lễ lớn.
+cây đàn piano : phím đen phím trắng cất lên những bản tình ca bất hủ.
+cây guitar : người bạn tri kỷ ôm trọn tâm sự của tuổi trẻ mộng mơ.
+chiếc trống jazz : nhịp đập dồn dập tạo nên sức hút khó cưỡng của ban nhạc.
+micro : vũ khí truyền tải cảm xúc giọng hát đến trái tim người nghe.
+sân khấu : ánh đèn rực rỡ nơi những nghệ sĩ thăng hoa cùng nghệ thuật.
+vở kịch : câu chuyện đời thực được tái hiện sinh động qua diễn xuất tài tình.
+bộ phim : thước phim điện ảnh đong đầy cảm xúc và bài học nhân văn.
+đạo diễn : thuyền trưởng tài ba chèo lái con thuyền nghệ thuật đến bến bờ thành công.
+diễn viên : người hóa thân trọn vẹn vào muôn vàn số phận nhân vật.
+nhà văn : kiến trúc sư ngôn từ xây dựng những lâu đài tri thức.
+thi sĩ : tâm hồn nhạy cảm dệt mộng thành những vần thơ trữ tình.
+họa sĩ : người phù thủy pha trộn sắc màu tô điểm vẻ đẹp cuộc sống.
+nhà khoa học : bộ óc vĩ đại ngày đêm miệt mài giải mã những bí ẩn vũ trụ.
+bác sĩ : chiến sĩ áo trắng tận tụy cứu người giành giật sự sống.
+thầy cô : người lái đò thầm lặng đưa bao thế hệ học trò cập bến bờ tri thức.
+kỹ sư : người kiến tạo những công trình vĩ đại vươn tầm cao mới.
+kiến trúc sư : họa sĩ không gian vẽ nên những ngôi nhà mơ ước.
+phi công : người chinh phục bầu trời cao rộng đưa hành khách bình an mọi nẻo đường.
+thủy thủ : người dũng cảm vượt sóng dữ chinh phục những đại dương bao la.
+lính cứu hỏa : người anh hùng thầm lặng đối mặt với biển lửa hiểm nguy.
+chú công an : lá chắn thép bảo vệ bình yên cho cuộc sống nhân dân.
+anh bộ đội : bộ đội cụ Hồ kiên trung vững vàng nơi tuyến đầu tổ quốc.
+người nông dân : bán mặt cho đất bán lưng cho trời làm nên hạt gạo thơm thảo.
+người thợ mộc : người thổi hồn vào những thớ gỗ thành vật dụng tinh xảo.
+thợ cơ khí : bàn tay chai sần gắn liền với máy móc và sắt thép.
+thợ may : người dệt nên những bộ trang phục vừa vặn và tinh tế.
+đầu bếp : nghệ nhân ẩm thực mang đến những hương vị thăng hoa vị giác.
+người pha chế : nghệ sĩ tạo nên những thức uống muôn màu muôn vẻ.
+nhân viên pha trà : người giữ gìn nghệ thuật thưởng thức trà truyền thống.
+người làm vườn : bàn tay xanh chăm sóc từng mầm sống lớn lên mỗi ngày.
+chú bảo vệ : người thức canh giấc ngủ bình yên cho tòa nhà mỗi đêm.
+cô lao công : người thầm lặng quét dọn giữ gìn phố phường sạch đẹp.
+chú đưa thư : nhịp cầu nối những yêu thương qua từng bức thư tay.
+nhà thám hiểm : kẻ khát khao chinh phục những vùng đất chưa từng có dấu chân người.
+nhà thiên văn học : người thứcâu đêm ngắm nhìn những vì tinh tú xa xôi.
+người lướt sóng : kẻ khiêu vũ cùng những con sóng lớn ngoài khơi xa.
+vận động viên leo núi : người chinh phục những đỉnh cao chót vót chạm tới mây trời.
+nhà thám hiểm hang động : kẻ dấn thân vào lòng đất khám phá những bí ẩn ngàn năm.
+vũ trụ bao la : không gian vô tận chứa đựng hàng triệu vì tinh tú kỳ diệu.
+ngân hà : dải sáng rực rỡ quy tụ hàng tỉ ngôi sao lấp lánh.
+hố đen : vùng không gian kỳ bí với lực hấp dẫn nuốt chửng mọi thứ.
+sao hỏa : hành tinh đỏ chứa đựng nhiều ẩn số về sự sống ngoài Trái Đất.
+mặt trăng : người bạn tri kỷ hiền hòa của hành tinh xanh trong đêm tối.
+vệ tinh nhân tạo : con mắt tinh tường quan sát Trái Đất từ không gian bao la.
+tàu vũ trụ : phương tiện hiện đại đưa con người vươn tới các vì sao xa xôi.
+phi hành gia : người dũng cảm bước những bước chân đầu tiên ngoài không gian.
+trạm không gian : ngôi nhà lơ lửng giữa vũ trụ của các nhà khoa học.
+kính viễn vọng : đôi mắt thần giúp con người nhìn thấu những khoảng cách xa xôi vũ trụ.
+kim cương : viên đá quý lấp lánh với độ cứng tuyệt đối thách thức mọi thời gian.
+ngọc bích : biểu tượng của sự thuần khiết và phú quý trong văn hóa phương Đông.
+ruby : giọt máu của đất trời mang sắc đỏ rực rỡ tượng trưng cho tình yêu mãnh liệt.
+hổ phách : giọt nhựa thông ngàn năm hóa thạch lưu giữ ký ức của thời tiền sử.
+ngọc trai : báu vật từ lòng đại dương kết tinh qua bao thăng trầm của sóng gió.
+thạch anh : tinh thể đá tự nhiên mang năng lượng tích cực và bình an.
+vàng nguyên chất : kim loại quý hiếm biểu tượng cho sự thịnh vượng và vĩnh cửu.
+bạc hà : lá cây xanh mát mang hương thơm sảng khoái đánh thức mọi giác quan.
+gừng già : củ gia vị cay nồng làm ấm lòng người trong những ngày đông se lạnh.
+nghệ tươi : củ vàng óng mang dược tính quý giá chăm sóc sức khỏe và làn da.
+tỏi cô đơn : tép tỏi nhỏ bé đậm đà gia vị không thể thiếu trong căn bếp Việt.
+hành tím : củ hành phi thơm lừng đánh thức hương vị của bao món ăn truyền thống.
+tiêu đen : hạt gia vị cay xé lưỡi tô điểm nét đậm đà cho món ăn gia đình.
+nước mắm : linh hồn của ẩm thực Việt Nam với hương vị đậm đà khó quên.
+dầu ăn : giọt vàng óng ánh kết nối các nguyên liệu trong chảo lửa ấm áp.
+muối trắng : hạt mặn mòi kết tinh từ giọt mồ hôi của diêm dân miền biển.
+đường phèn : viên đường ngọt thanh làm dịu mát những chén chè truyền thống.
+mật ong rừng : giọt vàng sánh mịn ngọt ngào được chắt chiu từ ngàn bông hoa.
+giấm gạo : vị chua thanh dịu cân bằng hoàn hảo cho các món trộn và gỏi.
+bột bắp : nguyên liệu mịn màng tạo độ sánh hoàn hảo cho những món súp ngon.
+tàu hỏa : con rồng sắt gầm rú vượt qua những cung đường đèo hiểm trở.
+máy bay trực thăng : cỗ máy linh hoạt cất cánh thẳng đứng giữa tầng mây.
+tàu ngầm : thủy quái thép lặng lẽ khám phá đáy đại dương sâu thẳm.
+xe đạp : phương tiện mộc mạc lưu giữ bao kỷ niệm tuổi học trò hồn nhiên.
+xe máy : người bạn đường quen thuộc trên mọi ngõ ngách phố phường.
+xe buýt : ngôi nhà di động kết nối những nhịp đời bận rộn nơi đô thị.
+xe cứu thương : ánh đèn ưu tiên vội vã giành giật sự sống từ tay tử thần.
+xe rác : người lao công thầm lặng giữ gìn sự sạch sẽ cho thành phố.
+xe chở hàng : cỗ máy bền bỉ chuyên chở những chuyến hàng xuôi ngược muôn nơi.
+cần cẩu : cánh tay khổng lồ vươn cao xây dựng những tòa cao ốc chọc trời.
+máy xúc : chú bọ cạp sắt mạnh mẽ đào bới và san lấp những khoảng đất trống.
+xe lu : khối thép nặng nề lăn bánh tạo nên những con đường phẳng lì.
+bơm nước : thiết bị cần mẫn đưa dòng nước mát lành từ lòng đất lên cao.
+tuốc nơ vít : công cụ vặn ốc vít không thể thiếu trong mọi hộp đồ nghề.
+kìm cắt : hàm răng sắt bén kẹp chặt và cắt đứt những sợi dây kim loại.
+búa tạ : khối sắt nặng đập tan mọi chướng ngại vật bằng sức mạnh uy lực.
+cưa tay : lưỡi dao sắc lẹm xẻ đôi những thân gỗ lớn một cách dứt khoát.
+thước dây : dải lụa kỹ thuật đo lường chính xác từng milimet không gian.
+máy hàn : tia lửa điện sáng lóa kết nối những mảnh sắt thép vững chãi.
+keo dán : chất kết dính thần kỳ hàn gắn những món đồ vỡ nát trở lại như xưa.
+đinh sắt : thanh kim loại nhỏ bé ghim chặt những cấu trúc gỗ vững chắc.
+ốc vít : đường xoắn ốc tinh vi xiết chặt các bộ phận máy móc lại với nhau.
+bóng đèn : mặt trời nhân tạo xua tan bóng tối trong căn phòng nhỏ.
+công tắc điện : chiếc nút nhỏ bật mở nguồn năng lượng ánh sáng.
+ổ cắm : điểm chạm an toàn truyền tải dòng điện cho các thiết bị gia dụng.
+cầu dao : thiết bị bảo vệ an toàn ngắt mạch khi có sự cố điện xảy ra.
+pin năng lượng mặt trời : tấm gương thu nhận ánh sáng chuyển hóa thành dòng điện xanh.
+tuabin gió : cánh quạt khổng lồ quay đều đón gió trời tạo ra nguồn năng lượng sạch.
+đập thủy điện : bức tường nước khổng lồ khai thác sức mạnh dòng chảy tự nhiên.
+lò hơi : cỗ máy công nghiệp tạo ra nguồn năng lượng hơi nước khổng lồ.
+kim nam châm : chiếc kim nhỏ luôn hướng về phương bắc chỉ đường định hướng.
+kính lúp : thấu kính phóng đại giúp ta nhìn rõ những chi tiết tí hon.
+nhiệt kế : ống thủy tinh nhỏ bé đo lường chính xác hơi ấm của cơ thể.
+la bàn : người bạn đồng hành tin cậy định hướng giữa chốn rừng sâu.
+ống nhòm : đôi mắt xa xôi mang những cảnh vật ở chân trời lại gần hơn.
+máy in : cỗ máy cần mẫn chuyển những trang văn bản số thành trang giấy thật.
+máy scan : con mắt số hóa lưu giữ hình ảnh tài liệu vào không gian ảo.
+máy chiếu : khung màn ảnh rộng phóng to những ý tưởng sáng tạo lên tường.
+loa bluetooth : hộp âm thanh nhỏ gọn phát ra những giai điệu sôi động mọi nơi.
+micrô không dây : thiết bị truyền giọng hát tự do không vướng víu dây dợ.
+đèn pin : chùm sáng cầm tay xua tan bóng tối trong đêm tối mịt mờ.
+bình cứu hỏa : bình khí nén nhỏ gọn dập tắt kịp thời những đám mây lửa nhỏ.
+áo phao : chiếc áo cứu sinh giữ an toàn cho người trên sóng nước.
+phao bơi : chiếc phao tròn nhiều màu sắc giúp tập bơi an toàn dưới nước.
+kính bơi : chiếc kính bảo vệ đôi mắt dưới làn nước trong xanh của hồ bơi.
+mũ bảo hiểm : chiếc nón cứng cáp bảo vệ an toàn cho cái đầu trên mọi nẻo đường.
+găng tay bảo hộ : lớp lá chắn vải dày dặn bảo vệ đôi tay thợ thuyền khỏi trầy xước.
+giày bảo hộ : đôi giày mũi sắt vững chãi bảo vệ bàn chân tại công trường.
+thắt lưng : dải da thời trang giữ cho bộ trang phục thêm phần gọn gàng.
+ví da : chiếc ví nhỏ gọn lưu giữ những tấm thẻ và tiền bạc quan trọng.
+móc khóa xe : vật nhỏ xinh gắn liền với chìa khóa phương tiện đi lại.
+dây đeo thẻ : dải lụa nhỏ mang bảng tên cá nhân nơi công sở chuyên nghiệp.
+thẻ nhân viên : tấm thẻ định danh khẳng định vị trí và tôn ti trong tổ chức.
+con dấu : mực đỏ vuông tròn xác thực tính pháp lý của văn bản quan trọng.
+hợp đồng : thỏa thuận pháp lý ràng buộc trách nhiệm giữa các bên tham gia.
+hóa đơn : giấy tờ ghi nhận chi tiết giao dịch mua bán hàng hóa minh bạch.
+sổ kế toán : quyển sổ ghi chép tỉ mỉ từng con số thu chi tài chính.
+bút ký : chiếc bút cao cấp ký kết những quyết định thay đổi vận mệnh.
+ghế giám đốc : chiếc ghế da bề thế khẳng định quyền lực của người đứng đầu.
+bàn làm việc lớn : không gian trải rộng để đưa ra những chiến lược kinh doanh tầm cỡ.
+phòng họp lớn : nơi diễn ra những cuộc tranh biện và quyết sách quan trọng của công ty.
+máy hủy tài liệu : cỗ máy mạnh mẽ cắt vụn những thông tin bảo mật thành dải nhỏ.
+bảng trắng văn phòng : không gian ghi chú những ý tưởng bùng nổ trong cuộc họp.
+bút lông bảng : công cụ truyền tải ý tưởng màu sắc sinh động trên mặt kính hoặc bảng.
+giấy note : những mảnh giấy nhỏ ghi chú nhanh những việc cần làm trong ngày.
+kẹp giấy : chiếc kẹp kim loại nhỏ gọn giữ những trang giấy không bị rời rạc.
+bấm giấy : công cụ dập ghim cố định tập tài liệu chắc chắn với nhau.
+gọt bút chì : dụng cụ nhỏ gọn mài nhọn đầu chì cho những nét vẽ thăng hoa.
+hồ dán : chất lỏng kết nối những trang giấy thủ công đầy màu sắc.
+thước ê-ke : dụng cụ hình tam giác vẽ những góc vuông chuẩn xác trên giấy.
+thước đo độ : nửa vòng tròn nhựa trong suốt đo lường chính xác từng góc độ hình học.
+bút bi : người bạn đồng hành quen thuộc của học sinh và nhân viên văn phòng.
+bút mực : nét chữ bay bổng mượt mà trên từng trang giấy học trò.
+bút dạ quang : vệt màu rực rỡ làm nổi bật những ý chính quan trọng trong sách.
+sổ nhật ký : người bạn thầm lặng lắng nghe những tâm tư sâu kín nhất của lòng người.
+tập vẽ : trang giấy trắng tinh khôi chờ đợi những nét cọ thăng hoa nghệ thuật.
+màu nước : hộp màu lỏng pha trộn vô vàn sắc thái sinh động của thiên nhiên.
+cọ vẽ : cây bút lông mềm mại lướt trên toan vải tạo nên bức tranh tuyệt mỹ.
+giá vẽ tranh : khung gỗ vững chãi nâng đỡ những tác phẩm nghệ thuật đang hình thành.
+bảng pha màu : chiếc khay nhựa trắng nơi họa sĩ trộn lẫn các gam màu sắc.
+hạt quark : hạt cơ bản tạo nên vật chất nhỏ bé chưa từng thấy trong cấu trúc nguyên tử.
+lực hấp dẫn : lực vô hình kéo vạn vật gắn kết lại với nhau trên vũ trụ.
+hố trắng : cổng không gian giả thuyết phun trào vật chất ngược lại với hố đen.
+tia gamma : bức xạ điện từ năng lượng cao phát ra từ các vụ nổ siêu tân tinh.
+sao neutron : xác ngôi sao cô đặc với trọng lượng khủng khiếp trong một thể tích nhỏ.
+tinh vân cua : tàn tích rực rỡ của một vụ nổ sao siêu tân tinh cách xa hàng ngàn năm ánh sáng.
+bức xạ phông vũ trụ : dư âm nhiệt độ còn sót lại từ thuở sơ khai của vụ nổ Big Bang.
+hạt Higgs : hạt cơ bản mang lại khối lượng cho các loại hạt khác trong vũ trụ.
+phản vật chất : dạng vật chất đối lập sẽ tiêu hủy hoàn toàn khi chạm trán vật chất thường.
+lỗ giun : đường tắt lý thuyết xuyên qua không thời gian giữa hai điểm xa xôi.
+kính lặn : dụng cụ chuyên dụng giúp thợ lặn quan sát rõ thế giới dưới mặt nước.
+ống thở : ống nhựa cong hỗ trợ người bơi hít thở trên mặt nước mà không cần ngóc đầu.
+chân vịt bơi : tấm cao su gắn chân giúp tăng tốc độ di chuyển linh hoạt dưới nước.
+bình dưỡng khí : bình khí nén cung cấp dưỡng khí liên tục cho thợ lặn sâu.
+đèn pin lặn : ngọn đuốc ánh sáng xuyên qua làn nước tối tăm dưới đáy biển sâu.
+vạt áo dài : tà áo thướt tha tung bay trong gió nhẹ của người phụ nữ Á Đông.
+khăn choàng lụa : dải lụa mềm mại quàng hờ hững tôn lên nét kiêu sa thanh lịch.
+giày búp bê : đôi giày đế bệt xinh xắn mang lại cảm giác êm ái cho từng bước chân.
+túi cói : chiếc túi đan thủ công mộc mạc mang đậm hương vị làng quê bình dị.
+mũ phớt : chiếc mũ thời trang mang phong cách cổ điển và lịch lãm.
+ghế bập bênh : chiếc ghế gỗ cong nhẹ nhàng đưa người ngồi chìm vào giấc ngủ êm đềm.
+võng xếp : chiếc giường di động đung đưa kẽo kẹt dưới bóng râm mát rượi.
+đèn chùm : khối pha lê lấp lánh tỏa ánh sáng sang trọng cho phòng khách lớn.
+thảm lông cừu : tấm lót sàn mềm mại sưởi ấm đôi chân trong mùa đông lạnh giá.
+lò sưởi : góc ấm cúng bập bùng ngọn lửa hồng trong ngôi nhà xứ lạnh.
+bình phong : tấm bình phong chạm trổ tinh xảo che chắn không gian riêng tư.
+gương trang điểm : khung gương soi sáng những đường nét thanh tú trên khuôn mặt.
+tủ giày thông minh : chiếc tủ xoay đa năng tối ưu hóa diện tích cất giữ giày dép.
+kệ sách treo tường : giá gỗ nghệ thuật trưng bày những tác phẩm văn học yêu thích.
+rèm voan : tấm vải mỏng manh bay bổng lọc dịu ánh nắng ban mai rực rỡ.
+ống nghiệm : ống thủy tinh trong suốt chứa đựng những phản ứng hóa học kỳ diệu.
+bình tam giác : dụng cụ pha chế dung dịch chính xác trong phòng thí nghiệm.
+đèn cồn : ngọn lửa nhỏ tỏa nhiệt lượng phục vụ cho các thí nghiệm khoa học.
+phễu lọc : dụng cụ tách chất rắn khỏi chất lỏng một cách nhanh chóng.
+giấy quỳ : dải giấy đổi màu kỳ diệu nhận biết tính axit hay bazơ của dung dịch.
+cân tiểu ly : thiết bị đo lường trọng lượng siêu chuẩn xác đến từng miligam.
+kính hiển vi điện tử : đôi mắt thần phóng đại cấu trúc vi mô của tế bào sinh học.
+nồi hấp tiệt trùng : thiết bị sử dụng hơi nước áp suất cao tiêu diệt mọi vi khuẩn.
+máy ly tâm : cỗ máy quay tốc độ cao tách các thành phần hỗn hợp theo trọng lượng.
+ống hút nhỏ giọt : dụng cụ đong đếm từng giọt dung dịch một cách khéo léo.
+cây dương xỉ : loài thực vật cổ đại với những chiếc lá xanh mướt uốn lượn mềm mại.
+rêu phong : thảm thực vật xanh mịn phủ kín những bức tường cổ kính rêu phong.
+nấm độc : cây nấm sặc sỡ ẩn chứa những độc tố nguy hiểm trong rừng sâu.
+hoa phong lan rừng : đóa hoa kiêu kỳ bám chông chênh trên thân cây cổ thụ cao vút.
+cây xương rồng bẹ : chiến binh sa mạc gai góc kiên cường chống chọi với nắng hạn.
+dây leo : thân cây mềm mại bám chặt vào vách đá vươn tìm ánh sáng mặt trời.
+cỏ bốn lá : biểu tượng may mắn hiếm hoi ẩn mình giữa thảm cỏ xanh ngát.
+hoa bồ công anh : những cánh dù bay lượn tự do theo từng cơn gió vô định.
+cây trinh nữ : loài cây nhạy cảm tự động cụp lá lại khi có bàn tay chạm vào.
+hoa hướng dương lùn : mặt trời nhí vàng rực rỡ khoe sắc xinh xắn trong chậu nhỏ.
+chim bói cá : tia chớp xanh cam lao vút xuống mặt nước săn mồi chớp nhoáng.
+chim công : vũ công lộng lẫy xòe chiếc đuôi rực rỡ sắc màu vũ trụ.
+chim hồng hạc : đôi chân thanh mảnh đứng kiêu kỳ trên mặt nước hồng rực.
+chim cú mèo : vị sứ giả ban đêm với đôi mắt tròn xoe tinh anh trong bóng tối.
+chim gõ kiến : thợ mộc chăm chỉ đục thân cây tìm những chú côn trùng ẩn nấp.
+chim sẻ : chú chim nhỏ bé ríu rít chuyền cành bên hiên nhà mỗi sớm mai.
+chim đại bàng núi : chúa tể bầu trời sải rộng đôi cánh uy nghiêm trên đỉnh đá.
+chim hải âu : dũng sĩ vượt đại dương lượn lờ theo những con sóng lớn.
+chim thiên đường : vũ công rừng già với bộ lông đẹp tuyệt mỹ không tì vết.
+chim cánh cụt : chú hề nam cực lạch bạch bước đi trên lớp băng tuyết trắng xóa.
+cá ngựa : sinh vật biển nhỏ bé với hình dáng kỳ lạ uốn lượn dưới đáy đại dương.
+sứa biển : chiếc dù trong suốt dập dờn trôi dạt theo dòng nước biển sâu.
+sao biển : ngôi sao năm cánh sặc sỡ nằm lặng lẽ trên bãi cát trắng mịn.
+cá hề : chú cá cam trắng tinh nghịch ẩn mình giữa những rặng hải quỳ độc.
+cá đuôi gai : chiến binh rực rỡ bơi lội tung tăng trong rạn san hô nhiệt đới.
+cá mập voi : gã khổng lồ hiền lành lướt đi khoan thai giữa đại dương bao la.
+mực ống : vũ công mực phun dòng mực đen tàng hình khi gặp nguy hiểm.
+bạch tuộc : sinh vật thông minh với tám xúc tu uyển chuyển linh hoạt.
+cua biển : chiến binh giáp xác với hai chiếc càng chắc khỏe hung hăng.
+tôm hùm : vương tử đại dương với bộ vỏ cứng cáp và râu dài oai vệ.
+đàn violon : cây đàn dây thanh thoát cất lên những bản nhạc du dương sâu lắng.
+đàn piano cơ : hộp gỗ khổng lồ chứa đựng hàng ngàn giai điệu cảm xúc thăng hoa.
+đàn ukulele : cây đàn guitar thu nhỏ mang âm thanh vui tươi rộn ràng góc phố.
+đàn tranh dân tộc : dải dây tơ ngân vang âm thanh trong trẻo đậm hồn quê.
+kèn saxophone : chiếc kèn đồng trầm ấm thổi bùng ngọn lửa Jazz nồng nàn.
+kèn harmonica : cây kèn nhỏ gọn cất giữ những khúc ca hoài niệm tuổi thơ.
+trống cajon : chiếc hộp gỗ kỳ diệu tạo ra nhịp điệu rộn ràng cho các buổi ca acoustic.
+chiếc cồng chiêng : âm vang núi rừng Tây Nguyên hội tụ linh thiêng trong từng nhịp đập.
+đàn nhị : cây đàn hai dây se sắt nỗi niềm man mác buồn của khúc nhạc xưa.
+sáo trúc : khúc nhạc đồng quê trong trẻo vi vu thổi qua những cánh đồng lúa chín.
+bút lông thư pháp : cây bút lông truyền thống vẽ nên những nét chữ rồng bay phượng múa.
+giấy xuyến chỉ : loại giấy mỏng manh thấm mực tuyệt hảo cho nghệ thuật viết chữ đẹp.
+mực tàu : thỏi mực đen nhánh mài trên nghiến đá tạo ra sắc độ huyền bí.
+nghiến mực : phiến đá phẳng mịn nơi mài những thỏi mực thơm lừng cổ điển.
+con dấu triện : khối đá khắc chữ triện mang dấu ấn cá nhân uy nghiêm sắc nét.
+tranh sơn mài : bức tranh truyền thống óng ánh sắc vàng son của nghệ thuật Việt Nam.
+tượng gốm : tác phẩm điêu khắc đất nung mộc mạc chứa đựng linh hồn người nghệ nhân.
+bình gốm chu đậu : kiệt tác nghệ thuật men ngọc tinh xảo từ bàn tay khéo léo.
+chiếc nón bài thơ : chiếc nón lá lấp lánh bức tranh phong cảnh dưới ánh nắng miền Trung.
+khăn mỏ cua : chiếc khăn đội đầu truyền thống của người phụ nữ Kinh Bắc xưa.
+đèn lồng hội an : chiếc đèn vải lấp lánh rực rỡ thắp sáng phố cổ về đêm.
+khinh khí cầu : quả cầu khổng lồ bay bổng lơ lửng giữa mây trời bao la.
+xe điện độ thị : phương tiện giao thông xanh không tiếng ồn trên phố phường.
+tàu điện ngầm : con rồng sắt lao vút qua những đường hầm sâu lòng đất.
+ca nô tốc độ : chiếc thuyền máy lướt sóng ào ào để lại bọt trắng xóa phía sau.
+thuyền buồm cổ : cánh vải trắng căng phồng đón gió ra khơi xa xôi.
+xe cứu hỏa : cỗ máy đỏ rực rú còi vội vã đến nơi có hỏa hoạn hiểm nguy.
+xe bọc thép : chiến xa kiên cố vững chãi vượt qua mọi địa hình chiến trường.
+máy bay chiến đấu : cánh chim thép siêu thanh xé toạc bầu trời với tốc độ ánh sáng.
+tàu sân bay : pháo đài nổi khổng lồ giữa đại dương mang theo cả phi đội máy bay.
+kính thiên văn khúc xạ : ống kính hướng về bầu trời thu phóng hình ảnh các vì tinh tú.
+đài thiên văn : tòa nhà mái vòm khổng lồ quan sát những chuyển động kỳ diệu của vũ trụ.
+bản đồ sao : lược đồ vị trí các chòm sao trên bầu trời đêm huyền ảo.
+thiên thạch : khối đá không gian lao vút qua bầu khí quyển cháy sáng rực rỡ.
+sao chổi : vị lữ khách vũ trụ với chiếc đuôi sáng rực dài hàng triệu ki-lô-mét.
+hành tinh khí : những khổng lồ khí lỏng khổng lồ không có bề mặt đất đá rắn chắc.
+vành đai tiểu hành tinh : dải đá không gian quay cuồng giữa quỹ đạo Sao Hỏa và Sao Mộc.
+vũ trụ quan : góc nhìn triết học sâu sắc về sự tồn tại của vạn vật trong không gian.
+không thời gian : cấu trúc bốn chiều uốn cong bởi khối lượng của các thiên thể.
+hạt hạ nguyên tử : những thành phần siêu nhỏ cấu tạo nên nguyên tử cơ bản.
+bàn là hơi nước : thiết bị phẳng phiu quần áo bằng sức mạnh của làn hơi nước nóng.
+máy sấy tóc : cỗ máy phả hơi ấm làm khô mái tóc ướt nhanh chóng.
+máy hút bụi cầm tay : thiết bị nhỏ gọn làm sạch nhanh những góc khuất trong nhà.
+máy lọc nước RO : hệ thống màng lọc tinh vi loại bỏ mọi tạp chất trong nguồn nước.
+bếp hồng ngoại : mặt kính tỏa nhiệt đỏ rực nấu chín thức ăn không kén nồi chảo.
+lò nướng điện : khoang nhiệt độ cao quay nướng những món ăn vàng giòn thơm phức.
+máy rửa bát tự động : thiết bị thông minh phun nước áp lực cao làm sạch chén đĩa.
+quạt điều hòa : cỗ máy làm mát không khí bằng hơi nước tự nhiên dễ chịu.
+bình đun nước siêu tốc : ấm điện tự động ngắt ngọn lửa điện khi nước sôi sùng sục.
+tủ đông : khoang lạnh sâu bảo quản thực phẩm tươi sống trong thời gian dài.
+máy hút mùi : chiếc phễu thông minh khử sạch mùi dầu mỡ trong gian bếp.
+máy làm sữa hạt : cỗ máy đa năng xay nhuyễn và nấu chín các loại hạt dinh dưỡng.
+máy đánh trứng : dụng cụ cầm tay khuấy bông kem và bột bánh ngọt ngào.
+khuôn làm bánh : khung nhôm tạo hình những chiếc bánh nướng đẹp mắt.
+phới lồng : dụng cụ đánh trứng cầm tay bằng những vòng thép đan xen.
+cây cán bột : thanh gỗ thuôn dài cán phẳng những khối bột mượt mà.
+găng tay cách nhiệt : lớp vải dày dặn bảo vệ đôi tay khỏi sức nóng của lò nướng.
+giấy nến : lớp lót chống dính hoàn hảo cho các khay bánh nướng trong lò.
+tấm lót silicone : mặt thảm chống dính đa năng dùng trong chế biến thực phẩm.
+kéo nhà cắt gà : dụng cụ sắc bén chuyên dụng cắt xương gà và thực phẩm nhanh.
+dao thái thịt : lưỡi dao mỏng bản rộng thái những lát thịt mượt mà chuẩn xác.
+dao gọt hoa quả : lưỡi dao nhỏ gọn gọt vỏ trái cây khéo léo tỉ mỉ.
+thớt gỗ : mặt gỗ dày dặn chịu lực băm chặt vững chãi trong nhà bếp.
+hộp đựng gia vị : bộ hũ nhỏ xinh cất giữ ngăn nắp các loại hương liệu nấu ăn.
+rổ nhựa : chiếc rổ lỗ thoáng khí đựng rau củ quả sau khi rửa sạch.
+chậu rửa bát : bồn inox sáng bóng chứa nước phục vụ việc rửa trôi vết bẩn.
+vòi nước xoay : cần gạt linh hoạt điều chỉnh dòng nước chảy theo ý muốn.
+khăn lau bếp : chiếc khăn thấm hút mỡ thừa giữ gìn vệ sinh khu vực nấu nướng.
+tạp dề : tấm vải che trước ngực bảo vệ quần áo khỏi vết bẩn nhà bếp.
+ghế đẩu : chiếc ghế gỗ đơn giản nhỏ gọn linh hoạt trong không gian nhà.
+bàn làm việc chữ L : góc làm việc rộng rãi tối ưu hóa không gian sáng tạo.
+ghế công thái học : chiếc ghế thiết kế khoa học bảo vệ cột sống người ngồi lâu.
+đèn kẹp bàn : ngọn đèn linh hoạt chiếu sáng tập trung cho góc học tập.
+thùng đựng rác thông minh : chiếc thùng tự động mở nắp khi cảm ứng chuyển động.
+bảng từ trắng : mặt bảng từ tính viết bút lông trình bày ý tưởng công việc.
+nam châm dán tủ lạnh : những mảnh nhỏ ngộ nghĩnh giữ giấy chú thích trên mặt tủ.
+sổ kế hoạch tuần : cuốn sổ ghi chú phân chia thời gian biểu chi tiết từng ngày.
+bút dạ gạch chân : vệt màu huỳnh quang làm nổi bật các dòng chữ quan trọng.
+hộp đựng bút : ống trụ gọn gàng sắp xếp ngăn nắp các loại bút viết.
+gôm tẩy chì : khối cao su mềm mại xóa sạch dấu vết bút chì trên giấy.
+bút xóa kéo : băng dính trắng che lấp nhanh chóng những lỗi sai chính tả.
+bìa đựng hồ sơ : tập nhựa bảo quản tài liệu phẳng phiu không bị nhàu nát.
+kẹp bướm đen : chiếc kẹp thép đen lực kẹp mạnh mẽ giữ chặt tập giấy dày.
+dao rọc giấy : lưỡi dao sắc lẹm trượt linh hoạt cắt gọt các vật liệu mỏng.
+băng dính trong : cuộn keo dán trong suốt kết dính các vật dụng nhanh chóng.
+thước kẻ inox : thanh kim loại thẳng tắp đo lường bền bỉ qua năm tháng.
+compas vẽ hình : dụng cụ kim loại quay tạo ra những đường tròn hoàn hảo.
+màu acrylic : tuýp màu gốc nước bám dính bền bỉ trên nhiều bề mặt chất liệu.
+bút vẽ kỹ thuật : ngòi siêu nhỏ tạo ra những đường nét chi tiết sắc sảo.
+giấy can : loại giấy mỏng trong suốt sao chép đường nét bản vẽ dễ dàng.
+bàn xoay gốm : mâm xoay tròn đều hỗ trợ nghệ nhân vuốt nặn hình khối đất sét.
+lò nung gốm : buồng nhiệt độ cực cao chuyển hóa đất sét thành gốm sứ bền chắc.
+bút khắc gỗ : đầu nhọn nung nóng tạo hình hoa văn tinh tế trên bề mặt gỗ.
+khung thêu : vòng tròn gỗ căng chặt tấm vải phục vụ nghệ thuật thêu thùa.
+kim thêu tay : mũi kim nhỏ xíu luồn lách những sợi chỉ màu qua thớ vải.
+cuộn chỉ thêu : bó chỉ nhiều màu sắc rực rỡ dệt nên bức tranh thêu sinh động.
+kéo cắt vải : lưỡi kéo dài sắc bén cắt mượt mà qua các lớp vải dày.
+thước dây thợ may : dải thước mềm đo đạc số đo cơ thể chuẩn xác từng centimet.
+bánh xe lăn phấn : dụng cụ in dấu đường may tiện lợi trên mặt vải.
+ghim băng : chiếc kẹp kim loại an toàn tạm thời giữ các mảnh vải với nhau.
+máy khâu mini : cỗ máy nhỏ gọn hỗ trợ đường may nhanh chóng tại nhà.
+mannequin : bức tượng hình người trưng bày những bộ trang phục thời trang.
+móc treo quần áo gỗ : thanh gỗ chắc chắn giữ dáng áo quần luôn phẳng phiu.
+túi chống ẩm : gói hạt nhỏ hút sạch hơi ẩm bảo quản quần áo trong tủ.
+gương soi cầm tay : chiếc gương nhỏ gọn kiểm tra diện mạo mọi lúc mọi nơi.
+lược chải tóc : răng lược khéo léo gỡ rối và làm suôn mượt mái tóc.
+máy uốn tóc : thanh nhiệt tạo những lọn tóc xoăn bồng bềnh quyến rũ.
+máy ép thẳng tóc : bản nhiệt vuốt thẳng mượt từng sợi tóc rẽ ngôi.
+kẹp càng cua : chiếc kẹp tóc nhựa gọn gàng búi cao mái tóc năng động.
+dây chun buộc tóc : vòng cao su co giãn cột gọn mái tóc dài thướt tha.
+bông phấn trang điểm : miếng mút mềm tán đều lớp phấn nền mịn màng tự nhiên.
+cọ tán phấn má : đầu lông mềm mại phớt hồng đôi gò má rạng rỡ.
+chì kẻ mày : nét vẽ định hình đường chân mày sắc sảo thanh tú.
+mascara : chuốt mi cong vút tạo đôi mắt to tròn sâu thẳm.
+son dưỡng môi : lớp sáp mềm mại cấp ẩm chống khô môi nứt nẻ.
+nước tẩy trang : dung dịch làm sạch sâu cuốn trôi lớp trang điểm cuối ngày.
+sữa rửa mặt tạo bọt : lớp bọt mịn màng nâng niu làn da sạch thoáng lỗ chân lông.
+mặt nạ giấy : lớp vải tẩm dưỡng chất cấp ẩm tức thì cho làn da rạng ngời.
+kem dưỡng ẩm : lớp màng bảo vệ khóa ẩm nuôi làn da mịn màng suốt đêm.
+serum dưỡng da : tinh chất đậm đà thẩm thấu sâu nuôi dưỡng làn da tươi trẻ.
+kem chống thâm quầng : dưỡng chất chuyên sâu chăm sóc vùng da mỏng manh quanh mắt.
+lăn khử mùi : thanh sáp lưu hương tươi mát kiểm soát mồ hôi cơ thể.
+nước hoa hồng : dung dịch cân bằng độ pH làm dịu mát bề mặt da.
+tẩy tế bào chết : hạt mịn màng loại bỏ lớp da sừng già cỗi sần sùi.
+xịt khoáng : làn sương mát lạnh cấp nước tức thì cho làn da khô ráp.
+bông tăm : que nhựa đầu bông mềm mại vệ sinh những chi tiết nhỏ nhặt.
+khăn giấy ướt : tờ giấy mềm thơm tiện lợi làm sạch nhanh chóng bất cứ lúc nào.
+giấy vệ sinh cuộn : cuộn giấy trắng mềm mại thiết yếu trong sinh hoạt hàng ngày.
+xà phòng cục : bánh xà phòng thơm ngát làm sạch đôi bàn tay diệt khuẩn.
+bình xịt côn trùng : chai dung dịch xua đuổi muỗi và côn trùng gây hại.
+vợt bắt muỗi : khung lưới điện phóng tia lửa tiêu diệt muỗi nhanh chóng.
+đèn bắt muỗi : ánh sáng huỳnh quang thu hút và tiêu diệt côn trùng hiệu quả.
+hộp đựng tăm : lọ nhỏ xinh xắn rút từng chiếc tăm gọn gàng sau bữa ăn.
+tăm bông gỗ : que gỗ đầu bông chắc chắn phục vụ nhu cầu y tế cá nhân.
+băng Urgo : miếng dán bảo vệ vết thương nhỏ tránh va chạm nhiễm trùng.
+cồn y tế : dung dịch sát khuẩn nhanh chóng các vết thương ngoài da.
+gạc y tế : lớp vải vô trùng băng bó bảo vệ an toàn cho vết thương.
+nước muối sinh lý : dung dịch tinh khiết vệ sinh mắt mũi an toàn dịu nhẹ.
+nhiệt kế điện tử : thiết bị đo nhiệt độ cơ thể nhanh chóng qua màn hình số.
+viên ngậm ho : kẹo dược liệu làm dịu cơn rát cổ họng trong ngày lạnh.
+dầu gió xanh : chai tinh dầu cay nồng làm ấm cơ thể khi cảm lạnh.
+cao dán salonpas : miếng dán giảm đau nhức cơ bắp tức thời hiệu quả.
+vớ y tế : tất áp lực hỗ trợ tuần hoàn máu lưu thông đôi chân.
+gậy chống : dụng cụ hỗ trợ đắc lực cho người cao tuổi di chuyển vững vàng.
+xe lăn tay : phương tiện di chuyển độc lập cho người khuyết tật vận động.
+nạng gỗ : cặp gậy tì nách hỗ trợ bước đi khi chân gặp chấn thương.
+kính lão : thấu kính hỗ trợ đôi mắt người lớn tuổi đọc sách rõ ràng.
+máy đo huyết áp : thiết bị theo dõi nhịp đập và áp lực dòng máu tại nhà.
+mặt nạ phòng độc : thiết bị trùm kín bảo vệ hệ hô hấp khỏi khí độc hại.
+bình oxy y tế : bình khí cứu sinh cung cấp hô hấp trong trường hợp cấp bách.
+cáng cứu thương : khung bạt chắc chắn vận chuyển người bệnh an toàn.
+túi sơ cứu : bộ dụng cụ y tế cơ bản xử lý các tình huống khẩn cấp.
+áo phản quang : lớp áo lưới sáng chói đảm bảo an toàn lao động ban đêm.
+mũ bảo hộ công trường : chiếc mũ nhựa cứng cáp bảo vệ vùng đầu khỏi vật rơi.
+dây đai an toàn : dây thắt chắc chắn giữ người lao động trên cao không rơi ngã.
+biển báo cấm : tấm biển đỏ rực cảnh báo những hành động không được phép làm.
+biển chỉ dẫn : hướng dẫn lộ trình giao thông rõ ràng cho người qua đường.
+cọc tiêu giao thông : chóp nhựa cam trắng phân làn đường di chuyển linh hoạt.
+gờ giảm tốc : những khối gồ ghề ép xe cộ giảm tốc độ khi qua khu dân cư.
+đèn tín hiệu giao thông : ba màu xanh đỏ vàng điều tiết nhịp độ dòng xe qua ngã tư.
+vạch kẻ đường : những đường trắng phân chia làn xe chạy an toàn ngăn nắp.
+trạm thu phí : điểm dừng chân thanh toán chi phí khi lưu thông trên cao tốc.
+hầm đường bộ : con đường xuyên qua lòng núi rút ngắn khoảng cách hành trình.
+cầu vượt : nhịp cầu cao ráo giải tỏa áp lực giao thông đô thị đông đúc.
+cảng biển : bến đỗ tấp nập những con tàu khổng lồ giao thương hàng hóa quốc tế.
+sân bay quốc tế : siêu trường hàng không kết nối những chuyến bay khắp năm châu.
+tháp không lưu : tòa nhà cao quan sát điều phối mọi chuyến bay cất hạ cánh an toàn.
+băng chuyền hành lý : dải chuyển động đưa vali đến tận tay hành khách sau chuyến bay.
+xe đẩy hành lý : khung kim loại nhiều bánh chuyên chở vali nặng nhọc.
+vé máy bay điện tử : mã số thông hành xác nhận quyền lên máy bay trực tuyến.
+hộ chiếu : cuốn sổ thông hành quyền lực chứng minh danh tính quốc tế.
+thẻ lên máy bay : tấm vé nhỏ xác định số ghế ngồi trên chuyến bay.
+phòng chờ sân bay : không gian thư giãn sang trọng trước giờ khởi hành.
+phao cứu sinh : thiết bị nổi hình tròn cứu hộ người rơi xuống nước.
+đèn tín hiệu khôn gian : chớp sáng định vị vị trí tàu thuyền trên biển đêm.
+la bàn từ : kim nam châm cổ điển chỉ hướng bắc địa lý chính xác.
+bản đồ địa hình : tờ giấy phác họa chi tiết độ cao và địa thế vùng đất.
+ống nhòm hồng ngoại : thiết bị nhìn xuyên bóng tối bằng công nghệ nhiệt.
+máy định vị GPS : thiết bị kết nối vệ tinh xác định tọa độ chính xác từng mét.
+balo du lịch đa năng : chiếc túi lớn nhiều ngăn chứa đồ cho chuyến đi dài ngày.
+lều cắm trại : ngôi nhà vải di động che mưa che nắng giữa thiên nhiên hoang dã.
+túi ngủ du lịch : lớp đệm ấm áp cuộn tròn bảo vệ giấc ngủ trong lều trại.
+bếp ga mini : lò nấu nhỏ gọn sử dụng bình gas du lịch nấu ăn ngoài trời.
+đèn pin đeo trán : ngọn sáng rảnh tay soi đường khi thám hiểm hang động đêm.
+dao đa năng : dụng cụ tích hợp nhiều lưỡi dao kéo tiện lợi khi đi rừng.
+bình nước thể thao : chiếc bình nhựa bền chắc bổ sung nước dọc hành trình.
+kem chống muỗi : tuýp kem xoa bảo vệ làn da khỏi côn trùng đốt ngoài trời.
+vòng tay đuổi muỗi : phụ kiện nhỏ xinh tỏa hương tinh dầu tự nhiên chống muỗi.
+guốc mộc : đôi dép gỗ truyền thống khua tiếng gót giòn giã hiên nhà.
+nón quai thao : chiếc nón rộng vành duyên dáng của liền chị quan họ.
+khăn mỏ ô : khăn trùm đầu truyền thống đằm thắm của thiếu nữ xưa.
+áo tứ thân : trang phục duyên dáng mộc mạc của phụ nữ miền Bắc thời trước.
+dải yếm đào : chiếc áo lót lụa tôn lên bờ vai ngọc ngà thanh tân.
+quần lĩnh : chiếc quần lụa đen rộng rãi thoải mái trong lao động.
+giày vải mộc : đôi giày đế vải mềm mại nâng bước chân trên đồng ruộng.
+tráp ăn hỏi : chiếc hộp sơn son thếp vàng đựng sính lễ trong ngày cưới.
+pháo giấy : ống giấy nổ tung những dải rào rực rỡ chúc mừng hạnh phúc.
+thiệp cưới : tấm thiệp trang trọng gửi gắm lời mời chung vui đôi lứa.
+nhẫn cưới : vòng tròn kim loại gắn kết tình yêu vĩnh cửu của vợ chồng.
+tráp sính lễ : mâm quả đầy ắp trầu cau trà bánh trong lễ ăn hỏi truyền thống.
+áo dài tân lang : trang phục nam tính truyền thống của chú rể trong ngày cưới.
+khăn đóng : chiếc khăn vấn đầu trang nghiêm lịch sự của nam giới ngày lễ.
+lô cuốn tóc : ống nhựa nhỏ uốn cong những lọn tóc bồng bềnh tự nhiên.
+keo xịt tóc : dung dịch giữ nếp tóc cứng cáp suốt cả ngày dài hoạt động.
+giấy thấm dầu : tờ giấy mỏng hút sạch bã nhờn trên gương mặt sáng bóng.
+cây cạo râu : dụng cụ sắc bén loại bỏ râu mọc rậm trên cằm nam giới.
+bọt cạo râu : lớp bọt mịn làm mềm chân râu giúp cạo êm ái dễ dàng.
+nước hoa hồng nam : dung dịch dịu da sau khi cạo râu sát mặt.
+lăn khử mùi nam : thanh sáp hương gỗ mạnh mẽ khử mùi cơ thể nam tính.
+sữa tắm gội nam : chai dung dịch 2 trong 1 tiện lợi sạch sâu sảng khoái.
+dao cạo râu điện : cỗ máy tự động cắt tỉa râu nhanh chóng an toàn.
+tông đơ cắt tóc : thiết bị chuyên dụng hớt tóc gọn gàng sắc nét.
+lược tỉa tóc : chiếc lược có dao lam ẩn tỉa mỏng mái tóc bớt dày.
+áo choàng cắt tóc : tấm vải trùm người ngăn những vụn tóc rơi dính vào áo.
+gương hai mặt : chiếc gương có độ phóng đại trang điểm chi tiết dễ dàng.
+ghế cắt tóc : chiếc ghế bọc da nâng hạ thủy lực thoải mái cho khách.
+bình xịt nước thợ tóc : chai nhựa phun sương làm ẩm tóc trước khi cắt tỉa.
+máy sấy tóc salon : cỗ máy công suất lớn tạo kiểu tóc chuyên nghiệp nhanh.
+khăn choàng cổ salon : chiếc khăn mềm quàng giữ ấm và sạch cổ khách hàng.
+gel vuốt tóc : chất sáp tạo kiểu giữ nếp cứng cáp cho các kiểu tóc dựng.
+sáp vuốt tóc : hộp sáp tạo độ phồng tự nhiên không bóng nhờn.
+gôm xịt cứng : lớp màng bảo vệ giữ kiểu tóc vững vàng trước gió lớn.
+nước dưỡng tóc : tinh dầu bưởi nuôi dưỡng chân tóc chắc khỏe suôn dài.
+dầu gội thảo dược : tinh chất bồ kết mần trầu nuôi dưỡng mái tóc đen óng.
+dầu xả mượt tóc : lớp kem mềm làm trơn mượt các sợi tóc rối xù.
+mặt nạ ủ tóc : dưỡng chất chuyên sâu phục hồi mái tóc hư tổn khô xơ.
+tinh dầu dưỡng ẩm tóc : giọt vàng óng ánh phục hồi ngọn tóc chẻ ngọn.
+bông tắm lưới : quả cầu lưới tạo bọt mịn màng khi tắm gội thư giãn.
+đá kỳ lưng : phiến đá nhám tự nhiên tẩy tế bào chết vùng da sau lưng.
+xà phòng tơ tằm : bánh xà phòng dưỡng da cao cấp mịn màng như lụa.
+sữa tắm hạt dẻ cười : hương thơm ngọt ngào béo ngậy lưu lại trên cơ thể.
+kem dưỡng thể : lớp kem trắng mịn cấp ẩm toàn thân mềm mại mượt mà.
+dầu dừa nguyên chất : giọt vàng tự nhiên dưỡng ẩm da và tóc tuyệt diệu.
+sáp nẻ : hộp sáp nhỏ chống khô da nứt nẻ trong mùa đông lạnh giá.
+kem bôi côn trùng : tuýp thuốc làm dịu nhanh vết ngứa do muỗi đốt.
+bút kẻ mắt nước : ngòi bút sắc nét vẽ đường viền mí mắt quyến rũ.
+phấn phủ dạng nén : hộp phấn kiềm dầu giữ lớp trang điểm bền màu lâu trôi.
+phấn mắt nhiều màu : bảng màu rực rỡ tô điểm chiều sâu cho đôi mắt long lanh.
+chì kẻ môi : nét vẽ sắc nét định hình khuôn môi trước khi tô son.
+son kem lì : thỏi son chất mịn mượt bám màu lâu suốt cả ngày dài.
+son bóng : lớp gel trong suốt tạo hiệu ứng môi mọng nước căng tràn.
+nước hoa khô : hộp sáp thơm nhỏ gọn thoa nhẹ nhàng lên cổ tay sau gáy.
+tinh dầu trầm hương : hương thơm quý phái tịnh tâm không gian thiền định.
+nhang trầm : nén hương thơm dịu nhẹ lan tỏa sự bình an trong ngôi nhà.
+lư đồng xông trầm : chiếc bình cổ kính chạm trổ tinh xảo đốt trầm thanh lọc không gian.
+đèn xông tinh dầu : thiết bị khuếch tán mùi hương dịu nhẹ bằng nhiệt điện.
+tinh dầu sả chanh : hương thơm tự nhiên xua đuổi côn trùng thanh lọc không khí.
+tinh dầu oải hương : mùi hương thư giãn ru êm giấc ngủ ngon và sâu hơn.
+tinh dầu bạc hà : hương thơm sảng khoái đánh thức tinh thần sảng khoái minh mẫn.
+tinh dầu cam ngọt : mùi hương tươi vui mang lại năng lượng tích cực cho căn phòng.
+bình giữ nhiệt thể thao : chiếc bình inox giữ lạnh nước uống suốt ngày dài năng động.
+hộp cơm giữ nhiệt : bộ hộp nhiều tầng giữ đồ ăn luôn ấm nóng ngon lành.
+túi giữ nhiệt : lớp màng giữ nhiệt bảo quản bữa trưa văn phòng tươi ngon.
+đũa gỗ : đôi đũa mộc mạc gắn liền với văn hóa ẩm thực Á Đông.
+thìa inox : chiếc muỗng sáng bóng dùng trong các món canh súp hàng ngày.
+dĩa ăn : chiếc nĩa nhiều nhánh xiên thực phẩm tiện lợi khi ăn uống.
+dao ăn bít tết : lưỡi dao sắc cạnh cắt thịt bò nướng dễ dàng trên đĩa.
+cốc thủy tinh : chiếc ly trong suốt đựng nước uống mát lạnh tinh khiết.
+ly uống rượu vang : chiếc ly bầu chân cao tôn lên hương vị nồng nàn của rượu.
+ly uống bia : cốc thủy tinh dày dặn giữ lớp bọt sủi tăm mát lạnh.
+bình đựng nước thủy tinh : chiếc bình lớn có vòi rót nước tiện lợi trên bàn ăn.
+khay đựng trà : chiếc khay gỗ chạm trổ tinh tế bày biện ấm chén uống trà.
+ấm chén tử sa : bộ ấm trà đất nung nổi tiếng giữ trọn hương vị thơm ngon.
+hộp đựng trà : lọ gốm kín khí bảo quản những búp trà xanh thơm ngát.
+gạt tàn thuốc : chiếc đĩa nhỏ gạt tàn thuốc lá gọn gàng sạch sẽ.
+khăn ăn giấy : những tờ giấy mềm lau miệng sạch sẽ sau bữa ăn.
+tăm tre nhọn : những que tăm nhỏ xíu làm sạch kẽ răng sau bữa tiệc.
+giấy bạc nướng : tấm nhôm mỏng bọc kín thực phẩm nướng chín đều trong lò.
+màng bọc thực phẩm : lớp nhựa dẻo trong suốt bảo quản thức ăn khỏi vi khuẩn.
+hộp nhựa đựng đồ ăn : chiếc hộp kín nắp cất giữ thức ăn ngăn nắp trong tủ lạnh.
+túi zip bạc : chiếc túi có khóa bấm bảo quản thực phẩm khô chống ẩm mốc.
+rổ inox : chiếc rổ lỗ nhỏ bền bỉ vo gạo hoặc đựng rau củ sạch.
+chảo chống dính : mặt chảo phủ lớp đặc biệt rán trứng không lo dính sát.
+nồi áp suất : cỗ máy kín hơi nấu nhừ thức ăn nhanh chóng bằng sức ép hơi nước.
+xửng hấp : tầng đục lỗ đặt trên nồi nước làm chín thực phẩm bằng hơi nóng.
+vỉ nướng : khung thép đặt trên bếp than hoa nướng thịt thơm lừng khói.
+cây đánh bọt cà phê : dụng cụ cầm tay khuấy lớp bọt kem béo ngậy trên ly cà phê.
+phin pha cà phê : chiếc phin nhôm truyền thống nhỏ giọt từng giọt cà phê đậm đà.
+cối giềng tỏi : chiếc cối nhỏ bằng sứ hoặc đá giã nhuyễn các loại gia vị.
+chày gỗ : thanh gỗ thuôn tròn đầm chắc dùng để giã cối gia vị.
+găng tay cao su : lớp bảo vệ đôi tay khi rửa bát dọn dẹp hóa chất tẩy rửa.
+miếng bọt biển rửa bát : miếng xốp mềm có nhám đánh bay vết dầu mỡ cứng đầu.
+nước rửa chén : dung dịch tạo bọt làm sạch bóng chén đĩa sau bữa ăn.
+khăn lau đa năng : chiếc khăn sợi nhỏ lau sạch mọi bề mặt vết bẩn khô ướt.
+chổi cọ bồn cầu : bàn chải cán dài làm sạch khu vực vệ sinh sạch sẽ.
+nước tẩy bồn cầu : dung dịch hóa chất mạnh tiêu diệt vi khuẩn và vết ố vàng.
+viên treo bồn cầu : viên sáp thơm tự động làm sạch mỗi lần xả nước.
+gạt kính : dụng cụ cao su lau khô nước trên mặt gương kính sáng bóng.
+cây lau sàn thông minh : dụng cụ vắt nước tự động làm sạch sàn nhà nhẹ nhàng.
+thùng rác đạp chân : chiếc thùng có bàn đạp mở nắp tiện lợi sạch sẽ.
+túi đựng rác tự hủy : túi nhựa thân thiện môi trường chứa rác sinh hoạt.
+bột thông cống : hóa chất phân hủy nhanh các chất thải tắc nghẽn trong đường ống.
+chổi đót : cây chổi truyền thống quét sạch bụi bẩn trên nền nhà.
+hốt rác nhựa : chiếc khay nhựa hứng rác sau khi quét dọn sạch sẽ.
+cây phất trần : chổi lông mềm mại phủi sạch bụi trên các đồ vật trang trí.
+bình xịt cây : chai nhựa phun sương tưới ẩm cho những chậu cây cảnh nhỏ.
+xẻng làm vườn mini : dụng cụ nhỏ xới tơi đất trồng cây trong chậu.
+bình tưới nước : chiếc bình có vòi dài tưới nước nhẹ nhàng cho gốc cây.
+giá đỡ cây cảnh : khung sắt hoặc gỗ trưng bày những chậu cây xanh mát.
+hạt giống hoa : những hạt nhỏ tiềm năng nảy mầm thành những bông hoa rực rỡ.
+đất dinh dưỡng : hỗn hợp đất tơi xốp giàu dưỡng chất cho cây trồng phát triển.
+phân bón hữu cơ : dưỡng chất tự nhiên nuôi dưỡng cây xanh tốt mỗi ngày.
+bình xịt sâu bệnh : chai nhựa phun dung dịch bảo vệ cây khỏi côn trùng phá hoại.
+kéo cắt tỉa cành : chiếc kéo sắc bén cắt tỉa những nhánh cây thừa gọn gàng.
+lưới che nắng : tấm lưới đen giảm bớt ánh nắng gay gắt cho vườn cây.
+chậu hoa đất nung : chiếc chậu mộc mạc thoáng khí cho rễ cây phát triển tốt.
+đèn năng lượng mặt trời sân vườn : bóng đèn tự nạp điện sáng rực lối đi ban đêm.
+ghế đá công viên : chiếc ghế dài vững chãi dưới bóng râm hóng mát sân nhà.
+xích đu sân vườn : chiếc ghế treo lủng lẳng thư giãn đọc sách ngoài trời.
+bàn ghế ban công : bộ bàn ghế nhỏ xinh thưởng thức trà chiều ngắm phố phường.
+ô che nắng ngoài trời : chiếc ô lớn che mát không gian sinh hoạt ngoài hiên nhà.
+hàng rào gỗ : khung rào trắng xinh xắn bao quanh khu vườn nhỏ xanh tươi.
+cổng hoa : vòm cổng kết đầy hoa tươi chào đón khách bước vào nhà.
+đèn lồng trang trí : chiếc đèn lồng treo cao thắp sáng lung linh buổi tiệc tối.
+dây đèn LED : chuỗi bóng nhỏ lấp lánh quấn quanh thân cây tạo không gian huyền ảo.
+thảm cỏ nhân tạo : tấm thảm xanh mướt mang thiên nhiên đến mọi góc nhỏ.
+hòn bộ cá cảnh : tiểu cảnh nước chảy sinh động mang tài lộc vào nhà.
+máy lọc nước hồ cá : cỗ máy sủi oxy giữ nguồn nước trong xanh cho đàn cá.
+thức ăn cho cá : những hạt dinh dưỡng nhỏ nuôi dưỡng những chú cá bơi lội.
+đèn hồ cá : ánh sáng chuyên nghiệp làm nổi bật vẻ đẹp rực rỡ của đàn cá.
+cây thủy sinh : loài thực vật sống dưới nước tạo cảnh quan sinh thái tự nhiên.
+sỏi màu trang trí : những viên đá nhỏ sặc sỡ lót đáy hồ cá sinh động.
+tượng tiểu cảnh : những bức tượng nhỏ trang trí sinh động trong hòn non bộ.
+bình tích trà : chiếc bình lớn giữ nước trà ấm nóng suốt cả ngày dài.
+chén uống trà : những chiếc tách nhỏ xinh thưởng thức hương vị trà thơm.
+khay mứt tết : chiếc hộp nhiều ngăn bày biện bánh kẹo ngày đầu năm mới.
+bao lì xì đỏ : chiếc phong bì nhỏ chứa tiền may mắn đầu năm mới.
+cành đào hồng : nhánh hoa tươi thắm mang không khí xuân ngập tràn ngôi nhà.
+cành mai vàng : sắc hoa rực rỡ biểu tượng tài lộc ngày tết miền Nam.
+bánh chưng vuông : chiếc bánh dẻo nhân đậu thịt gói lá dong truyền thống.
+dưa hành muối : món ăn kèm chống ngán chống ngấy trong mâm cỗ tết.
+thịt đông lạnh : món ăn truyền thống trong suốt mát lạnh ngày tết miền Bắc.
+giò thủ : món giò giòn sần sật đậm đà hương vị mâm cỗ ngày xuân.
+nem chua rán : món ăn vặt giòn rụm nóng hổi chấm tương ớt cay cay.
+chè kho : món chè truyền thống dẻo thơm hương vị đậu xanh ngọt ngào.
+mứt gừng : những miếng gừng cay ngọt ấm lòng ngày đầu năm se lạnh.
+mứt bí : món mứt trắng giòn ngọt lịm quen thuộc trên khay kẹo tết.
+hạt dưa đỏ : món hạt rang cắn lách tách vui tai trong câu chuyện đầu xuân.
+hạt hướng dương : hạt rang béo ngậy nhâm nhi trò chuyện cùng bạn bè người thân.
+hạt điều rang muối : hạt dinh dưỡng giòn rụm béo bùi đậm đà vị muối.
+hạt macca : nữ hoàng hạt khô với lớp vỏ cứng bọc nhân béo ngậy thơm ngon.
+hạt hạnh nhân : hạt dinh dưỡng tốt cho sức khỏe giòn tan thơm phức.
+hạt óc chó : loại hạt hình não bộ giàu dinh dưỡng bổ ích cho trí não.
+kẹo dẻo trái cây : những viên kẹo ngọt ngào dai giòn nhiều hương vị trái cây.
+kẹo sô-cô-la : viên kẹo ngọt đắng hòa quyện tan chảy trong vòm miệng.
+bánh quy bơ : những chiếc bánh nướng giòn rụm thơm nức mùi bơ sữa.
+bánh xốp kem : lớp bánh giòn xốp kẹp lớp nhân kem ngọt ngào bên trong.
+bánh gạo giòn : món bánh nướng phủ lớp mật ong ngọt dịu giòn tan.
+snack khoai tây : những lát khoai chiên mỏng giòn rụm đậm đà gia vị.
+bim bim ngô : món snack giòn tan hương vị bơ ngô thơm lừng tuổi thơ.
+kẹo mút : chiếc kẹo tròn trên que nhỏ ngọt ngào sắc màu rực rỡ.
+thạch rau câu : miếng thạch núng nính mát lạnh hương vị trái cây tự nhiên.
+kem que : chiếc kem đông lạnh ngọt ngào giải nhiệt mùa hè oi ả.
+kem ống : món kem mút dài mát lạnh gắn liền với tuổi học trò.
+sữa chua uống : thức uống men vi sinh tốt cho hệ tiêu hóa đường ruột.
+sữa tươi tiệt trùng : hộp sữa bò nguyên chất bổ dưỡng cho cơ thể khỏe mạnh.
+sữa đặc có đường : ống sữa ngọt lịm pha chế ly cà phê sữa đá thơm ngon.
+bơ thực vật : hộp sáp bơ vàng óng phết bánh mì ăn sáng nhanh gọn.
+mứt trái cây : lớp mứt ngọt ngào phết bánh mì sandwich buổi sáng.
+ngũ cốc dinh dưỡng : hỗn hợp các loại hạt và yến mạch cho bữa sáng khỏe mạnh.
+yến mạch cán vỡ : nguyên liệu nấu cháo dinh dưỡng tốt cho tim mạch.
+bột mì đa dụng : nguyên liệu chính làm ra muôn vàn loại bánh ngọt ngon.
+bột năng : loại bột tạo độ dẻo dai trong các món bánh bột lọc chè ngọt.
+bột chiên giòn : lớp áo vàng rụm cho các món gà rán hải sản chiên.
+bột gạo lứt : thức uống bổ dưỡng thanh lọc cơ thể từ hạt gạo lứt nguyên cám.
+bột đậu nành : thức uống thơm béo giàu protein từ hạt đậu lành nguyên chất.
+nước khoáng thiên nhiên : chai nước tinh khiết chứa nhiều khoáng chất tốt cho sức khỏe.
+nước tăng lực : lon nước sảng khoái bổ sung năng lượng tức thì cho cơ thể.
+nước soda : thức uống có gas sủi bọt sảng khoái giải khát mùa hè.
+nước cam ép : ly nước chứa đầy vitamin C tươi mát bổ dưỡng.
+sinh tố mãng cầu : thức uống béo ngọt chua nhẹ giải nhiệt ngày hè.
+sinh tố xoài : ly sinh tố vàng óng thơm lừng mùi xoài chín cây ngọt ngào.
+sinh tố dâu tây : thức uống chua ngọt màu hồng xinh xắn giàu chất chống oxy hóa.
+nước ép táo : ly nước trong vắt ngọt thanh tốt cho làn da và sức khỏe.
+nước ép cà rốt : thức uống cam rực rỡ giàu vitamin A tốt cho đôi mắt.
+nước ép củ dền : ly nước đỏ thắm bổ máu thanh lọc cơ thể tự nhiên.
+trà hoa cúc : tách trà vàng óng thanh tao dịu nhẹ giúp thư giãn tinh thần.
+trà atiso : thức uống mát gan thanh nhiệt từ thảo mộc thiên nhiên.
+trà xanh mật ong : chai trà thanh mát kết hợp vị ngọt dịu của mật ong rừng.
+trà ô long : hương vị trà đậm đà thanh tao hậu vị ngọt sâu lắng.
+trà đen : chén trà đậm vị kết hợp hoàn hảo cùng sữa tươi béo ngậy.
+trà lào : ấm trà mộc mạc đậm đà tình làng nghĩa xóm chốn thôn quê.
+cà phê đen đá : thức uống đậm đà tỉnh táo buổi sáng của người sành điệu.
+cà phê sữa nóng : ly cà phê đậm đà hòa quyện lớp sữa đặc ngọt ngào ấm áp.
+bạc xỉu : tầng sữa đặc và cà phê hòa quyện béo ngậy thơm lừng.
+cacao nóng : ly thức uống nâu ấm áp đậm vị sô-cô-la ngọt ngào ngày lạnh.
+sữa đậu nành nóng : ly sữa thơm béo nghi ngút khói buổi sáng sớm tinh mơ.
